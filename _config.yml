@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: [L. Guillermo Woo-Mora]
 description: [Welcome to my site!]
 show_downloads: false
+author_profile: false
