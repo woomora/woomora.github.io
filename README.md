@@ -6,7 +6,7 @@ Formerly, I studied my BA and MSc at [Centro de Invesitgación y Docencia Econó
 
 I am interested in the intersection of political economy, historical economics, and public economics. 
 I have worked on the persistent effects of colonial segregation, the racial income gap in Latin America, preferences for redistribution in Mexico, and the role of leaders during the Covid-19 pandemic.
-Here you can find my [CV](https://www.dropbox.com/home/Research?preview=Woo-Mora+CV.pdf).
+Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0).
 
 You can find me on Twitter [@billywoom](https://twitter.com/billywoom) and contact me at guillermo.woomora [at] psestudent.eu. 
 
