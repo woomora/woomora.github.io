@@ -1,8 +1,8 @@
 ## About me
 
-I will graduate this summer from the Analysis and Policy in Economics Masters program at [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/).
+I am an incoming PhD student at [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/).
 
-Formerly, I studied my BA and MSc at [Centro de Invesitgación y Docencia Económicas (CIDE)](https://www.cide.edu/de/) in Mexico.
+Formerly, I studied my BA and MSc at [Centro de Invesitgación y Docencia Económicas (CIDE)](https://www.cide.edu/de/) in Mexico, and the Analysis and Policy in Economics program master at [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/) in France.
 
 I am interested in the intersection of political economy, historical economics, and public economics. 
 I have worked on the persistent effects of colonial segregation, the racial income gap in Latin America, preferences for redistribution in Mexico, and the role of leaders during the Covid-19 pandemic.
