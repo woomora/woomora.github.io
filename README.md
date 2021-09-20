@@ -13,9 +13,9 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 
 ### Working Papers
 
-**[Unveiling the Cosmic Race: Racial Inequalities in Latin America]**(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741)
+**[Unveiling the Cosmic Race: Racial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741)**
 
-**[Moral Force: Leaders' Actions and Social Distancing]**(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980) *(with María Montoya-Aguirre and Federico Daverio-Occhini)*
+**[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980)** *(with María Montoya-Aguirre and Federico Daverio-Occhini)*
 
 ### Work in Progress
 
@@ -29,6 +29,6 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 
 ## Press
 
-**[Desenmascarar la Raza Cósmica]**(economia.nexos.com.mx/desenmascarar-la-raza-cosmica/). *Nexos*, Mexico.
+**[Desenmascarar la Raza Cósmica](economia.nexos.com.mx/desenmascarar-la-raza-cosmica/)**. *Nexos*, Mexico.
 
-**[Al otro lado del río]**(https://www.territorio.mx/al-otro-lado-del-rio/). *Territorio*, Mexico.
+**[Al otro lado del río](https://www.territorio.mx/al-otro-lado-del-rio/)**. *Territorio*, Mexico.
