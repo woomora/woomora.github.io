@@ -19,7 +19,7 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980)** *(with María Montoya-Aguirre and Federico Daverio-Occhini)*
 
-![](https://www.dropbox.com/s/qd992c5ba1ddsny/MF.png?dl=0)
+![](https://previews.dropbox.com/p/thumb/ABSl7EB_YqXoSZzLUqKTKdOV6frfVJguvfdcPDJVuOPhMMjX6tOTzOUuuI7afycAPbZJ0ntqR21F7EhK7w5P9lnzmsS5LA7dOz4QamlKT4PiilJjS7vfVHiZDsxvQ57_kSEMjCK86Ttnb6oOAQTetxBHzqSsJ3KjjbE2-H7N5YfDaWYKgpmfsj7HC9_coo-5A22wCMIHirac2F7CoLOg0NxoM6qnzXOF1p-N4JwRvPZOg2HDxb4ryqZRWslsY-px70UuMzvf5I54sJvVtTVaUfodVSDGgEzYrwYwETgy40-55Y60yva4xTE43HmgUaFbG7RS6Hb8IGBr32r2aq_bKcyU5h-l8emAP430VLip22n3jA/p.png?fv_content=true&size_mode=5)
 
 
 ### Work in Progress
