@@ -29,6 +29,6 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 
 ## Press
 
-**[Desenmascarar la Raza Cósmica](economia.nexos.com.mx/desenmascarar-la-raza-cosmica/)**. *Nexos*, Mexico.
+**[Desenmascarar la Raza Cósmica](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/)**. *Nexos*, Mexico.
 
 **[Al otro lado del río](https://www.territorio.mx/al-otro-lado-del-rio/)**. *Territorio*, Mexico.
