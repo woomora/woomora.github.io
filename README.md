@@ -14,9 +14,11 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 ### Working Papers
 
 **[Unveiling the Cosmic Race: Racial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741)**
+
 ![](https://www.dropbox.com/s/5z1s07dgof8uvfd/UCR.png?dl=0)
 
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980)** *(with María Montoya-Aguirre and Federico Daverio-Occhini)*
+
 ![](https://www.dropbox.com/s/qd992c5ba1ddsny/MF.png?dl=0)
 
 
