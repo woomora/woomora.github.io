@@ -9,6 +9,3 @@ I have worked on the persistent effects of colonial segregation, the racial inco
 
 Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0).
 
-You can find me on Twitter [@billywoom](https://twitter.com/billywoom) and contact me at guillermo.woomora [at] psestudent.eu. 
-
-![Profile Picutre](https://raw.githubusercontent.com/woomora/woomora.github.io/main/profile%20picture.jpg)
