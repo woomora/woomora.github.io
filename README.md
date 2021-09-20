@@ -7,7 +7,7 @@ Formerly, I studied my BA and MSc at [Centro de Invesitgación y Docencia Econó
 I am interested in the intersection of political economy, historical economics, and cultural economics. 
 I have worked on the persistent effects of colonial segregation, the racial income gap in Latin America, preferences for redistribution in Mexico, and the role of leaders during the Covid-19 pandemic.
 
-### [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0).
+Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0).
 
 ## Research
 
@@ -15,15 +15,17 @@ I have worked on the persistent effects of colonial segregation, the racial inco
 
 **[Unveiling the Cosmic Race: Racial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741)**
 
+!(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Casta_painting_all.jpg/1200px-Casta_painting_all.jpg)
+
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980)** *(with María Montoya-Aguirre and Federico Daverio-Occhini)*
 
 ### Work in Progress
 
-**On the Other Side of the River: The Persistent Effects of Colonial Ethnic-Racial Segregation on Economic Development**
+**On the Other Side of the River: The Persistent Effects of Colonial Ethnic-Racial Segregation on Contemporary Economic Development**
 
 **Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico** *(with Eva O. Arceo-Gómez and Hernán Bejarano)*
 
-**Infrastructures of Race? Colonial Zoning and Sorting in Mexican Cities** *(with Luis Baldomero-Quintana and Enrique de la Rosa-Ramos)*
+**Infrastructures of Race? Colonial Ethnic-Racial Zoning and Contemporary Sorting in Mexican Cities** *(with Luis Baldomero-Quintana and Enrique de la Rosa-Ramos)*
 
 **The Effects of Corruption in Funds for Infrastructure and Social Spending on Municipal Poverty** *(with María Montoya-Aguirre and Eduardo Ortiz-Juárez)*
 
