@@ -7,7 +7,7 @@ Formerly, I studied my BA and MSc at [Centro de Invesitgación y Docencia Econó
 I am interested in the intersection of political economy, historical economics, and cultural economics. 
 I have worked on the persistent effects of colonial segregation, the racial income gap in Latin America, preferences for redistribution in Mexico, and the role of leaders during the Covid-19 pandemic.
 
-Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0).
+### [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0).
 
 ## Research
 
@@ -30,5 +30,7 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 ## Press
 
 **[Desenmascarar la Raza Cósmica](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/)**. *Nexos*, Mexico.
+
+**[Fuerza moral. El ejemplo del presidente en el distanciamiento social](https://estepais.com/tendencias_y_opiniones/fuerza-moral-el-ejemplo-del-presidente-en-el-distanciamiento-social/)**. With María Montoya-Aguirre and Federico Daverio-Occhini. *Este País*, Mexico.
 
 **[Al otro lado del río](https://www.territorio.mx/al-otro-lado-del-rio/)**. *Territorio*, Mexico.
