@@ -15,7 +15,7 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 
 **[Unveiling the Cosmic Race: Racial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741)**
 
-![](https://www.dropbox.com/s/5z1s07dgof8uvfd/UCR.png?dl=0)
+![](https://previews.dropbox.com/p/thumb/ABSHE7HWm4COHdsHoxClKe_W3R6BEg2B2lnA--8OfcKQoG4CdpC67euiCHP_vLfgwqoi9B0eZI0myTkyejeM_gt_yEf0QpznJ5xH1CqSNtHT1hlYoMyiEAjtPd33cDY2rc7EtcMY-DoxHUnFG_GU0I2NHjnOCbrZjmG1vQyz_6EugrZvu3FlSVznMSyPvnI28Y5BzeLnX2_MnV2um2mVzZdiTXxzjhnbpOCsLpHpJ1LQS19E3hSsWHPwkqF4E2AMh20fMrJlnNh50mGBYyUYSRmcAxbs329NgO86Pp68flF54OG3QVsIlhU4Sa3uKZV6HXO45V57LFW0Zpq1xotoSmUD_gmwlRlkhas0SyWydhkjQQ/p.png?fv_content=true&size_mode=5)
 
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980)** *(with María Montoya-Aguirre and Federico Daverio-Occhini)*
 
