@@ -9,3 +9,9 @@ I have worked on the persistent effects of colonial segregation, the racial inco
 
 Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0).
 
+## Research
+
+### Working Papers
+
+
+### Work in Progress
