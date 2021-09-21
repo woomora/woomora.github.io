@@ -15,22 +15,32 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 
 **[Unveiling the Cosmic Race: Racial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741)**
 
-![Casta Paiting](https://previews.dropbox.com/p/thumb/ABSHE7HWm4COHdsHoxClKe_W3R6BEg2B2lnA--8OfcKQoG4CdpC67euiCHP_vLfgwqoi9B0eZI0myTkyejeM_gt_yEf0QpznJ5xH1CqSNtHT1hlYoMyiEAjtPd33cDY2rc7EtcMY-DoxHUnFG_GU0I2NHjnOCbrZjmG1vQyz_6EugrZvu3FlSVznMSyPvnI28Y5BzeLnX2_MnV2um2mVzZdiTXxzjhnbpOCsLpHpJ1LQS19E3hSsWHPwkqF4E2AMh20fMrJlnNh50mGBYyUYSRmcAxbs329NgO86Pp68flF54OG3QVsIlhU4Sa3uKZV6HXO45V57LFW0Zpq1xotoSmUD_gmwlRlkhas0SyWydhkjQQ/p.png?fv_content=true&size_mode=5)
+![Casta Paiting](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
 
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980)** *(with María Montoya-Aguirre and Federico Daverio-Occhini)*
 
-![Mexican President AMLO Dissobeying Social Distancing](https://previews.dropbox.com/p/thumb/ABSl7EB_YqXoSZzLUqKTKdOV6frfVJguvfdcPDJVuOPhMMjX6tOTzOUuuI7afycAPbZJ0ntqR21F7EhK7w5P9lnzmsS5LA7dOz4QamlKT4PiilJjS7vfVHiZDsxvQ57_kSEMjCK86Ttnb6oOAQTetxBHzqSsJ3KjjbE2-H7N5YfDaWYKgpmfsj7HC9_coo-5A22wCMIHirac2F7CoLOg0NxoM6qnzXOF1p-N4JwRvPZOg2HDxb4ryqZRWslsY-px70UuMzvf5I54sJvVtTVaUfodVSDGgEzYrwYwETgy40-55Y60yva4xTE43HmgUaFbG7RS6Hb8IGBr32r2aq_bKcyU5h-l8emAP430VLip22n3jA/p.png?fv_content=true&size_mode=5)
+![Mexican President AMLO Dissobeying Social Distancing](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
 
 
 ### Work in Progress
 
 **On the Other Side of the River: The Persistent Effects of Colonial Ethnic-Racial Segregation on Contemporary Economic Development**
 
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
+
 **Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico** *(with Eva O. Arceo-Gómez and Hernán Bejarano)*
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/PRLI.png)
 
 **Infrastructures of Race? Colonial Ethnic-Racial Zoning and Contemporary Sorting in Mexican Cities** *(with Luis Baldomero-Quintana and Enrique de la Rosa-Ramos)*
 
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
+
+
 **The Effects of Corruption in Funds for Infrastructure and Social Spending on Municipal Poverty** *(with María Montoya-Aguirre and Eduardo Ortiz-Juárez)*
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/poverty_corruption.png)
+
 
 ## Press
 
