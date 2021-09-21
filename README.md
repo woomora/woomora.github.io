@@ -30,7 +30,7 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 
 **Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico** *(with Eva O. Arceo-Gómez and Hernán Bejarano)*
 
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/PRLI.png)
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/PFRLI.png)
 
 **Infrastructures of Race? Colonial Ethnic-Racial Zoning and Contemporary Sorting in Mexican Cities** *(with Luis Baldomero-Quintana and Enrique de la Rosa-Ramos)*
 
