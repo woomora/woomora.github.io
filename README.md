@@ -42,6 +42,11 @@ Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20C
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/poverty_corruption.png)
 
 
+## Conferences and Presentations
+
+- 2021 The Public and Democracy in the Americas. LAPOP Lab at Vanderbilt University and ITAM. Poster session. [Poster](https://www.dropbox.com/s/kbvk9egjioaixgu/Unveiling%20the%20Cosmic%20Race%20Racial%20Inequalities%20in%20Latin%20America.pdf?dl=0).
+- 2021 World Inequality Conference. PSE. 
+
 ## Press
 
 **[Desenmascarar la Raza Cósmica](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/)**. *Nexos*, Mexico.
