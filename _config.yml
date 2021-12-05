@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: L. Guillermo Woo Mora
-description: Hi! Thanks for visiting my webpage
+description: 
 plugins:
   - jekyll-multiple-languages-plugin
 show_downloads: false
