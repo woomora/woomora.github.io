@@ -1,5 +1,7 @@
 ---
 layout: page
-title: "About"
-permalink: https://woomora.github.io/about
+title: About
+permalink: /about/
 ---
+
+## About
