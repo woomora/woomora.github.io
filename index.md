@@ -1,3 +1,10 @@
+---
+title: About
+layout: template
+filename: index.md
+--- 
+
+
 ## About me
 
 I am an Economics PhD student at [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/).
