@@ -1,5 +1,5 @@
 ---
-title: Research
+title: 2. Research
 layout: template
 filename: 2research
 --- 
