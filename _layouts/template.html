@@ -50,7 +50,7 @@
       <ul>
         {% assign sorted_pages = site.pages | sort:"order" %}
           {% for node in sorted_pages %}
-          <a href="{{node.url}}">{{node.title}}</a>
+          <li><a class="{% if page.url == node.link %}active{% endif %}" href="{{node.link}}">{{node.title}}</a></li>
         {% endfor %}
       </ul>
     </nav>  
