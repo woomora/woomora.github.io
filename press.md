@@ -2,11 +2,12 @@
 title: In Press
 layout: template
 filename: 4press
-order: 4
+order: 3
 --- 
 
 # In Press (English)
 
+**[Unveiling the Cosmic Race: Racial Inequalities in Latin America]**. *5 papers...in 5 minutes!*, France.
 
 # En prensa (Español)
 
