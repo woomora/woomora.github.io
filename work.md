@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: template
-filename: work.md
+filename: work
 --- 
 
 # Research
