@@ -2,7 +2,7 @@
 title: Research
 layout: template
 filename: research
-order: 2
+order: 1
 --- 
 
 # Research
