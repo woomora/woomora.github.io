@@ -1,5 +1,5 @@
 ---
-title: 1. About
+title: About
 layout: template
 filename: index
 --- 
