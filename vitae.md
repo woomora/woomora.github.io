@@ -2,6 +2,7 @@
 title: Vitae
 layout: template
 filename: 3vitae
+order = 3
 --- 
 
 # CV
