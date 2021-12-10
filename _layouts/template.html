@@ -20,7 +20,17 @@
         <img src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/profile_picture.jpg">
 
         <p><a href="https://www.parisschoolofeconomics.eu/fr/woo-mora-guillermo/" target="https://www.parisschoolofeconomics.eu/fr/woo-mora-guillermo/">Economics PhD student at  Paris School of Economics (PSE)</a></p>
-         
+        
+        
+        <nav class="menu">
+          
+        {% for page in site.pages %}
+           <a href={{ page.filename }}>{{ page.title }}</a>
+        {% endfor %}
+    
+        </nav>
+        
+        
         <br>
         <small>guillermo.woomora [at] psestudent.eu</small>
         <br>
@@ -42,14 +52,6 @@
         </ul>
         {% endif %}
       </header>
-      
-      <nav class="menu">
-          
-        {% for page in site.pages %}
-           <a href={{ page.filename }}>{{ page.title }}</a>
-        {% endfor %}
-    
-      </nav>
       
       <section>
        
