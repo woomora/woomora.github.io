@@ -1,7 +1,7 @@
 ---
 title: About
 layout: template
-filename: 1_index
+filename: index
 --- 
 
 
