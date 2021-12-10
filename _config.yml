@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: L. Guillermo Woo Mora
 description: 
+markdown: kramdown
 plugins:
   - jekyll-multiple-languages-plugin
 show_downloads: false
