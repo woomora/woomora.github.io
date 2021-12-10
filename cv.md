@@ -1,7 +1,7 @@
 ---
 title: CV
 layout: template
-filename: 2_cv
+filename: cv
 --- 
 
 # CV
