@@ -50,7 +50,7 @@
       <ul>
         {% assign sorted_pages = site.pages | sort:"order" %}
           {% for node in sorted_pages %}
-          <li><a class="{% if page.url == node.link %}active{% endif %}" href="{{node.link}}">{{node.title}}</a></li>
+          <li><a class="{% if page.url == node.url %}active{% endif %}" href="{{node.url}}">{{node.title}}</a></li>
         {% endfor %}
       </ul>
     </nav>  
@@ -67,7 +67,6 @@
       }
       nav ul li a {
         text-decoration: none;
-        color: green;
       }
       nav ul li a:hover {
         text-decoration: underline;
