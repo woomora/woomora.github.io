@@ -6,6 +6,6 @@ filename: vitae
 
 # CV
 
-Here you can find my [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0) in English.
+Here you can find my [CV](https://github.com/woomora/woomora.github.io/raw/main/documents/Woo-Mora%20CV.pdf) in English.
 
-Aquí encuentras mi [CV](https://www.dropbox.com/s/993p8rkj2pdeid8/Woo-Mora%20CV.pdf?dl=0) en Español.
+Aquí encuentras mi [CV](https://github.com/woomora/woomora.github.io/raw/main/documents/Woo-Mora%20CV%20(es).pdf) en Español.
