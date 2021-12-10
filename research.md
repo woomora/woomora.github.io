@@ -1,7 +1,8 @@
 ---
 title: Research
 layout: template
-filename: 2research
+filename: research
+order = 2
 --- 
 
 # Research
