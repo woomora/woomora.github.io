@@ -7,7 +7,7 @@ order: 3
 
 # In Press (English)
 
-**[Unveiling the Cosmic Race: Racial Inequalities in Latin America](){:target="_blank"}**. *5 papers...in 5 minutes!*, France.
+**[Unveiling the Cosmic Race: Racial Inequalities in Latin America](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}**. *5 papers...in 5 minutes!*, France.
 
 # En prensa (Español)
 
