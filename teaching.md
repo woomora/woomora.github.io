@@ -5,4 +5,4 @@ filename: 5teaching
 order: 4
 --- 
 
-# Teaching
+# :man_teacher: Teaching
