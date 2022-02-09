@@ -5,8 +5,7 @@ filename: index
 order: 0
 --- 
 
-
-## About me
+## :wave: About me
 
 I am an Economics PhD student at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"}, working under the supervision of [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}.
 
@@ -16,7 +15,7 @@ My research interests lie in the intersection of political economy, historical e
 I am currently working on the persistent effects of colonial segregation in Mexico, racial inequalities and discrimination in Latin America, preferences for redistribution, and the role of political and social leaders on people's welfare. 
 
 
-## Sobre mí
+## :wave: Sobre mí
 
 Soy estudiante del Doctorado en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"}, bajo la supervisión de [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}.
 
