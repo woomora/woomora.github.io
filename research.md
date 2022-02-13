@@ -18,6 +18,13 @@ order: 1
 [PSE Working Paper](https://dumas.ccsd.cnrs.fr/dumas-03461224/document){:target="_blank"}
 
 
+**Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation**(https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=2947&amp;context=aspubs) *(with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"})*
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
+
+  > We study the impacts of a colonial segregation policy on the contemporary outcomes of Mexican cities. After the conquest of Mesoamerica, Spaniards aimed to segregate natives in settlements called *pueblos de indios*. By the end of colonial times, there were two types of settlements: pueblos with only-indigenous inhabitants, and pueblos with diverse-ancestry population. The pueblos generated modern population agglomerations within cities. To estimate the impacts of the successfully segregated pueblos on the urban blocks of modern Mexican cities, we combine an instrumental variable design with a novel spatial first differences approach to address selection and spatially correlated unobserved heterogeneity. We find that urban blocks closer to segregated pueblos have lower levels of human capital relative to blocks closer to pueblos with multi-ancestry individuals. The segregated pueblos do not lead to modern agglomerations of the indigenous population. We document that mixed-race individuals with darker skin tones agglomerate around pueblos that successfully segregated natives. Moreover, the results show that the impacts of spatial segregation policies during colonial Mexico have been transmitted over centuries from indigenous to multiracial individuals through the urban space.
+
+
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *(with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"})*
 
 ![Mexican President AMLO Dissobeying Social Distancing](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
@@ -33,11 +40,6 @@ order: 1
 
   > Draft comming soon!
 
-**Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation** *(with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"})*
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
-
-  > Draft comming soon!
 
 **Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico** *(with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"})*
 
