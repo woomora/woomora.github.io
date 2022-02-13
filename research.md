@@ -18,7 +18,7 @@ order: 1
 [PSE Working Paper](https://dumas.ccsd.cnrs.fr/dumas-03461224/document){:target="_blank"}
 
 
-**[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation]**(https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=2947&amp;context=aspubs) *(with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"})*
+**[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=2947&amp;context=aspubs){:target="_blank"}** *(with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"})*
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
