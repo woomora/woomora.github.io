@@ -5,8 +5,6 @@ filename: research
 order: 1
 --- 
 
-# :mag: 
-
 # Research
 
 ## Working Papers
