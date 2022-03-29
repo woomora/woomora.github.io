@@ -5,17 +5,18 @@ filename: research
 order: 1
 --- 
 
-# :mag: Research
+# :mag: 
+
+# Research
 
 ## Working Papers
 
-**[Unveiling the Cosmic Race: Racial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**
+**[Unveiling the Cosmic Race: Racial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}** [WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"}
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
 
   > This paper uses skin tone and income information for 100 thousand individuals across 31 countries during the last decade to study the skin tone premium and its welfare consequences in Latin America. Firstly, I estimate the welfare consequences of racial inequality: subnational regions with higher income inequality between racial groups correlate with worse economic development. Then, I provide evidence of a skin tone premium in the region: every darker skin tone has 3 percent less income per capita out of an eleven-color palette. Results suggest that the main mechanism is racial discrimination, with relevant heterogeneity between countries..
 
-[PSE Working Paper](https://dumas.ccsd.cnrs.fr/dumas-03461224/document){:target="_blank"}
 
 
 **[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=2947&amp;context=aspubs){:target="_blank"}** *(with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"})*
