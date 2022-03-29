@@ -1,5 +1,5 @@
 ---
-title: In Press
+title: Press
 layout: template
 filename: 4press
 order: 3
