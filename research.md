@@ -15,15 +15,18 @@ order: 1
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
 
-  > This paper uses skin tone and income information for 100 thousand individuals across 31 countries during the last decade to study the skin tone premium and its welfare consequences in Latin America. Firstly, I estimate the welfare consequences of racial inequality: subnational regions with higher income inequality between racial groups correlate with worse economic development. Then, I provide evidence of a skin tone premium in the region: every darker skin tone has 3 percent less income per capita out of an eleven-color palette. Results suggest that the main mechanism is racial discrimination, with relevant heterogeneity between countries..
+  > I use data on skin tone, ethnoracial identities, and income to study Latin America’s ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. Subnational regions with higher income inequality between racial groups have worse economic development.
 
 
 
-**[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation](https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=2947&amp;context=aspubs){:target="_blank"}** *(with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"})*
+**[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *(with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"})*
+
+**Sir Alec Cairncross Prize Runner Up - Scotish Econometric Society 2022** 
+**Arthur H. Cole Grant of the Economic History Association**
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
-  > We study the impacts of a colonial segregation policy on the contemporary outcomes of Mexican cities. After the conquest of Mesoamerica, Spaniards aimed to segregate natives in settlements called *pueblos de indios*. By the end of colonial times, there were two types of settlements: pueblos with only-indigenous inhabitants, and pueblos with diverse-ancestry population. The pueblos generated modern population agglomerations within cities. To estimate the impacts of the successfully segregated pueblos on the urban blocks of modern Mexican cities, we combine an instrumental variable design with a novel spatial first differences approach to address selection and spatially correlated unobserved heterogeneity. We find that urban blocks closer to segregated pueblos have lower levels of human capital relative to blocks closer to pueblos with multi-ancestry individuals. The segregated pueblos do not lead to modern agglomerations of the indigenous population. We document that mixed-race individuals with darker skin tones agglomerate around pueblos that successfully segregated natives. Moreover, the results show that the impacts of spatial segregation policies during colonial Mexico have been transmitted over centuries from indigenous to multiracial individuals through the urban space.
+  > We study the persistent and adverse effects of colonial ethno-racial segregation on modern urban sorting patterns. After the conquest of Mesoamerica, Spaniards segregated natives into settlements called Pueblos de Indios. By the end of colonial times, there were two types of settlements: Pueblos with Indigenous inhabitants only and Pueblos with populations of diverse ancestry. We estimate the causal impacts of Pueblos and the degree of success in the segregation policy on modern outcomes within cities. We combine a research design that purges unobserved spatial heterogeneity with a novel instrumental variable to deal with endogeneity. We show that urban areas closer to segregated Pueblos have lower levels of human capital relative to blocks near Pueblos with multi-ancestry individuals. While segregated Pueblos do not lead to modern agglomerations of Indigenous or Afro-Mexican individuals, mixed-race individuals with darker skin tones gather around former Pueblos where segregation was successful. We also find that individuals living nearby such areas have lower intergenerational mobility. We conclude that colonial segregation shifts from a targeted ethno-racial group to individuals who currently have markers of low socioeconomic status or specific phenotypes in Mexico.
 
 
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *(with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"})*
@@ -35,18 +38,25 @@ order: 1
 
 ## Work in Progress
 
-**On the Other Side of the River: The Persistence of Ethno-Racial Colonial Segregation on Within Sorting Patterns**
+**[On the Other Side of the River: The Persistence of Ethno-Racial Colonial Segregation on Within Sorting Patterns]**
+
+**Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021**
+**Best Graduate Thesis in Applied Economics – CIDE 2020**
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
 
   > Draft comming soon!
 
 
-**Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico** *(with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"})*
+**[Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico]** *(with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"})*
+
+**First Place Undergraduate Thesis – Citibanamex Economics Prize 2019**
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/PFRLI.png)
 
 
-**The Effects of Corruption in Funds for Infrastructure and Social Spending on Municipal Poverty** *(with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Eduardo Ortiz-Juárez](https://www.eduardoortizj.com/){:target="_blank"})*
+**[The Effects of Corruption in Funds for Infrastructure and Social Spending on Municipal Poverty]** *(with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Eduardo Ortiz-Juárez](https://www.eduardoortizj.com/){:target="_blank"})*
+
+**First Place – Mexico’s National Prize of Public Finance 2020**
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/poverty_corruption.png)
