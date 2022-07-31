@@ -19,17 +19,19 @@ order: 1
 
 
 
-**[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *(with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"})*
+**[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** 
+*with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*
 
-**Sir Alec Cairncross Prize Runner Up - Scotish Econometric Society 2022** 
-**Arthur H. Cole Grant of the Economic History Association**
+*Sir Alec Cairncross Prize Runner Up - Scotish Econometric Society 2022* 
+*Arthur H. Cole Grant of the Economic History Association*
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
   > We study the persistent and adverse effects of colonial ethno-racial segregation on modern urban sorting patterns. After the conquest of Mesoamerica, Spaniards segregated natives into settlements called Pueblos de Indios. By the end of colonial times, there were two types of settlements: Pueblos with Indigenous inhabitants only and Pueblos with populations of diverse ancestry. We estimate the causal impacts of Pueblos and the degree of success in the segregation policy on modern outcomes within cities. We combine a research design that purges unobserved spatial heterogeneity with a novel instrumental variable to deal with endogeneity. We show that urban areas closer to segregated Pueblos have lower levels of human capital relative to blocks near Pueblos with multi-ancestry individuals. While segregated Pueblos do not lead to modern agglomerations of Indigenous or Afro-Mexican individuals, mixed-race individuals with darker skin tones gather around former Pueblos where segregation was successful. We also find that individuals living nearby such areas have lower intergenerational mobility. We conclude that colonial segregation shifts from a targeted ethno-racial group to individuals who currently have markers of low socioeconomic status or specific phenotypes in Mexico.
 
 
-**[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *(with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"})*
+**[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** 
+*with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"}*
 
 ![Mexican President AMLO Dissobeying Social Distancing](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
 
@@ -38,25 +40,27 @@ order: 1
 
 ## Work in Progress
 
-**[On the Other Side of the River: The Persistence of Ethno-Racial Colonial Segregation on Within Sorting Patterns]**
+**[On the Other Side of the River: The Persistence of Ethno-Racial Colonial Segregation on Within Sorting Patterns]()**
 
-**Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021**
-**Best Graduate Thesis in Applied Economics – CIDE 2020**
+*Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*
+*Best Graduate Thesis in Applied Economics – CIDE 2020*
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
 
   > Draft comming soon!
 
 
-**[Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico]** *(with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"})*
+**[Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico]()** 
+*with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
 
-**First Place Undergraduate Thesis – Citibanamex Economics Prize 2019**
+*First Place Undergraduate Thesis – Citibanamex Economics Prize 2019*
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/PFRLI.png)
 
 
-**[The Effects of Corruption in Funds for Infrastructure and Social Spending on Municipal Poverty]** *(with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Eduardo Ortiz-Juárez](https://www.eduardoortizj.com/){:target="_blank"})*
+**[The Effects of Corruption in Funds for Infrastructure and Social Spending on Municipal Poverty]()** 
+*with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Eduardo Ortiz-Juárez](https://www.eduardoortizj.com/){:target="_blank"}*
 
-**First Place – Mexico’s National Prize of Public Finance 2020**
+*First Place – Mexico’s National Prize of Public Finance 2020*
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/poverty_corruption.png)
