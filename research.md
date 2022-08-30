@@ -21,7 +21,7 @@ order: 1
 **[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}**  
 *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*
 
-*Sir Alec Cairncross Prize Runner Up - Scotish Econometric Society 2022*  
+*Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
 *Arthur H. Cole Grant of the Economic History Association*   
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
