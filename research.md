@@ -38,7 +38,7 @@ order: 1
 
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  
 *with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"}*
-[UNDP LAC Working Paper]([https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/](https://www-dev.undp.org/latin-america/publications/moral-force-leaders%E2%80%99-actions-and-social-distancing)){:target="_blank"}
+[UNDP LAC Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/](https://www-dev.undp.org/latin-america/publications/moral-force-leaders%E2%80%99-actions-and-social-distancing){:target="_blank"}
 
 ![Mexican President AMLO Dissobeying Social Distancing](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
 
