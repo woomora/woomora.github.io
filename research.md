@@ -9,15 +9,14 @@ order: 1
 
 ## Working Papers
 
-**[Unveiling the Cosmic Race: Skin Tone and Ethnoracial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**  *Submitted* 
-
+**[Unveiling the Cosmic Race: Skin Tone and Ethnoracial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.  *Submitted*.
 [WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} 
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
 
   > I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
 
-Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}*, *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}*, **[*Nexos*](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}**. 
+Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
 
@@ -30,7 +29,9 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
   > We study the persistent and adverse effects of colonial ethno-racial segregation on modern urban sorting patterns. After the conquest of Mesoamerica, Spaniards segregated natives into settlements called Pueblos de Indios. By the end of colonial times, there were two types of settlements: Pueblos with Indigenous inhabitants only and Pueblos with populations of diverse ancestry. We estimate the causal impacts of Pueblos and the degree of success in the segregation policy on modern outcomes within cities. We combine a research design that purges unobserved spatial heterogeneity with a novel instrumental variable to deal with endogeneity. We show that urban areas closer to segregated Pueblos have lower levels of human capital relative to blocks near Pueblos with multi-ancestry individuals. While segregated Pueblos do not lead to modern agglomerations of Indigenous or Afro-Mexican individuals, mixed-race individuals with darker skin tones gather around former Pueblos where segregation was successful. We also find that individuals living nearby such areas have lower intergenerational mobility. We conclude that colonial segregation shifts from a targeted ethno-racial group to individuals who currently have markers of low socioeconomic status or specific phenotypes in Mexico.
+ 
 
+---
 
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  
 *with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"}*
@@ -40,6 +41,9 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
   > In the context of the COVID-19 pandemic, leaders' actions can influence whether individuals stay at home or ignore social distancing orders. Mexican president López Obrador held public events in different states of the country during the health emergency. This paper studies whether his example of contravening social distancing recommendations increases mobility rates. Using mobility data from UNDP-GRANDATA and a generalized event study design, we find that AMLO's public appearances increased mobility rates in the municipalities of the states he visited in the days following the events. Furthermore, using electoral data from the 2018 presidential election, we also find that mobility rates increase in municipalities where his political support is high after the president's events. We find that media coverage is the primary mechanism driving our results. Lastly, in the pandemic's advanced stages, the president's example does not affect mobility. The results suggest that leaders' actions are relevant to influence decisions when individuals have limited information.
 
+Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral-el-ejemplo-del-presidente-en-el-distanciamiento-social/){:target="_blank"}* (es). 
+
+---
 
 ## Work in Progress
 
@@ -52,6 +56,10 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
   > Draft comming soon!
 
+Coverage: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es).
+
+
+---
 
 **[Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico]()**   
 *with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
@@ -60,6 +68,7 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/PFRLI.png)
 
+---
 
 **[The Effects of Corruption in Funds for Infrastructure and Social Spending on Municipal Poverty]()**   
 *with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Eduardo Ortiz-Juárez](https://www.eduardoortizj.com/){:target="_blank"}*
