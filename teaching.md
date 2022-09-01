@@ -1,8 +1,8 @@
 ---
 title: Teaching
 layout: template
-filename: 3teaching
-order: 4
+filename: teaching
+order: 2
 --- 
 
 # Teaching
