@@ -9,7 +9,7 @@ order: 1
 
 ## Working Papers
 
-**[Unveiling the Cosmic Race: Skin Tone and Ethnoracial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.  *Submitted*.
+**[Unveiling the Cosmic Race: Skin Tone and Ethnoracial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.  *Submitted*.   
 [WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} 
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
@@ -21,7 +21,7 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 ---
 
 **[Infrastructures of Race? Colonial Indigenous Zoning and Contemporaneous Urban Segregation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}**  
-*with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*. *Submitted*.
+*with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*. *Submitted*.  
 
 *Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
 *Arthur H. Cole Grant of the Economic History Association*   
@@ -34,7 +34,7 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 ---
 
 **[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  
-*with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"}*
+*with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"}*.  
 [UNDP LAC Working Paper](https://www-dev.undp.org/latin-america/publications/moral-force-leaders%E2%80%99-actions-and-social-distancing){:target="_blank"}
 
 ![Mexican President AMLO Dissobeying Social Distancing](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
