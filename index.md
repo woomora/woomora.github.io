@@ -7,7 +7,7 @@ order: 0
 
 ## About me
 
-I am an Economics PhD student at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"}, working under the supervision of [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}.
+I am an Economics PhD candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"}, working under the supervision of [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}.
 
 Formerly, I studied my BA and MSc at [Centro de Invesitgación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} in Mexico, and the Analysis and Policy in Economics program master at [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} in France.
 
