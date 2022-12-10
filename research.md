@@ -45,6 +45,16 @@ Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral
 
 ---
 
+**[Populism’s original sin: Economic and distributional consequences of populist policy in Mexico](https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf){:target="_blank"}**  
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/sc.png)
+
+  > This paper analyses the consequences of a populist policy in Mexico. As president-elect, López Obrador held an unoﬀicial referendum with less than 1% turnout to halt MexicoCity’s New International Airport (NAIM) construction. I use synthetic control to show apopulist penalty on GDP minus 3% one year after the cancellation, before Covid-19. I provideprediction bounds for the periods after Covid-19 and show the heterogeneous regional effects.The fall in consumption and investment explains the effect. I also show that from 2018 to2021, GDP per capita has fallen by 10%. Income data suggest that most households areaffected, while there is no effect for the wealthiest. The abuse of public power to legitimizepopulists socializes economic losses.
+
+Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
+
+---
+
 ## Work in Progress
 
 **[On the Other Side of the River: The Persistence of Ethno-Racial Colonial Segregation on Within Sorting Patterns]()**  
