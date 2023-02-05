@@ -26,5 +26,5 @@ Previamente estudié mi licenciatura y maestría en el [Centro de Invesitgación
 Mis intereses de investigación están en los campos de economía política, economía histórica y economía cultural. 
 Actualmente investigo sobre los efectos persistentes de la segregación colonial en México, desigualdad racial y discriminación en América Latina, preferencias por redistribución, y el papel de líderes políticos y sociales en el bienestar de las personas.
 
-Aquí encuentras mi [CV](https://woomora.github.io/Woo-Mora-CV-es.pdf){:target="_blank"} en Español.
+Aquí encuentras mi [CV](https://woomora.github.io/Woo-Mora-CV-es.pdf) en Español.
 
