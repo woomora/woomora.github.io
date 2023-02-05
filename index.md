@@ -14,7 +14,7 @@ Formerly, I studied my BA and MSc at [Centro de Invesitgación y Docencia Econó
 My research interests lie in the intersection of political economy, historical economics, and cultural economics. 
 I am currently working on the persistent effects of colonial segregation in Mexico, racial inequalities and discrimination in Latin America, preferences for redistribution, and the role of political and social leaders on people's welfare. 
 
-Here you can find my [CV](https://woomora.github.io/Woo-Mora-CV-en.pdf).
+Here you can find my [CV](https://woomora.github.io/Woo-Mora-CV-en.pdf){:target="_blank"}.
 
 
 ## Sobre mí
@@ -26,5 +26,5 @@ Previamente estudié mi licenciatura y maestría en el [Centro de Invesitgación
 Mis intereses de investigación están en los campos de economía política, economía histórica y economía cultural. 
 Actualmente investigo sobre los efectos persistentes de la segregación colonial en México, desigualdad racial y discriminación en América Latina, preferencias por redistribución, y el papel de líderes políticos y sociales en el bienestar de las personas.
 
-Aquí encuentras mi [CV](https://woomora.github.io/Woo-Mora-CV-es.pdf) en Español.
+Aquí encuentras mi [CV](https://woomora.github.io/Woo-Mora-CV-es.pdf){:target="_blank"} en Español.
 
