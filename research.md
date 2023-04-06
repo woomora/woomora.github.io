@@ -39,7 +39,13 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
 ![Mexican President AMLO Dissobeying Social Distancing](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
 
-  > In the context of the COVID-19 pandemic, leaders' actions can influence whether individuals stay at home or ignore social distancing orders. Mexican president López Obrador held public events in different states of the country during the health emergency. This paper studies whether his example of contravening social distancing recommendations increases mobility rates. Using mobility data from UNDP-GRANDATA and a generalized event study design, we find that AMLO's public appearances increased mobility rates in the municipalities of the states he visited in the days following the events. Furthermore, using electoral data from the 2018 presidential election, we also find that mobility rates increase in municipalities where his political support is high after the president's events. We find that media coverage is the primary mechanism driving our results. Lastly, in the pandemic's advanced stages, the president's example does not affect mobility. The results suggest that leaders' actions are relevant to influence decisions when individuals have limited information.
+<details open></summary>Abstract</summary>
+
+> In the context of the COVID-19 pandemic, leaders' actions can influence whether individuals stay at home or ignore social distancing orders. Mexican president López Obrador held public events in different states of the country during the health emergency. This paper studies whether his example of contravening social distancing recommendations increases mobility rates. Using mobility data from UNDP-GRANDATA and a generalized event study design, we find that AMLO's public appearances increased mobility rates in the municipalities of the states he visited in the days following the events. Furthermore, using electoral data from the 2018 presidential election, we also find that mobility rates increase in municipalities where his political support is high after the president's events. We find that media coverage is the primary mechanism driving our results. Lastly, in the pandemic's advanced stages, the president's example does not affect mobility. The results suggest that leaders' actions are relevant to influence decisions when individuals have limited information.
+
+</details>
+
+  
 
 Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral-el-ejemplo-del-presidente-en-el-distanciamiento-social/){:target="_blank"}* (es). 
 
