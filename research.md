@@ -17,9 +17,9 @@ order: 1
 <details>
   <summary> Abstract </summary>
   
-  > I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
+ I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
 
-</details>
+</details>. 
   
 Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
@@ -33,8 +33,13 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
-  > We study the impacts of a colonial segregation policy on modern-day spatial population patterns and residential sorting by human capital in Mexican cities. After the Conquest, the Spanish aimed to segregate Indigenous individuals into settlements called Pueblos de Indios. While the segregation policy lasted until the end of the colonial era, we use present-day census data at the block level on population, schooling and access to medical services to understand the persistent effects of pueblos on within-city structure. First, we document a spatial non-monotonic correlation between the location of the pueblos and population deagglomerations. Second, we study the causal impact of the pueblos on sorting by human capital by exploiting quasi-experimental variation created by pueblos’ catchment area defined by colonial laws. Using a Regression Discontinuity Design, we find a slight increase in the blocks’ share of households lacking access to medical services near the boundary of all pueblos. We further exploit the degree of success of the policy: it effectively isolated the Indigenous population only in a fraction of the settlements. We show that blocks near to the pueblos where the segregation policy was successful experience discontinuities on the blocks’ measures of schooling of minus 0.38 years and the blocks’ share of individuals with no access to medical services of 2.2 percentage points. Worse urban amenities and lower land prices explain our results. Our findings show that colonial segregation institutions have persistent impacts for centuries on urban sorting, even when the originally targeted group becomes a very small share of the modern-day population.
+<details>
+  <summary> Abstract </summary>
+  
+ We study the impacts of a colonial segregation policy on modern-day spatial population patterns and residential sorting by human capital in Mexican cities. After the Conquest, the Spanish aimed to segregate Indigenous individuals into settlements called Pueblos de Indios. While the segregation policy lasted until the end of the colonial era, we use present-day census data at the block level on population, schooling and access to medical services to understand the persistent effects of pueblos on within-city structure. First, we document a spatial non-monotonic correlation between the location of the pueblos and population deagglomerations. Second, we study the causal impact of the pueblos on sorting by human capital by exploiting quasi-experimental variation created by pueblos’ catchment area defined by colonial laws. Using a Regression Discontinuity Design, we find a slight increase in the blocks’ share of households lacking access to medical services near the boundary of all pueblos. We further exploit the degree of success of the policy: it effectively isolated the Indigenous population only in a fraction of the settlements. We show that blocks near to the pueblos where the segregation policy was successful experience discontinuities on the blocks’ measures of schooling of minus 0.38 years and the blocks’ share of individuals with no access to medical services of 2.2 percentage points. Worse urban amenities and lower land prices explain our results. Our findings show that colonial segregation institutions have persistent impacts for centuries on urban sorting, even when the originally targeted group becomes a very small share of the modern-day population.
  
+ </details>
+
 
 ---
 
@@ -45,13 +50,12 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 ![Mexican President AMLO Dissobeying Social Distancing](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
 
 <details>
-<summary>Abstract</summary>
+  <summary> Abstract </summary>
 
 > In the context of the COVID-19 pandemic, leaders' actions can influence whether individuals stay at home or ignore social distancing orders. Mexican president López Obrador held public events in different states of the country during the health emergency. This paper studies whether his example of contravening social distancing recommendations increases mobility rates. Using mobility data from UNDP-GRANDATA and a generalized event study design, we find that AMLO's public appearances increased mobility rates in the municipalities of the states he visited in the days following the events. Furthermore, using electoral data from the 2018 presidential election, we also find that mobility rates increase in municipalities where his political support is high after the president's events. We find that media coverage is the primary mechanism driving our results. Lastly, in the pandemic's advanced stages, the president's example does not affect mobility. The results suggest that leaders' actions are relevant to influence decisions when individuals have limited information.
 
 </details>
 
-  
 
 Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral-el-ejemplo-del-presidente-en-el-distanciamiento-social/){:target="_blank"}* (es). 
 
