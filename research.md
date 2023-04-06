@@ -14,8 +14,13 @@ order: 1
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
 
+<details>
+  <summary> Abstract </summary>
+  
   > I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
 
+</details>
+  
 Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
