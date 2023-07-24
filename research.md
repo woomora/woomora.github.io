@@ -26,7 +26,7 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 ---
 
 **[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Urban Sorting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}**  
-*with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*. *Submitted*.  
+*with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*. *R&R Regional Science and Urban Economics*.  
 
 *Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
 *Arthur H. Cole Grant of the Economic History Association*   
