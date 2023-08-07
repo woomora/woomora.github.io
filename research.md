@@ -78,23 +78,6 @@ Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencia
 
 ## Work in Progress
 
-**[Skin Tone Penalties: Bottom-up Discrimination in Football]()**  
-*with [Donia Kamel](https://www.parisschoolofeconomics.eu/fr/kamel-donia/){:target="_blank"}*
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/penalties.jpeg)
-
-<details>
-  <summary> Abstract </summary>  
-  
-This paper investigates colorism, racial discrimination based on skin color, in men's football. Firstly, using machine learning algorithms, we extract players' skin tones from online headshots to examine their impact on fan-based ratings and valuations. We find evidence of a skin tone penalty, where darker-skinned players face lower fan-driven market values and ratings. Secondly, using algorithm-based ratings and employing a Difference-in-Discontinuities design with geolocated penalty kicks data, we show that lighter-skinned players enjoy a premium higher by one standard deviation than their darker-skinned peers, conditional on scoring a penalty. 
-Additionally, we find evidence that non-native players with dark skin face a double penalty. 
-Leveraging the COVID-19 pandemic as a natural experiment, we highlight the role of fans' stadium attendance in algorithm-based results. 
-The findings underscore direct skin tone discrimination in football and highlight fans' role in perpetuating algorithmic bias.
-
-</details>   
-
----
-
 **[On the Other Side of the River: The Persistence of Ethno-Racial Colonial Segregation on Within Sorting Patterns]()**  
 
 *Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  
