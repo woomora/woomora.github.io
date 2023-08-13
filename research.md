@@ -9,22 +9,6 @@ order: 1
 
 ## Working Papers
 
-**[Unveiling the Cosmic Race: Skin Tone and Ethnoracial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.  *Submitted*.   
-[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} 
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
-
-<details>
-  <summary> Abstract </summary>  
-  
- I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
-
-</details>   
-  
-Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
-
----
-
 **[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Urban Sorting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}**  
 *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*. *R&R Regional Science and Urban Economics*.  
 
@@ -40,6 +24,38 @@ We study the impacts of a colonial segregation policy on modern-day spatial popu
  
  </details>  
 
+---
+
+**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  
+*with [Donia Kamel](https://www.parisschoolofeconomics.eu/fr/kamel-donia/){:target="_blank"}*
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/penalties.jpeg)
+
+<details>
+  <summary> Abstract </summary>  
+  
+This paper investigates colorism, racial discrimination based on skin color, in men's football. Firstly, using machine learning algorithms, we extract players' skin tones from online headshots to examine their impact on fan-based ratings and valuations. We find evidence of a skin tone penalty, where darker-skinned players face lower fan-driven market values and ratings. Secondly, using algorithm-based ratings and employing a Difference-in-Discontinuities design with geolocated penalty kicks data, we show that lighter-skinned players enjoy a premium higher by one standard deviation than their darker-skinned peers, conditional on scoring a penalty. 
+Additionally, we find evidence that non-native players with dark skin face a double penalty. 
+Leveraging the COVID-19 pandemic as a natural experiment, we highlight the role of fans' stadium attendance in algorithm-based results. 
+The findings underscore direct skin tone discrimination in football and highlight fans' role in perpetuating algorithmic bias.
+
+</details>   
+
+---
+
+**[Unveiling the Cosmic Race: Skin Tone and Ethnoracial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.  *Submitted*.   
+[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} 
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
+
+<details>
+  <summary> Abstract </summary>  
+  
+ I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
+
+</details>   
+  
+Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
 
