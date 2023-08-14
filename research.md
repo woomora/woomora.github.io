@@ -18,8 +18,8 @@ order: 1
   <blockquote>
     We study the impacts of a colonial segregation policy on modern-day spatial population patterns and residential sorting by human capital in Mexican cities. After the Conquest, the Spanish aimed to segregate Indigenous individuals into settlements called Pueblos de Indios. While the segregation policy lasted until the end of the colonial era, we use present-day census data at the block level on population, schooling, and access to medical services to understand the persistent effects of pueblos on the within-city structure. First, we document a spatial non-monotonic correlation between the location of the pueblos and population deagglomerations. Second, we study the causal impact of the pueblos on sorting by human capital by exploiting quasi-experimental variation created by pueblos’ catchment area defined by colonial laws. Using a Regression Discontinuity Design, we find a slight increase in the blocks’ share of households lacking access to medical services near the boundary of all pueblos. We further exploit the degree of success of the policy: it effectively isolated the Indigenous population only in a fraction of the settlements. We show that blocks near the pueblos where the segregation policy was successful experience discontinuities on the blocks’ measures of schooling of minus 0.38 years and the blocks’ share of individuals with no access to medical services of 2.2 percentage points. Worse urban amenities and lower land prices explain our results. Our findings show that colonial segregation institutions have had persistent impacts for centuries on urban sorting, even when the originally targeted group becomes a very small share of the modern-day population.
   </blockquote>
- </details> 
-
+ </details>
+  
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
 *Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
@@ -32,14 +32,14 @@ order: 1
 <details>
   <summary> Abstract </summary>  
   <br>
-  
-This paper investigates colorism, racial discrimination based on skin color, in men's football. Firstly, using machine learning algorithms, we extract players' skin tones from online headshots to examine their impact on fan-based ratings and valuations. We find evidence of a skin tone penalty, where darker-skinned players face lower fan-driven market values and ratings. Secondly, using algorithm-based ratings and employing a Difference-in-Discontinuities design with geolocated penalty kicks data, we show that lighter-skinned players enjoy a premium higher by one standard deviation than their darker-skinned peers, conditional on scoring a penalty. 
+  <blockquote>
+    This paper investigates colorism, racial discrimination based on skin color, in men's football. Firstly, using machine learning algorithms, we extract players' skin tones from online headshots to examine their impact on fan-based ratings and valuations. We find evidence of a skin tone penalty, where darker-skinned players face lower fan-driven market values and ratings. Secondly, using algorithm-based ratings and employing a Difference-in-Discontinuities design with geolocated penalty kicks data, we show that lighter-skinned players enjoy a premium higher by one standard deviation than their darker-skinned peers, conditional on scoring a penalty. 
 Additionally, we find evidence that non-native players with dark skin face a double penalty. 
 Leveraging the COVID-19 pandemic as a natural experiment, we highlight the role of fans' stadium attendance in algorithm-based results. 
 The findings underscore direct skin tone discrimination in football and highlight fans' role in perpetuating algorithmic bias.
-
+  </blockquote>
 </details> 
-
+  
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/penalties.jpeg)
 
 ---
