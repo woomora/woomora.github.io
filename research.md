@@ -17,9 +17,10 @@ order: 1
   <br>
   <blockquote>
     We study the impacts of a colonial segregation policy on modern-day spatial population patterns and residential sorting by human capital in Mexican cities. After the Conquest, the Spanish aimed to segregate Indigenous individuals into settlements called Pueblos de Indios. While the segregation policy lasted until the end of the colonial era, we use present-day census data at the block level on population, schooling, and access to medical services to understand the persistent effects of pueblos on the within-city structure. First, we document a spatial non-monotonic correlation between the location of the pueblos and population deagglomerations. Second, we study the causal impact of the pueblos on sorting by human capital by exploiting quasi-experimental variation created by pueblos’ catchment area defined by colonial laws. Using a Regression Discontinuity Design, we find a slight increase in the blocks’ share of households lacking access to medical services near the boundary of all pueblos. We further exploit the degree of success of the policy: it effectively isolated the Indigenous population only in a fraction of the settlements. We show that blocks near the pueblos where the segregation policy was successful experience discontinuities on the blocks’ measures of schooling of minus 0.38 years and the blocks’ share of individuals with no access to medical services of 2.2 percentage points. Worse urban amenities and lower land prices explain our results. Our findings show that colonial segregation institutions have had persistent impacts for centuries on urban sorting, even when the originally targeted group becomes a very small share of the modern-day population.
+    <br>
   </blockquote>
  </details>
-  
+
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
 *Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
@@ -27,7 +28,7 @@ order: 1
 
 ---
 
-**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.parisschoolofeconomics.eu/fr/kamel-donia/){:target="_blank"}*
+**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.parisschoolofeconomics.eu/fr/kamel-donia/){:target="_blank"}.*
 
 <details>
   <summary> Abstract </summary>  
@@ -39,7 +40,7 @@ Leveraging the COVID-19 pandemic as a natural experiment, we highlight the role 
 The findings underscore direct skin tone discrimination in football and highlight fans' role in perpetuating algorithmic bias.
   </blockquote>
 </details> 
-  
+<br>
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/penalties.jpeg)
 
 ---
@@ -51,10 +52,11 @@ The findings underscore direct skin tone discrimination in football and highligh
 <details>
   <summary> Abstract </summary>  
   <br>
-  
-I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
-
+  <blockquote>
+    I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
+  </blockquote>
 </details> 
+<br>
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
   
@@ -69,10 +71,11 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 <details>
   <summary> Abstract </summary>  
   <br>
-
-In the context of the COVID-19 pandemic, leaders' actions can influence whether individuals stay at home or ignore social distancing orders. Mexican president López Obrador held public events in different states of the country during the health emergency. This paper studies whether his example of contravening social distancing recommendations increases mobility rates. Using mobility data from UNDP-GRANDATA and a generalized event study design, we find that AMLO's public appearances increased mobility rates in the municipalities of the states he visited in the days following the events. Furthermore, using electoral data from the 2018 presidential election, we also find that mobility rates increase in municipalities where his political support is high after the president's events. We find that media coverage is the primary mechanism driving our results. Lastly, in the pandemic's advanced stages, the president's example does not affect mobility. The results suggest that leaders' actions are relevant to influence decisions when individuals have limited information.
-
+  <blockquote>
+  In the context of the COVID-19 pandemic, leaders' actions can influence whether individuals stay at home or ignore social distancing orders. Mexican president López Obrador held public events in different states of the country during the health emergency. This paper studies whether his example of contravening social distancing recommendations increases mobility rates. Using mobility data from UNDP-GRANDATA and a generalized event study design, we find that AMLO's public appearances increased mobility rates in the municipalities of the states he visited in the days following the events. Furthermore, using electoral data from the 2018 presidential election, we also find that mobility rates increase in municipalities where his political support is high after the president's events. We find that media coverage is the primary mechanism driving our results. Lastly, in the pandemic's advanced stages, the president's example does not affect mobility. The results suggest that leaders' actions are relevant to influence decisions when individuals have limited information.
+  </blockquote>
 </details> 
+<br>
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
 
