@@ -10,16 +10,16 @@ order: 1
 ## Working Papers
 
 **[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Urban Sorting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
-*Revise and Resubmit, Regional Science and Urban Economics*.  
+*Revise and Resubmit at Regional Science and Urban Economics*.  
 
 <details>
   <summary> Abstract </summary> 
   <br>
   <blockquote>
     We study the impacts of a colonial segregation policy on modern-day spatial population patterns and residential sorting by human capital in Mexican cities. After the Conquest, the Spanish aimed to segregate Indigenous individuals into settlements called Pueblos de Indios. While the segregation policy lasted until the end of the colonial era, we use present-day census data at the block level on population, schooling, and access to medical services to understand the persistent effects of pueblos on the within-city structure. First, we document a spatial non-monotonic correlation between the location of the pueblos and population deagglomerations. Second, we study the causal impact of the pueblos on sorting by human capital by exploiting quasi-experimental variation created by pueblos’ catchment area defined by colonial laws. Using a Regression Discontinuity Design, we find a slight increase in the blocks’ share of households lacking access to medical services near the boundary of all pueblos. We further exploit the degree of success of the policy: it effectively isolated the Indigenous population only in a fraction of the settlements. We show that blocks near the pueblos where the segregation policy was successful experience discontinuities on the blocks’ measures of schooling of minus 0.38 years and the blocks’ share of individuals with no access to medical services of 2.2 percentage points. Worse urban amenities and lower land prices explain our results. Our findings show that colonial segregation institutions have had persistent impacts for centuries on urban sorting, even when the originally targeted group becomes a very small share of the modern-day population.
-    <br>
   </blockquote>
  </details>
+<br>
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
@@ -88,10 +88,11 @@ Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral
 <details>
   <summary> Abstract </summary>  
   <br>
-  
-This paper analyses the consequences of a populist policy in Mexico. As president-elect, López Obrador held an unoﬀicial referendum with less than 1% turnout to halt Mexico City’s New International Airport (NAIM) construction. I use synthetic control to show a populist penalty on GDP minus 3% one year after the cancellation, before Covid-19. I provide prediction bounds for the periods after Covid-19 and show the heterogeneous regional effects. The fall in consumption and investment explains the effect. I also show that from 2018 to 2021, GDP per capita has fallen by 10%. Income data suggest that most households are affected, while there is no effect for the wealthiest. The abuse of public power to legitimize populists socializes economic losses.
-
+  <blockquote>
+    This paper analyses the consequences of a populist policy in Mexico. As president-elect, López Obrador held an unoﬀicial referendum with less than 1% turnout to halt Mexico City’s New International Airport (NAIM) construction. I use synthetic control to show a populist penalty on GDP minus 3% one year after the cancellation, before Covid-19. I provide prediction bounds for the periods after Covid-19 and show the heterogeneous regional effects. The fall in consumption and investment explains the effect. I also show that from 2018 to 2021, GDP per capita has fallen by 10%. Income data suggest that most households are affected, while there is no effect for the wealthiest. The abuse of public power to legitimize populists socializes economic losses.
+  </blockquote>
 </details> 
+<br>
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/sc.png)
 
