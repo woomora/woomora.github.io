@@ -20,7 +20,6 @@ order: 1
   </blockquote>
  </details>
 <br>
-
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
 
 *Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
@@ -57,7 +56,6 @@ The findings underscore direct skin tone discrimination in football and highligh
   </blockquote>
 </details> 
 <br>
-
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
   
 Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
@@ -76,7 +74,6 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
   </blockquote>
 </details> 
 <br>
-
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
 
 Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral-el-ejemplo-del-presidente-en-el-distanciamiento-social/){:target="_blank"}* (es). 
@@ -93,7 +90,6 @@ Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral
   </blockquote>
 </details> 
 <br>
-
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/sc.png)
 
 *Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)*  
