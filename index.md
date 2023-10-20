@@ -19,7 +19,7 @@ I am currently working on the persistent effects of colonial segregation in Mexi
 
 ## Sobre mí
 
-Soy estudiante del Doctorado en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y la [École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Tabajo la la supervisión de [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} en mi comité de tesis.
+Soy estudiante del Doctorado en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y la [École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Tabajo bajo la supervisión de [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} en mi comité de tesis.
 
 Previamente estudié mi licenciatura y maestría en el [Centro de Invesitgación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} en México, y el programa de maestría en Analysis and Policy in Economics de [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} en Francia.
 
