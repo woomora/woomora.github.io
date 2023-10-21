@@ -27,7 +27,7 @@ order: 1
 
 ---
 
-**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.parisschoolofeconomics.eu/fr/kamel-donia/){:target="_blank"}.*
+**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
 
 <details>
   <summary> Abstract </summary>  
