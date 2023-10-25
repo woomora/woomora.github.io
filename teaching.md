@@ -16,4 +16,4 @@ order: 2
 
 **[Miscellaneous teaching](https://github.com/woomora/courses){:target="_blank"}**.
 
-- [Skin tone penalties]([https://www.core-econ.org/](https://woomora.github.io/courses/Skin-tone-penalties/skin_tone_penalties.html#1)https://woomora.github.io/courses/Skin-tone-penalties/skin_tone_penalties.html#1){:target="_blank"}
+- [Skin tone penalties](https://woomora.github.io/courses/Skin-tone-penalties/skin_tone_penalties.html#1){:target="_blank"}
