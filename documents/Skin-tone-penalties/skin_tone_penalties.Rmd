@@ -1,0 +1,551 @@
+---
+title: "Skin tone penalties:"
+subtitle: "Skin color gaps and discrimination"
+author: "Guillermo Woo-Mora"
+output: 
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+---
+
+
+<style>
+
+.center2 {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+</style>
+
+
+```{r meta, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_general(
+    description = "An Introduction to xaringan for Presentations: The Basics",
+    generator = "xaringan and remark.js"
+  ) %>% 
+  meta_name("github-repo" = "spcanelon/xaringan-basics-and-beyond")
+  # meta_social(
+  #   title = "Sharing Your Work with xaringan &#8212; Day 1",
+  #   url = "https://spcanelon.github.io/xaringan-basics-and-beyond/slides/day-01-basics.html#1",
+  #   image = "https://raw.githubusercontent.com/spcanelon/xaringan-basics-and-beyond/main/slides/day-01-cover-image.png",
+  #   image_alt = "Title slide for the day 1 slides of the Sharing Your Work with xaringan workshop series",
+  #   og_type = "website",
+  #   og_author = "Silvia Canelon",
+  #   twitter_card_type = "summary_large_image",
+  #   twitter_creator = "@spcanelon"
+  # )
+```
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(out.width = "90%")
+knitr::opts_chunk$set(fig.align="center")
+
+options(htmltools.dir.version = FALSE)
+library(knitr)
+library(tidyverse)
+library(xaringanExtra)
+library(tweetrmd)
+# set default options
+opts_chunk$set(echo=FALSE,
+               collapse = TRUE,
+               fig.width = 7.252,
+               fig.height = 4,
+               dpi = 300)
+# set engines
+knitr::knit_engines$set("markdown")
+xaringanExtra::use_tile_view()
+xaringanExtra::use_panelset()
+xaringanExtra::use_clipboard()
+xaringanExtra::use_webcam()
+xaringanExtra::use_broadcast()
+xaringanExtra::use_share_again()
+xaringanExtra::style_share_again(
+  share_buttons = c("twitter", "linkedin", "pocket")
+)
+# uncomment the following lines if you want to use the NHS-R theme colours by default
+# scale_fill_continuous <- partial(scale_fill_nhs, discrete = FALSE)
+# scale_fill_discrete <- partial(scale_fill_nhs, discrete = TRUE)
+# scale_colour_continuous <- partial(scale_colour_nhs, discrete = FALSE)
+# scale_colour_discrete <- partial(scale_colour_nhs, discrete = TRUE)
+```
+
+.center2[
+# Inequalities are not colorblind
+]
+
+---
+
+```{r, out.width="70%"}
+knitr::include_graphics("https://th-thumbnailer.cdn-si-edu.com/U0PQzGNk-jKjCKl9F2boE8YxTmc=/1000x750/filters:no_upscale():focal(1615x1036:1616x1037)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/59/f3/59f35e12-9903-41c5-84c6-8cc8f45ab8de/gettyimages-1226884797.jpg")
+```
+
+---
+
+```{r, out.width="70%"}
+knitr::include_graphics("https://radio-m.net/wp-content/uploads/2023/07/justice-pour-nahel.jpg")
+```
+
+---
+
+```{r, out.width="90%"}
+knitr::include_graphics("https://lazzie19.files.wordpress.com/2013/07/botfq2pcqaa1qj9.png")
+```
+
+---
+
+.center2[
+# How do you clasiffy yourself?
+]
+
+---
+
+.center2[
+# How do others clasiffy you?
+]
+
+---
+
+.center2[
+# How do we actually look?
+]
+
+---
+
+## Identity
+
+--
+
+- People think of themselves in terms of certain groups that they belong to
+
+--
+
+> A white female French economist may identify as white, as a female, as French, or as an economist (or all or none of the above) (Shayo 2020)
+
+--
+
+- Individuals choose their identity (Akerlof and Kranton 2000, Shayo 2020)
+
+$$U_{iJ}(a) = \pi_i (a) - \beta_i d_{iJ}(a) + \gamma_i S_J(a)$$
+--
+
+- Inequalities through differences between groups $J$
+
+--
+
+## Physical attributes (phenotype)
+
+--
+
+- Some individual aspects are not easy to change (i.e. stature, biological sex, skin tone)
+
+--
+
+- Identities may depend on physical attributes
+
+--
+
+- Inequalities can be directly linked to physical attributes (independent of identity)
+
+---
+
+.center2[
+# Ethnicity ≠ Race
+]
+
+---
+# Ethno-racial inequalities
+
+```{r, out.width="70%"}
+knitr::include_graphics("imgs/chetty2014.png")
+```
+.center[
+Chetty et al. (2014)
+]
+
+---
+# Ethno-racial inequalities
+
+```{r, out.width="70%"}
+knitr::include_graphics("imgs/chetty2014_2.png")
+```
+
+.center[
+Chetty et al. (2014)
+]
+
+---
+
+.center2[
+# Other latitudes?
+]
+
+---
+# Latin America
+
+```{r, out.width="32.5%"}
+knitr::include_graphics("https://editorialverbum.es/wp-content/uploads/2021/05/La-raza-cosmica-1.jpg")
+```
+
+---
+# Latin America
+
+```{r, out.width="65%"}
+knitr::include_graphics("imgs/ucr_1-1.png")
+```
+
+.center[
+Woo-Mora (2023)
+]
+
+---
+# Latin America
+
+```{r, out.width="65%"}
+knitr::include_graphics("imgs/ucr_2-1.png")
+```
+
+.center[
+Woo-Mora (2023)
+]
+
+---
+# Income gaps
+
+```{r, out.width="65%"}
+knitr::include_graphics("imgs/ucr_3-1.png")
+```
+
+.center[
+Woo-Mora (2023)
+]
+
+---
+# Educational gaps
+
+```{r, out.width="65%"}
+knitr::include_graphics("imgs/ucr_4-1.png")
+```
+
+.center[
+Woo-Mora (2023)
+]
+
+---
+# Intergenerational mobility
+
+```{r, out.width="65%"}
+knitr::include_graphics("imgs/ucr_5-1.png")
+```
+
+.center[
+Woo-Mora (2023)
+]
+
+---
+# Intergenerational mobility gaps
+
+```{r, out.width="65%"}
+knitr::include_graphics("imgs/ucr_6-1.png")
+```
+
+.center[
+Woo-Mora (2023)
+]
+
+---
+
+.center2[
+# What causes these skin tone gaps?
+]
+
+---
+
+.center2[
+# Discrimination?
+]
+
+---
+.center[
+# Discrimination?
+]
+
+--
+
+> members of a minority group (women, blacks, Muslims, immigrants, etc.) are treated differentially (less favorably) than members of a majority group with otherwise identical characteristics in similar circumstances (Bertrand and Duflo 2017)
+
+--
+
+.center[
+#### Cirmcustances may differ from the origin and cumulate through time
+]
+
+--
+
+```{r, out.width="50%"}
+knitr::include_graphics("imgs/goldin.png")
+```
+
+.center[
+Claudia Goldin
+]
+
+--
+
+.center[
+#### Difficult to find contexts where groups have *identical characteristics in similar circumstances*
+]
+
+---
+
+.center2[
+## One context where individuals with different skin tones do the same task but are treated less favorably
+]
+
+---
+
+.center[
+```{r, out.width="90%"}
+knitr::include_graphics("https://e0.365dm.com/16/06/2048x1152/panenka_3478366.jpg?20160604162257")
+```
+]
+
+
+
+---
+# Kamel and Woo-Mora (2023)
+
+.center[
+### We exploit football as a lab
+]
+
+--
+
+- High quality headshots to infer skin tone
+
+--
+
+- Players valuation (market value, ratings, wages)
+
+--
+
+- Detailed information on performance
+
+--
+
+- Situations where players do the same task (and perform equally well) but are treated differently
+
+--
+
+.center[
+```{r, out.width="47.5%"}
+knitr::include_graphics("imgs/sofifa.png")
+```
+]
+
+---
+
+.center[
+```{r, out.width="47.5%"}
+knitr::include_graphics("imgs/uk_kane_penalty.png")
+```
+]
+
+---
+
+.center[
+```{r, out.width="47.5%"}
+knitr::include_graphics("imgs/uk_saka_penalty.png")
+```
+]
+
+
+---
+# Skin tone segmentation and classification
+
+.center[
+```{r, out.width="85%"}
+knitr::include_graphics("imgs/color_classification_exp1.jpg")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Skin tone segmentation and classification
+
+.center[
+```{r, out.width="85%"}
+knitr::include_graphics("imgs/color_classification_exp1.jpg")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Skin tone segmentation and classification
+
+.center[
+```{r, out.width="85%"}
+knitr::include_graphics("imgs/color_classification_exp2.jpg")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Skin tone segmentation and classification
+
+.center[
+```{r, out.width="85%"}
+knitr::include_graphics("imgs/color_classification_exp3.jpg")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Skin tone segmentation and classification
+
+.center[
+```{r, out.width="85%"}
+knitr::include_graphics("imgs/fotmob_color_classification.jpg")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Skin tone penalites on fans valuation
+
+.center[
+```{r, out.width="80%"}
+knitr::include_graphics("imgs/binscatter_market_value.png")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Test discrimination using penalty kicks
+
+.center[
+```{r, out.width="90%"}
+knitr::include_graphics("imgs/goal_ratings.png")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Increase in post-match (algorithmic) rating if scoring penalty
+
+.center[
+```{r, out.width="65%"}
+knitr::include_graphics("imgs/RD_plot.png")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Light-skined players have a higher increase
+
+.center[
+```{r, out.width="70%"}
+knitr::include_graphics("imgs/RD_est.png")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+# Are algorithms internalizing fans preferences? 
+
+.center[
+```{r, out.width="65%"}
+knitr::include_graphics("imgs/binscatter_algorithm_fans_preferences.png")
+```
+]
+
+.center[
+Kamel and Woo-Mora (2023)
+]
+
+---
+
+.center2[
+# In summary
+]
+
+---
+.center[
+# In summary
+]
+
+--
+
+- Identity and physical attributes play a role in inequalities
+
+--
+
+- Ethnoracial gaps might veil skin tone gaps
+
+--
+
+- Skin tone gaps exist and might depict systemic inequalities
+
+--
+
+- Direct skin tone discrimination in some situations (not all inequality is attributable to discrimination)
+
+--
+
+- More research:
+  - Why? How?
+  - How persistent are these attitudes?
+  - How to change attitudes?
+
+--
+
+.center[
+### Thanks to Javi for the invite and to you for hearing me (again)!
+]
+
+--
+
+.center[
+#### Reach out if you have any comments or questions:
+guillermo.woo-mora@psemail.eu
+]
+
+
