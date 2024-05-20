@@ -121,12 +121,3 @@ Coverage: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target
 
 *First Place Undergraduate Thesis – Citibanamex Economics Prize 2019*
 
----
-
-**[The Effects of Corruption in Funds for Infrastructure and Social Spending on Municipal Poverty]()**   
-*with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Eduardo Ortiz-Juárez](https://www.eduardoortizj.com/){:target="_blank"}*
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/poverty_corruption.png)
-
-*First Place – Mexico’s National Prize of Public Finance 2020*. 
-
