@@ -44,7 +44,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
-**[Unveiling the Cosmic Race: Skin Tone and Ethnoracial Inequalities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
+**[Unveiling the Cosmic Race: Skin Tone Disparities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
 
 [WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} 
 
@@ -52,7 +52,7 @@ The findings underscore direct skin tone discrimination in football and highligh
   <summary> Abstract </summary>  
   <br>
   <blockquote>
-    I use data on skin tone, ethnoracial identities, and income to study Latin America's ethnoracial inequalities. First, I present stylized facts on ethnoracial identity formation: skin tone and language shape identity choices. Second, I provide evidence of a skin tone premium. In an eleven-color palette, each darker shade in skin tone on average leads to a 3% decrease in income, with heterogeneity across countries. My analysis suggests that racial discrimination is the primary mechanism. Finally, I estimate the economic development consequences of racial inequality. National and subnational regions with higher income inequality between racial groups have worse economic development.
+    Could physical traits drive racial inequalities rather than ethnoracial identities? This paper investigates descriptive skin tone-based disparities across 25 Latin American countries. Using a nine-tone color palette, darker skin tones correlate with lower household income per capita, fewer years of schooling, and a 2 percentage point decrease in upward educational mobility. The direct and indirect skin tone disparities persist after bounding the estimates for unobserved heterogeneity. The skin tone gradients are present across different ethnoracial and gender groups and vary widely across countries. Oaxaca-Blinder decompositions suggest that discrimination likely drives a substantial portion of these gaps.
   </blockquote>
 </details> 
 <br>
