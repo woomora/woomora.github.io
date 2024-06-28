@@ -9,14 +9,14 @@ order: 1
 
 ## Working Papers
 
-**[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Urban Sorting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
+**[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
 *Revise and Resubmit at Regional Science and Urban Economics*.  
 
 <details>
   <summary> Abstract </summary> 
   <br>
   <blockquote>
-    We study the impacts of a colonial segregation policy on modern-day spatial population patterns and residential sorting by human capital in Mexican cities. After the Conquest, the Spanish aimed to segregate Indigenous individuals into settlements called Pueblos de Indios. While the segregation policy lasted until the end of the colonial era, we use present-day census data at the block level on population, schooling, and access to medical services to understand the persistent effects of pueblos on the within-city structure. First, we document a spatial non-monotonic correlation between the location of the pueblos and population deagglomerations. Second, we study the causal impact of the pueblos on sorting by human capital by exploiting quasi-experimental variation created by pueblos’ catchment area defined by colonial laws. Using a Regression Discontinuity Design, we find a slight increase in the blocks’ share of households lacking access to medical services near the boundary of all pueblos. We further exploit the degree of success of the policy: it effectively isolated the Indigenous population only in a fraction of the settlements. We show that blocks near the pueblos where the segregation policy was successful experience discontinuities on the blocks’ measures of schooling of minus 0.38 years and the blocks’ share of individuals with no access to medical services of 2.2 percentage points. Worse urban amenities and lower land prices explain our results. Our findings show that colonial segregation institutions have had persistent impacts for centuries on urban sorting, even when the originally targeted group becomes a very small share of the modern-day population.
+    We investigate the persistent impact of a colonial segregation policy on land values in modern Mexico City. During colonial times, Indigenous communities were confined---with varying degrees of success---to settlements known as *pueblos de indios*.  Using historical records, we exploit quasi-random variation in these *pueblos*' size and use a Regression Discontinuity Design to estimate the causal effects of the *pueblos* on land prices. We find a 5% land value penalty for areas affected by the colonial policy. The penalty is exacerbated for the *pueblos* formerly inhabited exclusively by Indigenous populations.  Historical evidence and novel digitized maps reveal that these land value penalties have been driven over the past two centuries by low public goods provision and negative economic expectations. Moreover, in contemporary data, we observe discontinuities in socioeconomic sorting into the affected pueblos as well as in their public goods quality. Our results underscore the long-lasting repercussions of colonial policies on contemporary spatial equilibria, clarifying the mechanisms driving historical persistence and offering implications for urban policies.
   </blockquote>
  </details>
 <br>
@@ -100,7 +100,7 @@ Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencia
 
 ## Work in Progress
 
-**[On the Other Side of the River: The Persistence of Ethno-Racial Colonial Segregation on Within Sorting Patterns]()**  
+**[On the Other Side of the Creek: Historical exclusion, local identity and human capital accumulation]()**  
 
   > Draft coming soon!
 
