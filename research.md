@@ -80,19 +80,19 @@ Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral
 
 ---
 
-**[Populism’s original sin: Economic and distributional consequences of populist policy in Mexico](https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf){:target="_blank"}**  
+**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4881610){:target="_blank"}**  
 
 <details>
   <summary> Abstract </summary>  
   <br>
   <blockquote>
-    This paper analyses the consequences of a populist policy in Mexico. As president-elect, López Obrador held an unoﬀicial referendum with less than 1% turnout to halt Mexico City’s New International Airport (NAIM) construction. I use synthetic control to show a populist penalty on GDP minus 3% one year after the cancellation, before Covid-19. I provide prediction bounds for the periods after Covid-19 and show the heterogeneous regional effects. The fall in consumption and investment explains the effect. I also show that from 2018 to 2021, GDP per capita has fallen by 10%. Income data suggest that most households are affected, while there is no effect for the wealthiest. The abuse of public power to legitimize populists socializes economic losses.
+    This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City's New International Airport. I show that the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3% to 4% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn.
   </blockquote>
 </details> 
 <br>
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/sc.png)
 
-*Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)*  
+*[Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)]((https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf))*  
 
 Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
 
