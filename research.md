@@ -62,24 +62,6 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
 ---
 
-**[Moral Force: Leaders' Actions and Social Distancing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  *with [María Montoya-Aguirre](https://fr.linkedin.com/in/mariamontoyaa){:target="_blank"} and [Federico Daverio-Occhini](https://mx.linkedin.com/in/federicodaverio){:target="_blank"}*.  
-
-[UNDP LAC Working Paper](https://www-dev.undp.org/latin-america/publications/moral-force-leaders%E2%80%99-actions-and-social-distancing){:target="_blank"}
-
-<details>
-  <summary> Abstract </summary>  
-  <br>
-  <blockquote>
-  In the context of the COVID-19 pandemic, leaders' actions can influence whether individuals stay at home or ignore social distancing orders. Mexican president López Obrador held public events in different states of the country during the health emergency. This paper studies whether his example of contravening social distancing recommendations increases mobility rates. Using mobility data from UNDP-GRANDATA and a generalized event study design, we find that AMLO's public appearances increased mobility rates in the municipalities of the states he visited in the days following the events. Furthermore, using electoral data from the 2018 presidential election, we also find that mobility rates increase in municipalities where his political support is high after the president's events. We find that media coverage is the primary mechanism driving our results. Lastly, in the pandemic's advanced stages, the president's example does not affect mobility. The results suggest that leaders' actions are relevant to influence decisions when individuals have limited information.
-  </blockquote>
-</details> 
-<br>
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF.png)
-
-Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/fuerza-moral-el-ejemplo-del-presidente-en-el-distanciamiento-social/){:target="_blank"}* (es). 
-
----
-
 **[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4881610){:target="_blank"}**  
 
 <details>
