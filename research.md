@@ -62,7 +62,7 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
 ---
 
-**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891445){:target="_blank"}**  
+**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
 
 <details>
   <summary> Abstract </summary>  
@@ -95,6 +95,8 @@ Coverage: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target
 
 
 ---
+
+## Resting Papers
 
 **[Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico]()**   
 *with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
