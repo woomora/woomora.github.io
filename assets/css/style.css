@@ -1,0 +1,31 @@
+/* assets/css/style.css */
+
+/* Global text color */
+body {
+    color: #641B30; /* Change this to your desired color */
+}
+
+/* Header text color */
+header h2, header p, header small {
+    color: #641B30; /* Change this to your desired color */
+}
+
+/* Navigation text color */
+nav ul li a {
+    color: #641B30; /* Change this to your desired color */
+}
+
+/* Main content text color */
+section {
+    color: #641B30; /* Change this to your desired color */
+}
+
+/* Links */
+a {
+    color: #641B30; /* Change this to your desired color */
+}
+
+/* Links hover */
+a:hover {
+    color: #80091B; /* Change this to your desired color */
+}
