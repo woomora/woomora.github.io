@@ -11,11 +11,14 @@
     <!--Favicon taco emoji-->
     <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3Ctext%20x='0'%20y='14'%3E🌮%3C/text%3E%3C/svg%3E" type="image/svg+xml" />
     
-    {% seo %}
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    
+    
   </head>
   <body>
     <div class="wrapper">
@@ -55,6 +58,27 @@
     </nav>  
         
       {{ content }}
+        
+      <style>
+      nav ul {
+        display: flex;
+        list-style: none;
+        margin-right: 5px;
+      }
+      nav ul li {
+        margin-right: 10px;
+      }
+      nav ul li a {
+        text-decoration: none;
+      }
+      nav ul li a:hover {
+        text-decoration: underline;
+      }
+      .active {
+        text-decoration: underline;
+      }
+    </style>
+
    </section>  
       
     </div>
