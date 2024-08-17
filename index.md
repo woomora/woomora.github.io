@@ -15,7 +15,6 @@ My research interests lie at the intersection of political economy of developmen
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/raw/2dccb6d6a971691b0736274d2e7a0e2a1cc993f7/Woo-Mora%20CV.pdf){:target="_blank"}
 
-
 ## Sobre mí
 
 Soy estudiante del Doctorado en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y la [École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Trabajo bajo la supervisión de [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} en mi comité de tesis.
