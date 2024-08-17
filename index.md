@@ -13,7 +13,7 @@ Previously, I completed my BA and MSc at [Centro de Investigación y Docencia Ec
 
 My research interests lie at the intersection of political economy of development, historical economics, and cultural or social economics. I am currently investigating the enduring effects of colonial segregation in Mexico on spatial equilibrium and human capital accumulation through local identities. I also study racial inequalities and discrimination, and the impact of political and social leaders on people's welfare.
 
-### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/raw/7b21073ab76ae66b955939fab685b7854001655b/Woo-Mora%20CV.pdf){:target="_blank"}
+### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
 ## Sobre mí
 
