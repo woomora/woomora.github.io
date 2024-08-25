@@ -82,6 +82,14 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 ---
 
 **[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
+<p>
+  <img 
+    style="width: 100%; height: auto;" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.png';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS2.png';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.png" 
+  />
+</p>
 
 <details>
   <summary> Abstract </summary>  
@@ -91,8 +99,6 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
   </blockquote>
 </details> 
 <br>
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/sc.png)
-
 *[Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)]((https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf))*  
 
 Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
