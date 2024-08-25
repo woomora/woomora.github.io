@@ -118,6 +118,15 @@ Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencia
 
 Coverage: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es).
 
+---
+
+**[New Echoes of Deep Mexico? Present and Persistent Elements of Indigenous Identities]()**
+
+  > Draft coming soon!
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP.jpeg)
+
+*Chapter prepared for the second volume of the book “Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean” edited by Felipe Valencia Caicedo*
 
 ---
 
