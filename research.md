@@ -13,14 +13,22 @@ order: 1
 *Revise and Resubmit at Regional Science and Urban Economics*.  
 
 <details>
-  <summary> Abstract </summary> 
+  <summary>Abstract</summary>
   <br>
-  <blockquote>
-    We investigate the persistent impact of a colonial segregation policy on land values in modern Mexico City. During colonial times, Indigenous communities were confined-with varying degrees of success-to settlements known as pueblos de indios. Using historical records, we exploit quasi-random variation due to the pueblos' catchment areas and use a Regression Discontinuity Design to estimate the causal effects of pueblos on land prices. We find a 5% land value penalty for areas affected by the colonial policy. The penalty is exacerbated for the pueblos formerly inhabited exclusively by Indigenous populations. Historical evidence and novel digitized maps reveal that these land value penalties have been driven over the past two centuries by low public goods provision, negative economic expectations, and the historical sorting of working-class individuals who built housing structures with small living spaces, or second-nature factors. Moreover, in contemporary data, we observe discontinuities in housing overcrowding and public goods quality within the pueblos' catchment areas. Our results underscore the repercussions of colonial policies on contemporary spatial equilibria, clarifying the mechanisms driving historical persistence and offering implications for urban policies.
+  <blockquote style="text-align: justify;">
+     We investigate the persistent impact of a colonial segregation policy on land values in modern Mexico City. During colonial times, Indigenous communities were confined, with varying degrees of success, to settlements known as pueblos de indios. Using historical records, we exploit quasi-random variation due to the pueblos' catchment areas and use a Regression Discontinuity Design to estimate the causal effects of pueblos on land prices. We find a 5% land value penalty for areas affected by the colonial policy. The penalty is exacerbated for the pueblos formerly inhabited exclusively by Indigenous populations. Historical evidence and novel digitized maps reveal that these land value penalties have been driven over the past two centuries by low public goods provision, negative economic expectations, and the historical sorting of working-class individuals who built small housing structures, or second-nature factors. Moreover, in contemporary data, we observe discontinuities in housing overcrowding and public goods quality within the pueblos' catchment areas. Our results underscore the repercussions of colonial policies on contemporary spatial equilibria, clarifying the mechanisms driving historical persistence and offering implications for urban policies.
   </blockquote>
- </details>
+</details>
+ 
 <br>
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png)
+<p>
+  <img 
+    style="width: 100%; height: auto;" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR2.png';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png" 
+  />
+</p>
 
 *Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
 *Arthur H. Cole Grant of the Economic History Association*   
