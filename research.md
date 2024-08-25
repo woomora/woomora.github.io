@@ -40,7 +40,7 @@ order: 1
 <details>
   <summary> Abstract </summary>  
   <br>
-  <blockquote>
+  <blockquote style="text-align: justify;">
     This paper investigates colorism, racial discrimination based on skin color, in men's football. Firstly, using machine learning algorithms, we extract players' skin tones from online headshots to examine their impact on fan-based ratings and valuations. We find evidence of a skin tone penalty, where darker-skinned players face lower fan-driven market values and ratings. Secondly, using algorithm-based ratings and employing a Difference-in-Discontinuities design with geolocated penalty kicks data, we show that lighter-skinned players enjoy a premium higher by one standard deviation than their darker-skinned peers, conditional on scoring a penalty. 
 Additionally, we find evidence that non-native players with dark skin face a double penalty. 
 Leveraging the COVID-19 pandemic as a natural experiment, we highlight the role of fans' stadium attendance in algorithm-based results. 
@@ -59,7 +59,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 <details>
   <summary> Abstract </summary>  
   <br>
-  <blockquote>
+  <blockquote style="text-align: justify;">
     Could physical traits drive racial inequalities rather than ethnoracial identities? This paper investigates descriptive skin tone-based disparities across 25 Latin American countries. Using a nine-tone color palette, darker skin tones correlate with lower household income per capita, fewer years of schooling, and a 2 percentage point decrease in upward educational mobility. The direct and indirect skin tone disparities persist after bounding the estimates for unobserved heterogeneity. The skin tone gradients are present across different ethnoracial and gender groups and vary widely across countries. Oaxaca-Blinder decompositions suggest that discrimination likely drives a substantial portion of these gaps.
   </blockquote>
 </details> 
@@ -75,7 +75,7 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 <details>
   <summary> Abstract </summary>  
   <br>
-  <blockquote>
+  <blockquote style="text-align: justify;">
     This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City's New International Airport. I show that the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3% to 4% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn.
   </blockquote>
 </details> 
