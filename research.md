@@ -58,8 +58,14 @@ The findings underscore direct skin tone discrimination in football and highligh
 ---
 
 **[Unveiling the Cosmic Race: Skin Tone Disparities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
-
-[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} 
+<p>
+  <img 
+    style="width: 100%; height: auto;" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.png';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.png';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.png" 
+  />
+</p>
 
 <details>
   <summary> Abstract </summary>  
@@ -69,8 +75,8 @@ The findings underscore direct skin tone discrimination in football and highligh
   </blockquote>
 </details> 
 <br>
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR.png)
-  
+[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} 
+
 Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
