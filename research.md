@@ -61,9 +61,9 @@ The findings underscore direct skin tone discrimination in football and highligh
 <p>
   <img 
     style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.png';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.png';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.png" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.jpeg';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg" 
   />
 </p>
 
@@ -85,9 +85,9 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 <p>
   <img 
     style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.png';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS2.png';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.png" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS2.jpeg';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg" 
   />
 </p>
 
