@@ -34,6 +34,14 @@ order: 1
 ---
 
 **[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
+<p>
+  <img 
+    style="width: 100%; height: auto;" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties1.png';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties2.png';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties1.png" 
+  />
+</p>
 
 <details>
   <summary> Abstract </summary>  
@@ -46,7 +54,6 @@ The findings underscore direct skin tone discrimination in football and highligh
   </blockquote>
 </details> 
 <br>
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/penalties.jpeg)
 
 ---
 
