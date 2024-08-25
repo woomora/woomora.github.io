@@ -124,7 +124,7 @@ Coverage: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target
 
   > Draft coming soon!
 
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP.jpg)
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP2.jpg)
 
 *Chapter prepared for the second volume of the book “Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean” edited by Felipe Valencia Caicedo*
 
