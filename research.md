@@ -11,7 +11,6 @@ order: 1
 
 **[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
 *Revise and Resubmit at Regional Science and Urban Economics*.   
-<br>
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -28,7 +27,7 @@ order: 1
      We investigate the persistent impact of a colonial segregation policy on land values in modern Mexico City. During colonial times, Indigenous communities were confined, with varying degrees of success, to settlements known as pueblos de indios. Using historical records, we exploit quasi-random variation due to the pueblos' catchment areas and use a Regression Discontinuity Design to estimate the causal effects of pueblos on land prices. We find a 5% land value penalty for areas affected by the colonial policy. The penalty is exacerbated for the pueblos formerly inhabited exclusively by Indigenous populations. Historical evidence and novel digitized maps reveal that these land value penalties have been driven over the past two centuries by low public goods provision, negative economic expectations, and the historical sorting of working-class individuals who built small housing structures, or second-nature factors. Moreover, in contemporary data, we observe discontinuities in housing overcrowding and public goods quality within the pueblos' catchment areas. Our results underscore the repercussions of colonial policies on contemporary spatial equilibria, clarifying the mechanisms driving historical persistence and offering implications for urban policies.
   </blockquote>
 </details>
-
+<br>
 *Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
 *Arthur H. Cole Grant of the Economic History Association*   
 
