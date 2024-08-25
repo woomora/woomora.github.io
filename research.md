@@ -24,9 +24,9 @@ order: 1
 <p>
   <img 
     style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png';" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png';" 
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR2.png';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR.png" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png" 
   />
 </p>
 
