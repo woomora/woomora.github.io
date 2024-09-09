@@ -81,7 +81,8 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
 ---
 
-**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
+**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}.** *Revise and Resubmit at European Economic Review*.   
+
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -120,13 +121,13 @@ Coverage: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target
 
 ---
 
-**[New Echoes of Deep Mexico? Present and Persistent Elements of Indigenous Identities]()**
+**[New Echoes of Deep Mexico? Present and Persistent Elements of Indigenous Identities]()** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
 
   > Draft coming soon!
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP2.jpg)
 
-*Chapter prepared for the second volume of the book “Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean” edited by Felipe Valencia Caicedo*
+*Chapter prepared for the second volume of the book “[Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean](https://link.springer.com/book/10.1007/978-3-031-38723-4){:target="_blank"}” edited by [Felipe Valencia Caicedo](https://sites.google.com/site/felipev84/Home){:target="_blank"}.*
 
 ---
 
