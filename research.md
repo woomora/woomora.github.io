@@ -81,7 +81,8 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 
 ---
 
-**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}.** *Revise and Resubmit at European Economic Review*.   
+**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}** 
+*Revise and Resubmit at European Economic Review*.   
 
 <p>
   <img 
