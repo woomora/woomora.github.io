@@ -5,21 +5,30 @@ filename: index
 order: 0
 ---  
 
-## About me
+## About Me
 
-I am an Economics PhD candidate at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and [École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. I am working under the supervision of [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, with [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} on my thesis committee.
+I am a PhD candidate in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and the [École des Hautes Études en Sciences Sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. My doctoral research is supervised by [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, with [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} serving on my thesis committee.
 
-Previously, I completed my BA and MSc at [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} in Mexico, and the Analysis and Policy in Economics master's program at [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} in France.
+I previously completed my BA and MSc at the [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} in Mexico, and earned a master's degree in Analysis and Policy in Economics from [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} in France.
 
-My research interests lie at the intersection of political economy of development, historical economics, and cultural or social economics. I am currently investigating the enduring effects of colonial segregation in Mexico on spatial equilibrium and human capital accumulation through local identities. I also study racial inequalities and discrimination, and the impact of political and social leaders on people's welfare.
+My research interests center on the political economy of development, historical economics, and cultural/social economics.
+
+I am currently investigating the long-term impact of colonial segregation in Mexico on spatial equilibrium and human capital accumulation through local identities. A second area of study focuses on racial inequalities and discrimination, with a particular emphasis on colorism. Lastly, I study the economic effects of populist movements and leaders on societal welfare.
+
+### News
+
+I will be visiting [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} at the University of Chicago's Harris School of Public Policy during the Autumn 2024 term. Feel free to reach out if you're around!
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
+-----
+
 ## Sobre mí
 
-Soy estudiante del Doctorado en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y la [École des hautes études en sciences sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Trabajo bajo la supervisión de [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} en mi comité de tesis.
+Soy candidato a doctor en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y en la [École des Hautes Études en Sciences Sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Trabajo bajo la supervisión de [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} en mi comité de tesis.
 
-Previamente estudié mi licenciatura y maestría en el [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} en México, y el programa de maestría en Analysis and Policy in Economics de [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} en Francia.
+Previamente, realicé mis estudios de licenciatura y maestría en el [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} en México, y obtuve el título de maestría en Analysis and Policy in Economics en [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} en Francia.
 
-Mis intereses de investigación están en los campos de economía política del desarrollo, economía histórica y economía cultural o social. Actualmente investigo sobre los efectos persistentes de la segregación colonial en México sobre el equilibrio espacial y la acumulación de capital humano a través de las identidades locales. También estudio las desigualdades y discriminación racial, y el impacto de los líderes políticos y sociales en el bienestar de las personas.
+Mis intereses de investigación se centran en la economía política del desarrollo, la economía histórica y la economía cultural/social. 
 
+Actualmente, investigo el impacto a largo plazo de la segregación colonial en México sobre el equilibrio espacial y la acumulación de capital humano a través de las identidades locales. Un segundo tema de estudio son las desigualdades y la discriminación racial, con un enfoque específico en el colorismo. Por último, estudio los efectos económicos de los movimientos y líderes populistas en el bienestar social.
