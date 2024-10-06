@@ -96,11 +96,13 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City's New International Airport. I show that the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3% to 4% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn.
+    This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City’s New International Airport. I show that the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3.3% to 4.5% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn. The results highlight how populist policies can impose immediate economic costs by creating uncertainty traps, even before implementing institutional changes.
   </blockquote>
 </details> 
 <br>
 *[Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)]((https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf))*  
+
+[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/)] [[Estimaciones Actualizadas del PIB](https://billywoom.shinyapps.io/POS_shiny_app_esp/)] 
 
 Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
 
