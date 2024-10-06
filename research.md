@@ -102,7 +102,7 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 <br>
 *[Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)]((https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf))*  
 
-[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/)] [[Estimaciones Actualizadas del PIB](https://billywoom.shinyapps.io/POS_shiny_app_esp/)] 
+[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[Estimaciones Actualizadas del PIB](https://billywoom.shinyapps.io/POS_shiny_app_esp/){:target="_blank"}] 
 
 Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
 
