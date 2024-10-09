@@ -29,7 +29,9 @@ order: 1
 </details>
 <br>
 *Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
-*Arthur H. Cole Grant of the Economic History Association*   
+*Arthur H. Cole Grant of the Economic History Association* 
+
+[[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}]
 
 ---
 
@@ -77,7 +79,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 <br>
 [WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} 
 
-Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
+Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
 
@@ -102,9 +104,9 @@ Coverage: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/e
 <br>
 *[Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)]((https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf))*  
 
-[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[Estimaciones Actualizadas del PIB](https://billywoom.shinyapps.io/POS_shiny_app_esp/){:target="_blank"}] 
+[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}]
 
-Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
+Media: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
 
 ---
 
@@ -119,7 +121,7 @@ Coverage: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencia
 *Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  
 *Best Graduate Thesis in Applied Economics – CIDE 2020*  
 
-Coverage: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es).
+Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es).
 
 ---
 
