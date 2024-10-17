@@ -112,7 +112,7 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
 
 ---
 
-**[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  
+**[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"}, Federico Daverio, and [Max Ponce de León](https://sites.google.com/view/antoniomaximoponcedeleon){:target="_blank"}*.  
 *Submitted.*
 <p>
   <img 
