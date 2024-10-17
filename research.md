@@ -10,7 +10,7 @@ order: 1
 ## Working Papers
 
 **[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
-*Revise and Resubmit at Regional Science and Urban Economics*.   
+*Revise and resubmit requested, **Regional Science and Urban Economics**.*   
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -32,6 +32,34 @@ order: 1
 *Arthur H. Cole Grant of the Economic History Association* 
 
 [[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}]
+
+---
+
+**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
+*Revise and resubmit requested, **European Economic Review**.*   
+
+<p>
+  <img 
+    style="width: 100%; height: auto;" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS2.jpeg';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg" 
+  />
+</p>
+
+<details>
+  <summary> Abstract </summary>  
+  <br>
+  <blockquote style="text-align: justify;">
+    This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City’s New International Airport. I show that the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3.3% to 4.5% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn. The results highlight how populist policies can impose immediate economic costs by creating uncertainty traps, even before implementing institutional changes.
+  </blockquote>
+</details> 
+<br>
+*[Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)]((https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf))*  
+
+[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/c640faba-1a7b-46a9-8329-12311c56db74/audio){:target="_blank"}]
+
+Media: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
 
 ---
 
@@ -60,6 +88,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 ---
 
 **[Unveiling the Cosmic Race: Skin Tone Disparities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
+*Submitted.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -83,13 +112,13 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
 
 ---
 
-**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
-*Revise and Resubmit at European Economic Review*.   
+**[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**  
+*Submitted.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS2.jpeg';" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF1.jpeg';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF2.jpeg';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg" 
   />
 </p>
@@ -98,15 +127,11 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City’s New International Airport. I show that the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3.3% to 4.5% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn. The results highlight how populist policies can impose immediate economic costs by creating uncertainty traps, even before implementing institutional changes.
+    Charismatic leaders shape public sentiment but may weaken institutions by prioritizing personal appeal over trust in government. During the COVID-19 pandemic, the Mexican president publicly disregarded stay-at-home guidelines. We assess the impact on social distancing behavior using granular mobility and electoral data. Leveraging the timing of social distancing announcements and presidential support, we apply a dynamic IPW-DID design and find an 11.5% higher mobility in pro-president areas, leading to 38% more COVID-19 cases and 21% more deaths. Our findings suggest that the president’s public example, rather than partisan differences, primarily drove these effects.
   </blockquote>
 </details> 
 <br>
-*[Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)]((https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf))*  
 
-[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/c640faba-1a7b-46a9-8329-12311c56db74/audio){:target="_blank"}]
-
-Media: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es). 
 
 ---
 
