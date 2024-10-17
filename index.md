@@ -13,11 +13,11 @@ I previously completed my BA and MSc at the [Centro de Investigación y Docencia
 
 My research interests center on the political economy of development, historical economics, and cultural/social economics.
 
-I am currently investigating the long-term impact of colonial segregation in Mexico on spatial equilibrium and human capital accumulation through local identities. A second area of study focuses on racial inequalities and discrimination, with a particular emphasis on colorism. Lastly, I study the economic effects of populist movements and leaders on societal welfare.
+I am currently researching the long-term effects of colonial segregation on spatial equilibrium within cities and the accumulation of human capital through local or neighborhood identities. Another area of my work focuses on racial inequalities and discrimination, particularly colorism. Additionally, I examine the economic impacts of populist policies on economic activity and the influence of populist leaders on public health outcomes.
 
 #### News!
 
-I will be visiting [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} at the University of Chicago's Harris School of Public Policy during the Autumn 2024 term. Feel free to reach out if you're around!
+I will be visiting [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} at the University of Chicago's Harris School of Public Policy during the Autumn 2024 term. Reach out if you're around!
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
@@ -31,6 +31,6 @@ Previamente, realicé mis estudios de licenciatura y maestría en el [Centro de 
 
 Mis intereses de investigación se centran en la economía política del desarrollo, la economía histórica y la economía cultural/social. 
 
-Actualmente, investigo el impacto a largo plazo de la segregación colonial en México sobre el equilibrio espacial y la acumulación de capital humano a través de las identidades locales. Un segundo tema de estudio son las desigualdades y la discriminación racial, con un enfoque específico en el colorismo. Por último, estudio los efectos económicos de los movimientos y líderes populistas en el bienestar social.
+Actualmente investigo los efectos a largo plazo de la segregación colonial sobre el equilibrio espacial dentro de las ciudades y la acumulación de capital humano a través de las identidades locales o barriales. Otra área de estudio se centra en las desigualdades raciales y la discriminación, con un enfoque particular en el colorismo. Además, analizo los impactos económicos de las políticas populistas en la actividad económica y la influencia de los líderes populistas en la salud pública.
 
-Visitaré a [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} en la Harris School of Public Policy de la Universidad de Chicago durante el trimestre de otoño de 2024. ¡No dudes en contactarme si estás por ahí!
+Estaré visitando a [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} en la Harris School of Public Policy de la Universidad de Chicago durante el trimestre de otoño de 2024. ¡Cóntactame si estás por ahí!
