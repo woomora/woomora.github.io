@@ -119,7 +119,7 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
     style="width: 100%; height: auto;" 
     onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF1.jpeg';" 
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF2.jpeg';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF1.jpeg" 
   />
 </p>
 
