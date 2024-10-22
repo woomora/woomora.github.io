@@ -108,7 +108,7 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
 </details> 
 <br>
 
-[NotebookLM Podcast](https://notebooklm.google.com/notebook/6d3b9570-a33f-4f60-b502-bf76733e2184/audio){:target="_blank"}]
+[[NotebookLM Podcast](https://notebooklm.google.com/notebook/6d3b9570-a33f-4f60-b502-bf76733e2184/audio){:target="_blank"}]
 
 ---
 
