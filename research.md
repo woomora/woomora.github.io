@@ -87,7 +87,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
-**[Unveiling the Cosmic Race: Skin Tone Disparities in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
+**[Unveiling the Cosmic Race: Intergenerational Skin Tone Gaps in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
 *Submitted.*
 <p>
   <img 
@@ -102,7 +102,7 @@ The findings underscore direct skin tone discrimination in football and highligh
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    Could physical traits drive racial inequalities rather than ethnoracial identities? This paper investigates descriptive skin tone-based disparities across 25 Latin American countries. Using a nine-tone color palette, darker skin tones correlate with lower household income per capita, fewer years of schooling, and a 2 percentage point decrease in upward educational mobility. The direct and indirect skin tone disparities persist after bounding the estimates for unobserved heterogeneity. The skin tone gradients are present across different ethnoracial and gender groups and vary widely across countries. Oaxaca-Blinder decompositions suggest that discrimination likely drives a substantial portion of these gaps.
+    Can traditional ethnoracial categories fully capture the economic disparities arising from physical traits, particularly within racially mixed populations in Latin America? This paper examines how skin tone shapes intergenerational economic disparities using data from over 80,000 individuals across 25 countries in Latin America and the Caribbean. I present new descriptive evidence in three areas. First, I demonstrate that variations in skin tone within ethnoracial groups, such as Mestizos and Mulatos, account for income and education differences that are often overlooked by broader racial classifications. Second, I find a consistent negative correlation between darker skin tones and both income and human capital accumulation. Third, I reveal significant absolute gaps in intergenerational educational mobility by skin tone, highlighting persistent inequalities. These disparities in human capital and educational mobility remain robust when tested with a Mexican sample using machine-assessed skin tone measures from colorimeters. These findings contribute to the understanding of long-standing racial inequalities in the region and offer insights for broader discussions on race, mobility, and social identity.
   </blockquote>
 </details> 
 <br>
