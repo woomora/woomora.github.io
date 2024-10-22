@@ -82,14 +82,14 @@ Media: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-p
   </blockquote>
 </details> 
 <br>
-[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"} [[NotebookLM Podcast](https://notebooklm.google.com/notebook/26cc8c86-0300-4174-9dfb-12125ca41f48/audio){:target="_blank"}]
+[[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/26cc8c86-0300-4174-9dfb-12125ca41f48/audio){:target="_blank"}]
 
 Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
 
 **[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"}, Federico Daverio, and [Max Ponce de León](https://sites.google.com/view/antoniomaximoponcedeleon){:target="_blank"}*.  
-*Submitted.*
+*Under review.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -107,6 +107,8 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
   </blockquote>
 </details> 
 <br>
+
+[NotebookLM Podcast](https://notebooklm.google.com/notebook/6d3b9570-a33f-4f60-b502-bf76733e2184/audio){:target="_blank"}]
 
 ---
 
