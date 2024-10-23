@@ -64,7 +64,7 @@ Media: *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-p
 ---
 
 **[Unveiling the Cosmic Race: Intergenerational Skin Tone Gaps in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
-*Submitted.*
+*Under review.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
