@@ -59,7 +59,7 @@ order: 1
 
 [[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/c640faba-1a7b-46a9-8329-12311c56db74/audio){:target="_blank"}]
 
-Media: *[El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"}* (es), *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es), [Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"} (es). 
+Media: *[El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"}* (es), *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es), [Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"}* (es). Featured in *[Suerte o desastre](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/339396-libro-suerte-o-desastre-9786073839822?srsltid=AfmBOopkkW8eXKWkqG07ojmXiYUj8Fs8lafDdIGXAZFVTbbcCgfmLJ9q){:target="_blank"}* by Isabella Cota.
 
 ---
 
