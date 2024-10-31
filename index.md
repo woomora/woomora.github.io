@@ -17,8 +17,8 @@ My research interests center on the political economy of development, historical
 
 I am currently researching the long-term effects of colonial segregation on spatial equilibrium within cities and the accumulation of human capital through local or neighborhood identities. Another area of my work focuses on racial inequalities and discrimination, particularly colorism. Additionally, I examine the economic impacts of populist policies on economic activity and the influence of populist leaders on public health outcomes.
 
-#### News!
+### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
+
+#### News
 
 I will be visiting [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} at the University of Chicago's Harris School of Public Policy during the Autumn 2024 term. Reach out if you're around!
-
-### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
