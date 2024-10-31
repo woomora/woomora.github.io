@@ -1,11 +1,11 @@
 ---
 title: About
 layout: template
-filename: index
+filename: index_es
 order: 0
 ---  
 
-[English](/en/)
+[Change to English](/en/index.md)
 
 ## Sobre mí
 
