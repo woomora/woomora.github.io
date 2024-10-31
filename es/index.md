@@ -4,7 +4,7 @@ filename: index
 order: 0
 --- 
 
-[Change to English](/)
+[Switch to English](/)
 
 ## Sobre mí
 
