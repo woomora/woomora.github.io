@@ -9,4 +9,10 @@ plugins:
 show_downloads: false
 github:
   is_project_page: true
-  languages: ["sp", "en"]
+
+languages: 
+  - en
+  - sp
+default_lang: en
+exclude_from_localization:
+  - "CV.pdf"  # Aquí puedes excluir archivos que no necesitan traducción
