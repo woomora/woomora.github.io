@@ -1,5 +1,4 @@
 ---
-title: About
 layout: template
 filename: index
 order: 0
