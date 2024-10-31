@@ -16,6 +16,6 @@ Mis intereses de investigación se centran en la economía política del desarro
 
 Actualmente investigo los efectos a largo plazo de la segregación colonial sobre el equilibrio espacial dentro de las ciudades y la acumulación de capital humano a través de las identidades locales o barriales. Otra área de estudio se centra en las desigualdades raciales y la discriminación, con un enfoque particular en el colorismo. Además, analizo los impactos económicos de las políticas populistas en la actividad económica y la influencia de los líderes populistas en la salud pública.
 
-Estaré visitando a [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} en la Harris School of Public Policy de la Universidad de Chicago durante el trimestre de otoño de 2024. ¡Cóntactame si estás por ahí!
-
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
+
+Estaré visitando a [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} en la Harris School of Public Policy de la Universidad de Chicago durante el trimestre de otoño de 2024. ¡Cóntactame si estás por ahí!
