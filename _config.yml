@@ -12,7 +12,7 @@ github:
 
 languages: 
   - en
-  - sp
+  - es
 default_lang: en
 exclude_from_localization:
   - "CV.pdf"  # Aquí puedes excluir archivos que no necesitan traducción
