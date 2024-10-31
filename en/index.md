@@ -5,7 +5,7 @@ filename: index
 order: 0
 ---  
 
-[Cambiar a Español](/es/index_es.md)
+[Cambiar a Español](/es/)
 
 ## About Me
 
