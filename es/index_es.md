@@ -5,6 +5,8 @@ filename: index
 order: 0
 ---  
 
+[English](/en/)
+
 ## Sobre mí
 
 Soy candidato a doctor en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y en la [École des Hautes Études en Sciences Sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Trabajo bajo la supervisión de [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} en mi comité de tesis.
