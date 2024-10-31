@@ -1,3 +1,9 @@
+---
+layout: template
+filename: index
+order: 0
+--- 
+
 [Change to English](/en/)
 
 ## Sobre mí
