@@ -14,5 +14,14 @@ languages:
   - en
   - es
 default_lang: en
-exclude_from_localization:
-  - "CV.pdf"  # Aquí puedes excluir archivos que no necesitan traducción
+
+# Definición de navegación (sin duplicación)
+nav:
+  - title: "About"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Photography"
+    url: "/photo/"
