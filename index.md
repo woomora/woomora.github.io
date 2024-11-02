@@ -7,8 +7,6 @@ order: 0
 
 [Cambiar a Español](/es/)
 
-## About Me
-
 I am a PhD candidate in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and the [École des Hautes Études en Sciences Sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. My doctoral research is supervised by [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, with [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} serving on my thesis committee.
 
 I previously completed my BA and MSc at the [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} in Mexico, and earned a master's degree in Analysis and Policy in Economics from [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} in France.
