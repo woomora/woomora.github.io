@@ -5,9 +5,14 @@ filename: research
 order: 1
 --- 
 
-# Research
+- [Publications](#publications)
+- [Working Papers](#working-papers)
+- [Work in Progress](#work-in-progress)
+- [Resting Papers](#resting-papers)
 
-## Publications
+---
+
+## Publications {#publications}
 
 **[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
 *Forthcoming, **Regional Science and Urban Economics**.*   
@@ -35,7 +40,7 @@ order: 1
 
 ---
 
-## Working Papers
+## Working Papers {#working-papers}
 
 **[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
 *Revise and resubmit requested, **European Economic Review**.*   
@@ -141,7 +146,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
-## Work in Progress
+## Work in Progress {#work-in-progress}
 
 **[On the Other Side of the Creek: Historical exclusion, local identity and human capital accumulation]()**  
 
@@ -166,7 +171,7 @@ Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_
 
 ---
 
-## Resting Papers
+## Resting Papers {#resting-papers}
 
 **[Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico]()**   
 *with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
