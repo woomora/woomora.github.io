@@ -102,7 +102,7 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF1.jpeg" 
   />
   <br />
-  <small>Image credit: <a href="https://www.nytimes.com/es/2022/11/28/espanol/marcha-amlo-mexico.html" target="_blank"><em>Luis Antonio Rojas for The New York Times</a></small>
+  <small>Image credit: <a href="https://www.nytimes.com/es/2022/11/28/espanol/marcha-amlo-mexico.html" target="_blank"> Luis Antonio Rojas for The New York Times</a></small>
 </p>
 
 <details>
@@ -129,9 +129,7 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties2.png';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties1.png" 
   />
-  <small>Image credit: <a href="https://www.imago-images.com/sp/0027126877" target="_blank"><em> IMAGO / Colorsport
-</a></small>
-
+  <small>Image credit: <a href="https://www.imago-images.com/sp/0027126877" target="_blank"> IMAGO / Colorsport</a></small>
 </p>
 
 <details>
