@@ -155,6 +155,7 @@ The findings underscore direct skin tone discrimination in football and highligh
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/catastro2.png';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/catastro1.png" 
   />
+  <small>Image credit: <a href="https://www.supermap.com/en-us/case/?76_3195" target="_blank"> SuperMap</a></small>
 </p>
 
 <details>
@@ -165,6 +166,8 @@ The findings underscore direct skin tone discrimination in football and highligh
   </blockquote>
 </details> 
 <br>
+
+*Research Grant Descentralización y Capacidades Subnacionales en América Latina y el Caribe -- CAF*
 
 ---
 
