@@ -7,10 +7,10 @@ order: 1
 
 # Research
 
-## Working Papers
+## Publications
 
 **[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
-*Revise and resubmit requested, **Regional Science and Urban Economics**.*   
+*Forthcoming, **Regional Science and Urban Economics**.*   
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -34,6 +34,8 @@ order: 1
 [[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}]
 
 ---
+
+## Working Papers
 
 **[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
 *Revise and resubmit requested, **European Economic Review**.*   
