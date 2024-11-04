@@ -73,7 +73,9 @@ Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term
     onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg';" 
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.jpeg';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg" 
-  />
+   />
+  <br />
+  <small>Image credit: <a href="https://lugares.inah.gob.mx/es/museos-inah/museo/museo-piezas/8409-8409-10-241348-cuadro-de-castas.html?lugar_id=475" target="_blank"><em>Cuadro de castas</em> - Unknown artist, Museo Nacional del Virreinato</a></small>
 </p>
 
 <details>
@@ -99,6 +101,8 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF2.jpeg';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF1.jpeg" 
   />
+  <br />
+  <small>Image credit: <a href="https://www.nytimes.com/es/2022/11/28/espanol/marcha-amlo-mexico.html" target="_blank"><em>Luis Antonio Rojas for The New York Times</a></small>
 </p>
 
 <details>
@@ -125,6 +129,9 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties2.png';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties1.png" 
   />
+  <small>Image credit: <a href="https://www.imago-images.com/sp/0027126877" target="_blank"><em> IMAGO / Colorsport
+</a></small>
+
 </p>
 
 <details>
