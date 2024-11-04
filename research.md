@@ -115,6 +115,9 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
 ---
 
 **[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
+
+  > New draft coming soon!
+
 <p>
   <img 
     style="width: 100%; height: auto;" 
