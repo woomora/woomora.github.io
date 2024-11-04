@@ -45,6 +45,8 @@ order: 1
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS2.jpeg';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg" 
   />
+  <br />
+  <small>Image credit: <a href="https://www.nytimes.com/2018/10/29/world/americas/mexico-incoming-president-cancel-airport.html" target="_blank">New York Times</a></small>
 </p>
 
 <details>
@@ -139,14 +141,37 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
+**[Embracing modernity pays: Cadastre modernization effects on local property tax collection](https://scioteca.caf.com/handle/123456789/2301?locale-attribute=en)**  *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and [Emmanuel Chávez](https://emmanuelchavez.weebly.com/){:target="_blank"}.*
+
+<p>
+  <img 
+    style="width: 100%; height: auto;" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/catastro1.png';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/catastro2.png';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/catastro1.png" 
+  />
+</p>
+
+<details>
+  <summary> Abstract </summary>  
+  <br>
+  <blockquote style="text-align: justify;">
+    This paper investigates the impact of the Mexican cadastre modernization program on local property tax revenue. We evaluate a comprehensive modernization initiative, which began in 2010 and included guidelines, technical assistance, and subsidies for local cadastres. Using panel data from 2000 to 2019 and a Difference-in-Differences approach, we find that municipalities adopting the program saw a 10% increase in property tax revenue within five years, rising to 30% after eight years. This effect varies significantly with local state capacity and the coordinating institution implementing the program. The program significantly enhances the state of local cadastres over the long-term. Municipalities that adopt the program are more likely to invest in staff training, implement comprehensive cadastral management systems, and digitize their registries. Our results highlight the importance of local capacities and coordination in realizing the benefits of decentralization and modernization policies.
+  </blockquote>
+</details> 
+<br>
+
+---
+
 ## Work in Progress {#work-in-progress}
 
-**[On the Other Side of the Creek: Historical exclusion, local identity and human capital accumulation]()**  
+**[On the Other Side of the Creek: Historical segregation, neighborhood identity and human capital accumulation]()**  
 
   > Draft coming soon!
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
 
+*Reserach Grant: Inequality over the life course -- UNU-WIDER*
 *Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  
 *Best Graduate Thesis in Applied Economics – CIDE 2020*  
 
