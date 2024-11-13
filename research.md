@@ -36,7 +36,7 @@ order: 1
 ## Working Papers {#working-papers}
 
 **[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
-*Conditionally Accepteed, **European Economic Review**.*   
+*Conditionally Accepted, **European Economic Review**.*   
 
 <p>
   <img 
