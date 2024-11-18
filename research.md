@@ -7,7 +7,7 @@ order: 1
 
 ## Publications {#publications}
 
-**[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
+**[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://www.sciencedirect.com/science/article/abs/pii/S0166046224000966){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
 *Forthcoming, **Regional Science and Urban Economics**.*   
 <p>
   <img 
