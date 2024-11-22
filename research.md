@@ -17,7 +17,7 @@ order: 1
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png" 
   />
   <br />
-  <small>Image credit: <a href="http://bdmx.mx/documento/galeria/mapas-indigenas-novohispanos-agn/co_imagen33/fo_05t="_blank">Archivo General de la Nación: Molinos de azúcar, Tacubaya. Distrito Federal, 1587.</a></small>
+  <small>Image credit: <a href="http://bdmx.mx/documento/galeria/mapas-indigenas-novohispanos-agn/co_imagen33/fo_05t=" target="_blank">Archivo General de la Nación: Molinos de azúcar, Tacubaya. Distrito Federal, 1587.</a></small>
 </p>
 
 <details>
