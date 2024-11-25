@@ -13,7 +13,7 @@ My research interests center on the political economy of development, historical
 
 The central focus of my doctoral research is on *durable or persistent inequalities*, exploring how historical processes, institutions, and cultural identities dynamically shape economic and social disparities. I am currently researching the long-term effects of colonial segregation on spatial equilibrium within cities and the accumulation of human capital through neighborhood identities. I also study racial inequalities, particularly colorism, and its effects on human capital accumulation and direct skin tone discrimination.
 
-Apart from my main doctoral research, I am interested in the political economy of populism: how populist policies affect economic activity and the social influence of populist leaders’ actions on their partisanship.
+Apart from my main doctoral research, I am interested in the political economy of populism: how populist policies affect economic activity and the social influence of populist leaders’ actions on their partisanship decisions.
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
