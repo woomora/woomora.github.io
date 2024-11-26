@@ -111,7 +111,7 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    Charismatic leaders shape public sentiment but may undermine institutions by prioritizing personal appeal over institutional trust. During COVID-19, the Mexican president publicly dismissed stay-at-home guidelines. We use a saturated event-study design to examine his example's effect on social distancing by combining granular out-of-home mobility and electoral. After accounting for differences in political support, pro-government electoral sections increase their within-city mobility. In the first two months, pro-government municipalities have 16% higher mobility, causing 46% more COVID-19 cases and 50% more deaths. Our findings suggest that the president’s actions, not partisan divides, were crucial in shaping social distancing and public health outcomes.
+    Charismatic leaders shape public sentiment but may undermine institutions by prioritizing personal appeal over institutional trust. During COVID-19, the Mexican president publicly dismissed stay-at-home guidelines. We use an event-study design to examine his example’s effect on his partisanship’s social distancing by combining granular out-of-home mobility and electoral data. After accounting for differences in political support, pro-government geographies increase their within-city mobility. Moreover, in the first two months, pro-government municipalities have 16% higher mobility, causing 46% more COVID-19 cases and 50% more deaths. Our findings suggest the president’s actions, not partisan divides, shaped social distancing behavior and public health outcomes.
   </blockquote>
 </details> 
 <br>
