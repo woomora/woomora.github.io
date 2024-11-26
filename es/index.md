@@ -4,15 +4,15 @@ filename: index
 order: 0
 --- 
 
-Soy candidato a doctor en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y en la [École des Hautes Études en Sciences Sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Trabajo bajo la supervisión de [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} en mi comité de tesis.
+Soy candidato a doctorado en Economía en la [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y la [École des Hautes Études en Sciences Sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. Mi investigación doctoral está supervisada por [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} como miembro de mi comité de tesis.
 
-Previamente, realicé mis estudios de licenciatura y maestría en el [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} en México, y obtuve el título de maestría (M2) en Analysis and Policy in Economics en [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"} en Francia.
+Previamente, completé mi licenciatura y maestría en el [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} en México.
 
 Mis intereses de investigación se centran en la economía política del desarrollo, la economía histórica y la economía cultural/social.
 
-El enfoque central de mi investigación doctoral son las **desigualdades duraderas o persistentes**, explorando cómo los procesos históricos, las instituciones y las identidades culturales moldean de manera dinámica las disparidades económicas y sociales. Actualmente, investigo los efectos a largo plazo de la segregación colonial sobre el equilibrio espacial dentro de las ciudades y la acumulación de capital humano a través de las identidades locales o barriales. También estudio las desigualdades raciales, particularmente el colorismo, y sus efectos en la acumulación de capital humano y la discriminación directa por tono de piel.
+Mi investigación doctoral examina cómo los procesos históricos, las instituciones y las identidades culturales moldean las desigualdades persistentes, con un enfoque en dos áreas principales. Primero, investigo los efectos a largo plazo de la segregación colonial en el equilibrio espacial urbano y la acumulación de capital humano a través de las identidades vecinales. Segundo, exploro el papel de las desigualdades raciales—particularmente el colorismo—en la configuración de los resultados educativos y económicos, con un enfoque en la movilidad educativa intergeneracional y la discriminación directa.
 
-Además de mi investigación doctoral principal, me interesa la economía política del populismo: cómo las políticas populistas afectan la actividad económica y cómo las acciones de los líderes populistas influyen en las decisiones de sus seguidores.
+Más allá de mi investigación doctoral, también me interesa la economía política del populismo, específicamente cómo las políticas populistas influyen en la actividad económica y cómo las acciones de los líderes populistas moldean el partidarismo y las dinámicas sociales.
 
 ### [CV (en inglés)](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
