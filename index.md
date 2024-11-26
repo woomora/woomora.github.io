@@ -7,13 +7,13 @@ order: 0
 
 I am a PhD candidate in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and the [École des Hautes Études en Sciences Sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. My doctoral research is supervised by [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, with [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} serving on my thesis committee.
 
-I previously completed my BA and MSc at the [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} in Mexico and earned a (M2) master's degree from [PSE](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ape-analysis-policy-in-economics/){:target="_blank"}.
+I previously completed my BA and MSc at the [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} in Mexico.
 
-My research interests center on the political economy of development, historical economics, and cultural/social economics.
+My research interests focus on the political economy of development, historical economics, and cultural/social economics.
 
-The central focus of my doctoral research is on *durable or persistent inequalities*, exploring how historical processes, institutions, and cultural identities dynamically shape economic and social disparities. I am currently researching the long-term effects of colonial segregation on spatial equilibrium within cities and the accumulation of human capital through neighborhood identities. I also study racial inequalities, particularly colorism, and its effects on human capital accumulation and direct skin tone discrimination.
+My doctoral research examines how historical processes, institutions, and cultural identities shape durable inequalities, with a focus on two main areas. First, I investigate the long-term effects of colonial segregation on urban spatial equilibrium and the accumulation of human capital through neighborhood identities. Second, I explore the role of racial inequalities—particularly colorism—in shaping educational and economic outcomes, focusing on educational intergenerational mobility and direct discrimination.
 
-Apart from my main doctoral research, I am interested in the political economy of populism: how populist policies affect economic activity and the social influence of populist leaders’ actions on their partisanship decisions.
+Beyond my doctoral research, I am also interested in the political economy of populism, specifically how populist policies influence economic activity and how the actions of populist leaders shape partisanship and social dynamics.
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
