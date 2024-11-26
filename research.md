@@ -35,10 +35,8 @@ order: 1
 
 ---
 
-## Working Papers {#working-papers}
-
 **[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}**  
-*Conditionally Accepted, **European Economic Review**.*   
+*Forthcoming, **European Economic Review**.*   
 
 <p>
   <img 
@@ -55,7 +53,7 @@ order: 1
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City’s New International Airport. I show that the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3.3% to 4.5% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn. The results highlight how populist policies can impose immediate economic costs by creating uncertainty traps, even before implementing institutional changes.
+    This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City’s New International Airport. I show the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3.3% to 4.5% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn. The results highlight how populist policies can impose immediate economic costs by creating uncertainty traps, even before implementing institutional changes.
   </blockquote>
 </details> 
 <br>
@@ -66,6 +64,8 @@ order: 1
 Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-economic-consequences-populist-policy){:target="_blank"}* (en), *[Nexos](https://redaccion.nexos.com.mx/el-pecado-original-a-seis-anos-de-la-cancelacion-del-naim/){:target="_blank"}* (es), *[El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"}* (es), *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es), *[Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"}* (es). Featured in *[Suerte o desastre](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/339396-libro-suerte-o-desastre-9786073839822?srsltid=AfmBOopkkW8eXKWkqG07ojmXiYUj8Fs8lafDdIGXAZFVTbbcCgfmLJ9q){:target="_blank"}* by Isabella Cota.
 
 ---
+
+## Working Papers {#working-papers}
 
 **[Unveiling the Cosmic Race: Intergenerational Skin Tone Gaps in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
 *Under review.*
