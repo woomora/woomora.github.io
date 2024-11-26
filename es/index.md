@@ -10,9 +10,9 @@ Previamente, completé mi licenciatura y maestría en el [Centro de Investigaci�
 
 Mis intereses de investigación se centran en la economía política del desarrollo, la economía histórica y la economía cultural/social.
 
-Mi investigación doctoral examina cómo los procesos históricos, las instituciones y las identidades culturales moldean las desigualdades persistentes, con un enfoque en dos áreas principales. Primero, investigo los efectos a largo plazo de la segregación colonial en el equilibrio espacial urbano y la acumulación de capital humano a través de las identidades vecinales. Segundo, exploro el papel de las desigualdades raciales—particularmente el colorismo—en la configuración de los resultados educativos y económicos, con un enfoque en la movilidad educativa intergeneracional y la discriminación directa.
+Mi investigación doctoral examina cómo los procesos históricos, las instituciones y las identidades culturales moldean las desigualdades persistentes, con un enfoque en dos áreas principales. Primero, investigo los efectos a largo plazo de la segregación colonial en el equilibrio espacial urbano y la acumulación de capital humano a través de las identidades barriales. Segundo, exploro el papel de las desigualdades raciales—particularmente el colorismo—en los resultados educativos y económicos, estudiando brechas en la movilidad educativa intergeneracional y discriminación por tono de piel.
 
-Más allá de mi investigación doctoral, también me interesa la economía política del populismo, específicamente cómo las políticas populistas influyen en la actividad económica y cómo las acciones de los líderes populistas moldean el partidarismo y las dinámicas sociales.
+Más allá de mi investigación doctoral, también estudio la economía política del populismo: cómo las políticas populistas influyen en la actividad económica y cómo las acciones de los líderes populistas moldean las dinámicas sociales de sus seguidores.
 
 ### [CV (en inglés)](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
