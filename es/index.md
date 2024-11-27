@@ -8,11 +8,12 @@ Soy candidato a doctorado en Economía en la [Paris School of Economics (PSE)](h
 
 Previamente, completé mi licenciatura y maestría en el [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/de/){:target="_blank"} en México.
 
-Mis intereses de investigación se centran en la economía política del desarrollo, la economía histórica y la economía cultural/social.
+Mi investigación doctoral se centra en cómo los procesos históricos, las instituciones y las identidades culturales contribuyen a las desigualdades persistentes. Específicamente, examino dos áreas clave: 
 
-Mi investigación doctoral examina cómo los procesos históricos, las instituciones y las identidades culturales moldean las desigualdades persistentes, con un enfoque en dos áreas principales. Primero, investigo los efectos a largo plazo de la segregación colonial en el equilibrio espacial urbano y la acumulación de capital humano a través de las identidades barriales. Segundo, exploro el papel de las desigualdades raciales—particularmente el colorismo—en los resultados educativos y económicos, estudiando brechas en la movilidad educativa intergeneracional y discriminación por tono de piel.
+1. Los efectos a largo plazo de la segregación colonial en el equilibrio espacial urbano y el desarrollo del capital humano a través de las identidades de los barrios.  
+2. La influencia de las desigualdades raciales, particularmente el colorismo, a través de las brechas intergeneracionales y la discriminación.
 
-Más allá de mi investigación doctoral, también estudio la economía política del populismo: cómo las políticas populistas influyen en la actividad económica y cómo las acciones de los líderes populistas moldean las dinámicas sociales de sus seguidores.
+Además de mi trabajo doctoral, también me interesa la economía política del populismo: explorando cómo las políticas populistas impactan la actividad económica y cómo el comportamiento de los líderes populistas moldea las dinámicas sociales de sus seguidores.
 
 ### [CV (en inglés)](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
