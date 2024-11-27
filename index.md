@@ -5,7 +5,7 @@ filename: index
 order: 0
 ---  
 
-I am a PhD candidate in Economics at the [Paris School of Economics (PSE)](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and the [École des Hautes Études en Sciences Sociales (EHESS)](https://www.ehess.fr/fr){:target="_blank"}. My doctoral research is supervised by [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, with [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} serving on my thesis committee.
+I am a PhD candidate in Economics at [PSE](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} and [EHESS](https://www.ehess.fr/fr){:target="_blank"}. My doctoral research is supervised by [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} and [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, with [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} serving on my thesis committee.
 
 I previously completed my BA and MSc at [CIDE](https://www.cide.edu/division_de/){:target="_blank"} in Mexico.
 
