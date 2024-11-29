@@ -8,7 +8,7 @@ order: 1
 ## Publications {#publications}
 
 **[Infrastructures of Race? Colonial Indigenous Segregation and Contemporary Land Values](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
-***Regional Science and Urban Economics**, Volume 110, January 2025, 104065.*  
+***Regional Science and Urban Economics**, January 2025, Volume 110, 104065.*  
 <p>
   <img 
     style="width: 100%; height: auto;" 
