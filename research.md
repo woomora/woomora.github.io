@@ -35,8 +35,8 @@ order: 1
 
 ---
 
-**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://doi.org/10.1016/j.euroecorev.2024.104917){:target="_blank"}**  
-*Forthcoming, **European Economic Review**.*   
+**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://www.sciencedirect.com/science/article/pii/S0014292124002460?via%3Dihub){:target="_blank"}**  
+***European Economic Review**, February 2025, Volume 172, 104917.*   
 
 <p>
   <img 
