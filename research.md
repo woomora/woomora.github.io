@@ -57,7 +57,7 @@ order: 1
   </blockquote>
 </details> 
 <br>
-*[Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)]((https://ceey.org.mx/wp-content/uploads/2022/12/Consecuencias-del-pecado-Original.-Guillermo-Woo.pdf))*  
+*Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)*  
 
 [[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/c640faba-1a7b-46a9-8329-12311c56db74/audio){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
 
