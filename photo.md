@@ -1,5 +1,5 @@
 ---
-title: Photography
+title: Photo
 layout: template
 filename: 5photo
 order: 5
