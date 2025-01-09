@@ -5,8 +5,6 @@ filename: teaching
 order: 2
 --- 
 
-# Teaching
-
 ## [Unversité Paris Sciences et Lettres](https://psl.eu/){:target="_blank"}
 
 [*Sciences pour un monde durable*](https://psl.eu/formation/sciences-monde-durable){:target="_blank"} program. 
