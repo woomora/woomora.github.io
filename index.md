@@ -19,7 +19,3 @@ In addition to my doctoral work, I am also interested in the political economy o
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
 [Cambiar a Español](/es/)
-
-#### News
-
-I will be visiting [Eduardo Montero](https://www.eduardo-montero.com/home){:target="_blank"} at the University of Chicago's Harris School of Public Policy during the Autumn 2024 term. Reach out if you're around!
