@@ -25,4 +25,3 @@ order: 4
 
 - *Economía Experimental*, Juan José Ferro Hoyos. Angosta. [Estantería: la redacción en invierno](){:target="_blank"} (es), Nexos (2025).
 
----
