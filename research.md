@@ -37,7 +37,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 
 ---
 
-**[Populism's Original Sin: Short-term Populist Penalties and Uncertainty Traps](https://www.sciencedirect.com/science/article/pii/S0014292124002460?via%3Dihub){:target="_blank"}**  
+**[Populism’s original sin: Short-term populist penalties and uncertainty traps](https://www.sciencedirect.com/science/article/pii/S0014292124002460?via%3Dihub){:target="_blank"}**  
 ***European Economic Review**, February 2025, Volume 172, 104917.*   
 
 <p>
