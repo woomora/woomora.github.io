@@ -23,5 +23,5 @@ order: 4
 
 - *France*, Emile Chabal. Polity Histories. [Estantería: la redacción en verano](https://redaccion.nexos.com.mx/estanteria-la-redaccion-en-verano/){:target="_blank"} (es), Nexos (2024).
 
-- *Economía Experimental*, Juan José Ferro Hoyos. Angosta. [Estantería: la redacción en invierno](){:target="_blank"} (es), Nexos (2025).
+- *Economía Experimental*, Juan José Ferro Hoyos. Angosta. [Lecturas para iniciar el año](https://cultura.nexos.com.mx/lecturas-para-iniciar-el-ano/){:target="_blank"} (es), Nexos (2025).
 
