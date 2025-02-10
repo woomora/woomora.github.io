@@ -70,7 +70,7 @@ Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term
 ## Working Papers {#working-papers}
 
 **[Unveiling the Cosmic Race: Intergenerational Skin Tone Gaps in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
-*Under review.*
+*Submitted.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
