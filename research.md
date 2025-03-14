@@ -28,8 +28,8 @@ order: 1
   </blockquote>
 </details>
 <br>
-*Sir Alec Cairncross Prize Runner Up - Scottish Econometric Society 2022*  
-*Arthur H. Cole Grant of the Economic History Association* 
+*Sir Alec Cairncross Prize, Runner Up -- Scottish Econometric Society 2022*  
+*Arthur H. Cole Grant -- Economic History Association* 
 
 [[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}] [[Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"}] [[Ungated pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}]
 
@@ -59,7 +59,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
   </blockquote>
 </details> 
 <br>
-*Premio Manuel Espinosa Yglesias - Centro de Estudios Espinosa Yglesias (CEEY)*  
+*Premio Manuel Espinosa Yglesias, First place -- Centro de Estudios Espinosa Yglesias (CEEY) 2022*  
 
 [[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/c640faba-1a7b-46a9-8329-12311c56db74/audio){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
 
@@ -70,7 +70,7 @@ Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term
 ## Working Papers {#working-papers}
 
 **[Unveiling the Cosmic Race: Intergenerational Skin Tone Gaps in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
-*Submitted.*
+*Under review.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -97,7 +97,9 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
 ---
 
 **[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"}, Federico Daverio, and [Max Ponce de León](https://sites.google.com/view/antoniomaximoponcedeleon){:target="_blank"}*.  
-*Under review.*
+
+  > New draft coming soon!
+
 <p>
   <img 
     style="width: 100%; height: auto;" 
@@ -171,7 +173,8 @@ The findings underscore direct skin tone discrimination in football and highligh
 </details> 
 <br>
 
-*Research Grant Descentralización y Capacidades Subnacionales en América Latina y el Caribe -- CAF*
+*Premio Víctor L. Urquidi, Honorific mention -- Centro de Estudios Económicos, El Colegio de México*  
+*Research Grant: Descentralización y Capacidades Subnacionales en América Latina y el Caribe -- CAF*
 
 ---
 
@@ -208,5 +211,5 @@ Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/PFRLI.png)
 
-*First Place Undergraduate Thesis – Citibanamex Economics Prize 2019*
+*Citibanamex Economics Prize, First Place Undergraduate Thesis –- Citibanamex 2019*
 
