@@ -31,7 +31,7 @@ order: 1
 *Sir Alec Cairncross Prize, Runner Up -- Scottish Econometric Society 2022*  
 *Arthur H. Cole Grant -- Economic History Association* 
 
-[[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}] [[Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"}] [[Ungated pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}]
+[[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}] [[Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}]
 
 Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-colonial-segregation-policies-impact-land-values-mexico){:target="_blank"}* (en), *[Broadstreet](https://www.broadstreet.blog/p/infrastructures-of-race-colonial){:target="_blank"}* (en).
 
@@ -61,9 +61,9 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 <br>
 *Premio Manuel Espinosa Yglesias, First place -- Centro de Estudios Espinosa Yglesias (CEEY) 2022*  
 
-[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/c640faba-1a7b-46a9-8329-12311c56db74/audio){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
+[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/c640faba-1a7b-46a9-8329-12311c56db74/audio){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
 
-Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-economic-consequences-populist-policy){:target="_blank"}* (en), *[Nexos](https://redaccion.nexos.com.mx/el-pecado-original-a-seis-anos-de-la-cancelacion-del-naim/){:target="_blank"}* (es), *[El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"}* (es), *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es), *[Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"}* (es). Featured in *[Suerte o desastre](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/339396-libro-suerte-o-desastre-9786073839822?srsltid=AfmBOopkkW8eXKWkqG07ojmXiYUj8Fs8lafDdIGXAZFVTbbcCgfmLJ9q){:target="_blank"}* by Isabella Cota.
+Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-economic-consequences-populist-policy){:target="_blank"}* (en), *[Nexos](https://redaccion.nexos.com.mx/el-pecado-original-a-seis-anos-de-la-cancelacion-del-naim/){:target="_blank"}* (es), *[El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"}* (es), *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es), *[Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"}* (es). Featured in *[Texcoco. La decisión del presidente](https://youtu.be/LgkPqHmvMtQ?si=3ki4Zi8TJlghkQBv){:target="_blank"}* by CEEY and *[Suerte o desastre](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/339396-libro-suerte-o-desastre-9786073839822?srsltid=AfmBOopkkW8eXKWkqG07ojmXiYUj8Fs8lafDdIGXAZFVTbbcCgfmLJ9q){:target="_blank"}* by Isabella Cota.
 
 ---
 
