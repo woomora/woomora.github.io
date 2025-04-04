@@ -13,9 +13,9 @@ My primary field is the political economy of development. My doctoral research i
 
 My current projects explore:
 
-	1. The long-term effects of historical segregation on urban spatial equilibrium and human capital formation, with a particular emphasis on neighborhood identity.
-	2. The intergenerational and economic consequences of color-based discrimination, focusing on how it shapes opportunities and reinforces inequality.
-	3. The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities.
+1. The long-term effects of historical segregation on urban spatial equilibrium and human capital formation, with a particular emphasis on neighborhood identity.
+2. The intergenerational and economic consequences of color-based discrimination, focusing on how it shapes opportunities and reinforces inequality.
+3. The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities.
 
 In addition, I study the political economy of populism, analyzing how populist leaders’ policy choices and public discourse affect economic outcomes, social welfare, and partisan dynamics.
 
