@@ -12,9 +12,10 @@ I previously completed my BA and MSc at [CIDE](https://www.cide.edu/division_de/
 My primary field is the political economy of development. My doctoral research investigates how historical legacies, institutional arrangements, and cultural identities shape persistent inequalities across space and social groups. Drawing on insights from historical and cultural economics and employing spatial methods, I aim to identify the structural forces underlying these disparities and contribute to strategies that promote inclusive development.
 
 My current projects explore:
-	1.	The long-term effects of historical segregation on urban spatial equilibrium and human capital formation, with a particular emphasis on neighborhood identity.
-	2.	The intergenerational and economic consequences of color-based discrimination, focusing on how it shapes opportunities and reinforces inequality.
-	3.	The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities.
+
+	1. The long-term effects of historical segregation on urban spatial equilibrium and human capital formation, with a particular emphasis on neighborhood identity.
+	2. The intergenerational and economic consequences of color-based discrimination, focusing on how it shapes opportunities and reinforces inequality.
+	3. The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities.
 
 In addition, I study the political economy of populism, analyzing how populist leaders’ policy choices and public discourse affect economic outcomes, social welfare, and partisan dynamics.
 
