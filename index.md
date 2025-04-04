@@ -9,12 +9,14 @@ I am a PhD candidate in Economics at [PSE](https://www.parisschoolofeconomics.eu
 
 I previously completed my BA and MSc at [CIDE](https://www.cide.edu/division_de/){:target="_blank"} in Mexico.
 
-My doctoral research focuses on how historical processes, institutions, and cultural identities contribute to persistent inequalities. Specifically, I examine two key areas: 
+My primary field is the political economy of development. My doctoral research investigates how historical legacies, institutional arrangements, and cultural identities shape persistent inequalities across space and social groups. Drawing on insights from historical and cultural economics and employing spatial methods, I aim to identify the structural forces underlying these disparities and contribute to strategies that promote inclusive development.
 
-1. The long-term effects of colonial segregation on urban spatial equilibrium and the development of human capital through neighborhood identities.  
-2. The influence of racial inequalities, particularly colorism, through intergenerational gaps and discrimination.
+My current projects explore:
+	1.	The long-term effects of historical segregation on urban spatial equilibrium and human capital formation, with a particular emphasis on neighborhood identity.
+	2.	The intergenerational and economic consequences of color-based discrimination, focusing on how it shapes opportunities and reinforces inequality.
+	3.	The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities.
 
-In addition to my doctoral work, I am also interested in the political economy of populism: exploring how populist policies impact economic activity and how the behavior of populist leaders shapes the social dynamics of their partisanship.
+In addition, I study the political economy of populism, analyzing how populist leaders’ policy choices and public discourse affect economic outcomes, social welfare, and partisan dynamics.
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
