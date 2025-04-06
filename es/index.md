@@ -8,7 +8,8 @@ Soy candidato a doctor en Economía en [PSE](https://www.parisschoolofeconomics.
 
 Previamente, estudié mi licenciatura y maestría en el [CIDE](https://www.cide.edu/division_de/){:target="_blank"} en México.
 
-Mi campo principal es la economía política del desarrollo. Mi investigación doctoral analiza cómo los legados históricos, institucionales y las identidades culturales moldean desigualdades persistentes en distintos territorios y grupos sociales. Con base en aportaciones de la economía histórica y cultural, y empleando métodos espaciales, busco identificar qué explica disparidades y contribuir a estrategias que promuevan un desarrollo inclusivo.
+Mi campo principal es la economía política del desarrollo. Mi investigación doctoral analiza cómo los legados históricos, institucionales y las identidades culturales moldean desigualdades persistentes en distintos territorios y grupos sociales. 
+<!--- Con base en aportaciones de la economía histórica y cultural, y empleando métodos espaciales, busco identificar qué explica disparidades y contribuir a estrategias que promuevan un desarrollo inclusivo. --->
 
 Mis proyectos actuales abarcan:
 
