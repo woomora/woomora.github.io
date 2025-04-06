@@ -9,7 +9,8 @@ I am a PhD candidate in Economics at [PSE](https://www.parisschoolofeconomics.eu
 
 I previously completed my BA and MSc at [CIDE](https://www.cide.edu/division_de/){:target="_blank"} in Mexico.
 
-My primary field is the political economy of development. My doctoral research investigates how historical legacies, institutional arrangements, and cultural identities shape persistent inequalities across space and social groups. Drawing on insights from historical and cultural economics and employing spatial methods, I aim to identify the structural forces underlying these disparities and contribute to strategies that promote inclusive development.
+My primary field is the political economy of development. My doctoral research investigates how historical legacies, institutional arrangements, and cultural identities shape persistent inequalities across space and social groups. 
+<!--- Drawing on insights from historical and cultural economics and employing spatial methods, I aim to identify the structural forces underlying these disparities and contribute to strategies that promote inclusive development. --->
 
 My current projects explore:
 
