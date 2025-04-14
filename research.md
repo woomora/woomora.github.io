@@ -186,11 +186,21 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
 
-*Reserach Grant: Inequality over the life course -- UNU-WIDER*
+*Reserach Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*
 *Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  
 *Best Graduate Thesis in Applied Economics – CIDE 2020*  
 
-Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es).
+<!--- Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es). --->
+
+---
+
+**[Cooperative Firms and Local Development]()**  
+
+  > Draft coming soon!
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/capeltic_economia_solidaria.png)
+
+*Research Grant: The Rural World in Latin America and the Caribbean -- CAF*
 
 ---
 
