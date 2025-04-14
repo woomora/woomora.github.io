@@ -198,7 +198,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
   > Draft coming soon!
 
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/capeltic_economia_solidaria.png)
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev.png)
 
 *Research Grant: The Rural World in Latin America and the Caribbean -- CAF*
 
