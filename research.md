@@ -5,12 +5,9 @@ filename: research
 order: 1
 --- 
 
-<div style="position: sticky; top: 0; background: #f9f9f9; padding: 1em; border: 1px solid #ddd;">
-  **Quick Links**  
   - [Publications](#publications)  
   - [Working Papers](#working-papers)  
-  - [Work in Progress](#work-in-progress)  
-</div>
+  - [Work in Progress](#work-in-progress)
 
 ---
 
