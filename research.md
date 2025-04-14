@@ -5,6 +5,15 @@ filename: research
 order: 1
 --- 
 
+<div style="position: sticky; top: 0; background: #f9f9f9; padding: 1em; border: 1px solid #ddd;">
+  **Quick Links**  
+  - [Publications](#publications)  
+  - [Working Papers](#working-papers)  
+  - [Work in Progress](#work-in-progress)  
+</div>
+
+---
+
 ## Publications {#publications}
 
 **[Infrastructures of race? Colonial indigenous segregation and contemporary land values](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
