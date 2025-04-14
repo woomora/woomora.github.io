@@ -5,7 +5,10 @@ filename: research
 order: 1
 --- 
 
-Links: [Publications](#publications)   [Working Papers](#working-papers)   [Work in Progress](#work-in-progress)
+Links: 
+[Publications](#publications)&nbsp;&nbsp;&nbsp;
+[Working Papers](#working-papers)&nbsp;&nbsp;&nbsp;
+[Work in Progress](#work-in-progress)
 
 ---
 
