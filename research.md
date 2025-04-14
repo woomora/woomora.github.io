@@ -193,7 +193,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
 
-*Reserach Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*
+*Reserach Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*<br>
 *Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  
 *Best Graduate Thesis in Applied Economics – CIDE 2020*  
 
