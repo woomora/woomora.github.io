@@ -76,8 +76,8 @@ Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term
 
 ## Working Papers {#working-papers}
 
-**[Unveiling the Cosmic Race: Intergenerational Skin Tone Gaps in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
-*Under review.*
+**[Unveiling the Cosmic Race: Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
+*Conditionally accepted, Journal of Development Economics.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
