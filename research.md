@@ -201,8 +201,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
-**[Cooperative Firms and Local Development]()**  
-
+**[Cooperative Firms and Local Development]()**  *with Guillermo Woo-Gómez*
   > Draft coming soon!
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev.png)
