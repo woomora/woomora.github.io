@@ -13,12 +13,11 @@ My primary field is the political economy of development. My doctoral research i
 <!--- Drawing on insights from historical and cultural economics and employing spatial methods, I aim to identify the structural forces underlying these disparities and contribute to strategies that promote inclusive development. --->
 
 My current projects explore:
+  1.	How colonial-era segregation shapes modern urban inequality, combining evidence on land prices and educational outcomes with a focus on neighborhood identity as a persistent cultural mechanism.
+	2.	How skin tone shapes economic inequality, drawing on cross-country evidence on income and educational mobility, novel machine-assessed skin tone measures, and causal estimates of discrimination.
+<!--- 3. The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities. --->
 
-1. The long-term effects of historical segregation on urban spatial equilibrium and human capital formation, with a particular emphasis on neighborhood identity.
-2. The intergenerational and economic consequences of color-based discrimination, focusing on how it shapes opportunities and reinforces inequality.
-3. The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities.
-
-In addition, I study the political economy of populism, analyzing how populist leaders’ policy choices and public discourse affect economic outcomes, social welfare, and partisan dynamics.
+In addition, I pursue a separate line of research on the political economy of populism, showing how populist uncertainty depresses economic activity and how leaders’ cues—rather than partisanship preferences—undermine public health behavior.
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
