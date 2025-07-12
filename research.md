@@ -14,33 +14,30 @@ order: 1
 
 ## Publications {#publications}
 
-**[Infrastructures of race? Colonial indigenous segregation and contemporary land values](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
-***Regional Science and Urban Economics**, January 2025, Volume 110, 104065.*  
+**[Unveiling the Cosmic Race: Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
+*Forthcoming, Journal of Development Economics.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR2.png';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png" 
-  />
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.jpeg';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg" 
+   />
   <br />
-  <small>Image credit: <a href="http://bdmx.mx/documento/galeria/mapas-indigenas-novohispanos-agn/co_imagen33/fo_05t=" target="_blank">Archivo General de la Nación: Molinos de azúcar, Tacubaya. Distrito Federal, 1587.</a></small>
+  <small>Image credit: <a href="https://lugares.inah.gob.mx/es/museos-inah/museo/museo-piezas/8409-8409-10-241348-cuadro-de-castas.html?lugar_id=475" target="_blank"><em>Cuadro de castas</em> - Unknown artist, Museo Nacional del Virreinato</a></small>
 </p>
 
 <details>
-  <summary>Abstract</summary>
+  <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-     We investigate the persistent impact of a colonial segregation policy on land values in modern Mexico City. During colonial times, Indigenous communities were confined, with varying degrees of success, to settlements known as pueblos de indios. Using historical records, we exploit quasi-random variation due to the pueblos’ catchment areas and use a Regression Discontinuity Design to estimate the causal effects of pueblos on land prices. We find a 5% land value penalty for areas affected by the colonial policy. The penalty is exacerbated for the pueblos formerly inhabited exclusively by Indigenous populations. Historical evidence and novel digitized maps reveal that these land value penalties have been driven over the past two centuries by low public goods provision, negative economic expectations, and the historical sorting of working-class individuals who built small housing structures that are second-nature factors. Moreover, in contemporary data, we observe discontinuities in housing overcrowding and public goods quality within the pueblos’ catchment areas. Our results underscore the repercussions of colonial policies on contemporary spatial equilibria, clarifying the mechanisms driving historical persistence and offering implications for urban policies.
+    This paper examines how skin tone shapes intergenerational economic disparities across 25 Latin American and Caribbean countries. First, it analyzes the distribution of ethnoracial identities and skin tone, confirming Mestizo predominance and revealing how broad categories obscure substantial phenotypic diversity. Second, it documents non-linear gaps in income and education, with darker skin tones consistently linked to economic disadvantages. A variance decomposition shows that skin tone explains significant within-group variation, offering explanatory power beyond self-reported ethnoracial categories. Finally, using mothers' education as a benchmark, the study provides novel cross-country evidence on skin tone gaps in absolute educational intergenerational mobility, revealing barriers to upward mobility for darker-skinned individuals. Robustness checks with machine-assessed skin tone data from Mexico, incorporating additional parental and contextual controls, confirm these disparities. These findings underscore the need to account for phenotypic variation when studying economic inequality in Latin America.
   </blockquote>
-</details>
+</details> 
 <br>
-*Sir Alec Cairncross Prize, Runner Up -- Scottish Econometric Society 2022*  
-*Arthur H. Cole Grant -- Economic History Association* 
+[[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/26cc8c86-0300-4174-9dfb-12125ca41f48/audio){:target="_blank"}]
 
-[[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}] [[Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}]
-
-Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-colonial-segregation-policies-impact-land-values-mexico){:target="_blank"}* (en), *[Broadstreet](https://www.broadstreet.blog/p/infrastructures-of-race-colonial){:target="_blank"}* (en).
+Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
 
@@ -74,34 +71,39 @@ Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term
 
 ---
 
-## Working Papers {#working-papers}
-
-**[Unveiling the Cosmic Race: Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
-*Conditionally accepted, Journal of Development Economics.*
+**[Infrastructures of race? Colonial indigenous segregation and contemporary land values](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
+***Regional Science and Urban Economics**, January 2025, Volume 110, 104065.*  
 <p>
   <img 
     style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.jpeg';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg" 
-   />
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR2.png';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png" 
+  />
   <br />
-  <small>Image credit: <a href="https://lugares.inah.gob.mx/es/museos-inah/museo/museo-piezas/8409-8409-10-241348-cuadro-de-castas.html?lugar_id=475" target="_blank"><em>Cuadro de castas</em> - Unknown artist, Museo Nacional del Virreinato</a></small>
+  <small>Image credit: <a href="http://bdmx.mx/documento/galeria/mapas-indigenas-novohispanos-agn/co_imagen33/fo_05t=" target="_blank">Archivo General de la Nación: Molinos de azúcar, Tacubaya. Distrito Federal, 1587.</a></small>
 </p>
 
 <details>
-  <summary> Abstract </summary>  
+  <summary>Abstract</summary>
   <br>
   <blockquote style="text-align: justify;">
-    This paper examines how skin tone shapes intergenerational economic disparities across 25 Latin American and Caribbean countries. First, it analyzes the distribution of ethnoracial identities and skin tone, confirming Mestizo predominance and revealing how broad categories obscure substantial phenotypic diversity. Second, it documents non-linear gaps in income and education, with darker skin tones consistently linked to economic disadvantages. A variance decomposition shows that skin tone explains significant within-group variation, offering explanatory power beyond self-reported ethnoracial categories. Finally, using mothers’ education as a benchmark, the study provides novel cross-country evidence on skin tone gaps in absolute educational intergenerational mobility, revealing barriers to upward mobility for darker-skinned individuals. Robustness checks with machine-assessed skin tone data from Mexico—incorporating additional parental and contextual controls—confirm these disparities. These findings underscore the need to account for phenotypic variation when studying economic inequality in Latin America.
+     We investigate the persistent impact of a colonial segregation policy on land values in modern Mexico City. During colonial times, Indigenous communities were confined, with varying degrees of success, to settlements known as pueblos de indios. Using historical records, we exploit quasi-random variation due to the pueblos’ catchment areas and use a Regression Discontinuity Design to estimate the causal effects of pueblos on land prices. We find a 5% land value penalty for areas affected by the colonial policy. The penalty is exacerbated for the pueblos formerly inhabited exclusively by Indigenous populations. Historical evidence and novel digitized maps reveal that these land value penalties have been driven over the past two centuries by low public goods provision, negative economic expectations, and the historical sorting of working-class individuals who built small housing structures that are second-nature factors. Moreover, in contemporary data, we observe discontinuities in housing overcrowding and public goods quality within the pueblos’ catchment areas. Our results underscore the repercussions of colonial policies on contemporary spatial equilibria, clarifying the mechanisms driving historical persistence and offering implications for urban policies.
   </blockquote>
-</details> 
+</details>
 <br>
-[[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/26cc8c86-0300-4174-9dfb-12125ca41f48/audio){:target="_blank"}]
+*Sir Alec Cairncross Prize, Runner Up -- Scottish Econometric Society 2022*  
+*Arthur H. Cole Grant -- Economic History Association* 
 
-Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
+[[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}] [[Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}]
+
+Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-colonial-segregation-policies-impact-land-values-mexico){:target="_blank"}* (en), *[Broadstreet](https://www.broadstreet.blog/p/infrastructures-of-race-colonial){:target="_blank"}* (en).
 
 ---
+
+## Working Papers {#working-papers}
+
+
 
 **[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and Federico Daverio*.  
 
