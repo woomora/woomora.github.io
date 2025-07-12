@@ -14,7 +14,7 @@ My primary field is the political economy of development. My doctoral research i
 
 My current projects explore:
   1.	How colonial-era segregation shapes modern urban inequality, combining evidence on land prices and educational outcomes with a focus on neighborhood identity as a persistent cultural mechanism.
-	2.	How skin tone shapes economic inequality, drawing on cross-country evidence on income and educational mobility, novel machine-assessed skin tone measures, and causal estimates of discrimination.
+  2.	How skin tone shapes economic inequality, drawing on cross-country evidence on income and educational mobility, novel machine-assessed skin tone measures, and causal estimates of discrimination.
 <!--- 3. The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities. --->
 
 In addition, I pursue a separate line of research on the political economy of populism, showing how populist uncertainty depresses economic activity and how leaders’ cues—rather than partisanship preferences—undermine public health behavior.
