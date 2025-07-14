@@ -13,9 +13,9 @@ Mi campo principal es la economía política del desarrollo. Mi investigación d
 
 Mis proyectos actuales exploran:
   1. Cómo la segregación colonial sigue configurando la desigualdad urbana en la actualidad, combinando evidencia sobre precios del suelo y resultados educativos, con un enfoque en la identidad barrial como un mecanismo cultural persistente.
-  2. Cómo el color de piel influye en la desigualdad económica, a partir de evidencia comparada sobre ingresos y movilidad educativa intergeneracional, nuevas mediciones automatizadas de tonalidad de piel y estimaciones causales de discriminación.
+  2. Cómo el color de piel influye en la desigualdad económica, a partir de evidencia comparada sobre ingresos y movilidad educativa intergeneracional, nuevas mediciones automatizadas de tonos de piel y estimaciones causales de discriminación.
 
-Además, desarrollo una línea de investigación separada sobre la economía política del populismo, en la que muestro cómo la incertidumbre generada por líderes populistas afecta negativamente la actividad económica, y cómo las señales enviadas por estos líderes—más que las preferencias partidistas de sus seguidores—debilitan el cumplimiento de medidas de salud pública.
+Además, desarrollo una línea de investigación separada sobre la economía política del populismo, en la que muestro cómo la incertidumbre generada por políticas populistas afecta negativamente la actividad económica, y cómo las señales enviadas por líderes populistas, más que las preferencias partidistas de sus seguidores, debilitan el cumplimiento de medidas de salud pública.
 
 ### [CV (en inglés)](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
