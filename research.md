@@ -41,8 +41,7 @@ Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/econ
 
 ---
 
-**[Populism’s original sin: Short-term populist penalties and uncertainty traps](https://www.sciencedirect.com/science/article/pii/S0014292124002460?via%3Dihub){:target="_blank"}**  
-***European Economic Review**, February 2025, Volume 172, 104917.*   
+**[Populism’s original sin: Short-term populist penalties and uncertainty traps](https://www.sciencedirect.com/science/article/pii/S0014292124002460?via%3Dihub){:target="_blank"}**. ***European Economic Review**, February 2025, Volume 172, 104917.*   
 
 <p>
   <img 
@@ -71,8 +70,7 @@ Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term
 
 ---
 
-**[Infrastructures of race? Colonial indigenous segregation and contemporary land values](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
-***Regional Science and Urban Economics**, January 2025, Volume 110, 104065.*  
+**[Infrastructures of race? Colonial indigenous segregation and contemporary land values](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*. ***Regional Science and Urban Economics**, January 2025, Volume 110, 104065.*  
 <p>
   <img 
     style="width: 100%; height: auto;" 
