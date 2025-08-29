@@ -14,7 +14,7 @@ order: 1
 
 ## Publications {#publications}
 
-**[Unveiling the Cosmic Race: Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
+**[Unveiling the Cosmic Race: Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean](https://doi.org/10.1016/j.jdeveco.2025.103594){:target="_blank"}**.
 *Forthcoming, Journal of Development Economics.*
 <p>
   <img 
@@ -35,9 +35,9 @@ order: 1
   </blockquote>
 </details> 
 <br>
-[[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"}] [[NLM Podcast (es)](https://notebooklm.google.com/notebook/26cc8c86-0300-4174-9dfb-12125ca41f48/audio){:target="_blank"}] [[NLM Podcast (en)](https://notebooklm.google.com/notebook/c3374d21-cb0b-4cb5-848e-28dd5018223f/audio){:target="_blank"}]
+[[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}] [[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"}] [[NLM Podcast (es)](https://notebooklm.google.com/notebook/26cc8c86-0300-4174-9dfb-12125ca41f48/audio){:target="_blank"}] [[NLM Podcast (en)](https://notebooklm.google.com/notebook/c3374d21-cb0b-4cb5-848e-28dd5018223f/audio){:target="_blank"}]
 
-Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
+Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-skin-tone-still-shapes-inequality-latin-america-and)* (en), *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
 
