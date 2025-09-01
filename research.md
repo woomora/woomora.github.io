@@ -104,7 +104,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 
 **[Moral Force, Contagious Force: Partisanship, Populist Leadership, and Public Health Compliance during COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and Federico Daverio*.  
 
-  > New draft coming soon!
+  > New draft now available!
 
 <p>
   <img 
