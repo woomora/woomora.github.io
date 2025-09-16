@@ -15,7 +15,7 @@ order: 1
 ## Publications {#publications}
 
 **[Unveiling the Cosmic Race: Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean](https://doi.org/10.1016/j.jdeveco.2025.103594){:target="_blank"}**.
-*Forthcoming, Journal of Development Economics.*
+*Journal of Development Economics, February 2026, Volume 179, 103594.*
 <p>
   <img 
     style="width: 100%; height: auto;" 
