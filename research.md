@@ -19,7 +19,7 @@ order: 1
 <p>
   <img 
     style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg';" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR3.jpeg';" 
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.jpeg';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg" 
    />
@@ -35,7 +35,7 @@ order: 1
   </blockquote>
 </details> 
 <br>
-[[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}] [[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"}] [[NLM Podcast (es)](https://notebooklm.google.com/notebook/26cc8c86-0300-4174-9dfb-12125ca41f48/audio){:target="_blank"}] [[NLM Podcast (en)](https://notebooklm.google.com/notebook/c3374d21-cb0b-4cb5-848e-28dd5018223f/audio){:target="_blank"}]
+[[Skin tone plots](https://billywoom.shinyapps.io/UnveilingTheCosmicRaceApp/){:target="_blank"}] [[Replication](https://github.com/woomora/UCR_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}]  
 
 Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-skin-tone-still-shapes-inequality-latin-america-and){:target="_blank"}* (en), *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
@@ -64,7 +64,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-ski
 <br>
 *Premio Manuel Espinosa Yglesias, First place -- Centro de Estudios Espinosa Yglesias (CEEY) 2022*  
 
-[[Updated GDP Estimates](https://billywoom.shinyapps.io/PopulismOriginalSinApp/){:target="_blank"}] [[NotebookLM (en)](https://notebooklm.google.com/notebook/744614e0-6c41-4ccc-be46-b7579a6f598d/audio){:target="_blank"}] [[NotebookLM (es)](https://notebooklm.google.com/notebook/b9bf643d-fe4a-4f9c-97ef-79519ac707f4/audio){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
+[[Updated GDP Estimates](https://billywoom.shinyapps.io/PopulismOriginalSinApp/){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
 
 Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-economic-consequences-populist-policy){:target="_blank"}* (en), *[Nexos](https://redaccion.nexos.com.mx/el-pecado-original-a-seis-anos-de-la-cancelacion-del-naim/){:target="_blank"}* (es), *[El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"}* (es), *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es), *[Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"}* (es). Featured in *[Texcoco. La decisión del presidente](https://youtu.be/LgkPqHmvMtQ?si=3ki4Zi8TJlghkQBv){:target="_blank"}* by CEEY and *[Suerte o desastre](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/340427-ebook-suerte-o-desastre-9786073839914?srsltid=AfmBOor4ins7pOPeVdJdHMPuwSycamnvP5mt9ubd9k7OmK4_u0gVTqHp){:target="_blank"}* by Isabella Cota.
 
@@ -93,7 +93,7 @@ Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term
 *Sir Alec Cairncross Prize, Runner Up -- Scottish Econometric Society 2022*  
 *Arthur H. Cole Grant -- Economic History Association* 
 
-[[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}] [[Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}]
+[[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}]
 
 Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-colonial-segregation-policies-impact-land-values-mexico){:target="_blank"}* (en), *[Broadstreet](https://www.broadstreet.blog/p/infrastructures-of-race-colonial){:target="_blank"}* (en).
 
@@ -126,7 +126,6 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 </details> 
 <br>
 
-[[NotebookLM Podcast](https://notebooklm.google.com/notebook/6d3b9570-a33f-4f60-b502-bf76733e2184/audio){:target="_blank"}]
 
 ---
 
