@@ -37,7 +37,7 @@ order: 1
 <br>
 [[App: Skin tone plots](https://billywoom.shinyapps.io/UnveilingTheCosmicRaceApp/){:target="_blank"}] [[LM Podcast (EN)](https://on.soundcloud.com/QbSr3iwl3tBAFAkUa8){:target="_blank"}] [[LM Podcast (ES)](https://on.soundcloud.com/Oc5c6wjT8knTOX6DDW){:target="_blank"}] [[Replication](https://github.com/woomora/UCR_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}]  
 
-Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-skin-tone-still-shapes-inequality-latin-america-and){:target="_blank"}* (en), *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
+Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-skin-tone-still-shapes-inequality-latin-america-and){:target="_blank"}* (en), *[PSE – Economics for everyone](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
 ---
 
