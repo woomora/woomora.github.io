@@ -21,7 +21,7 @@ order: 1
     style="width: 100%; height: auto;" 
     onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR3.jpeg';" 
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.jpeg';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR3.jpeg" 
    />
   <br />
   <small>Image credit: <a href="https://fomentoculturalbanamex.org/exposiciones/exposiciones/miguel-covarrubias-una-mirada-sin-fronteras/" target="_blank"><em>Diagrama de castas</em> - Miguel Covarrubias, Ilustraciones para el libro <em>Historia del Pueblo Mexicano (circa 1950)</em></a></small>
