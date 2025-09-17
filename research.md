@@ -24,7 +24,7 @@ order: 1
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg" 
    />
   <br />
-  <small>Image credit: <a href="https://lugares.inah.gob.mx/es/museos-inah/museo/museo-piezas/8409-8409-10-241348-cuadro-de-castas.html?lugar_id=475" target="_blank"><em>Cuadro de castas</em> - Unknown artist, Museo Nacional del Virreinato</a></small>
+  <small>Image credit: <a href="[https://lugares.inah.gob.mx/es/museos-inah/museo/museo-piezas/8409-8409-10-241348-cuadro-de-castas.html?lugar_id=475](https://live.mortonsubastas.com/online-auctions/morton-subastas/miguel-covarrubias-ilustraciones-para-el-libro-historia-del-pueblo-mexicano-2-firmados-tinta-sobre-papel-medidas-variables-pzas-23-5424193#mz-expanded-view-960181048604)" target="_blank"><em>Cuadro de castas</em> - Miguel Covarrubias, Ilustraciones para el libro Historia del Pueblo Mexicano</a></small>
 </p>
 
 <details>
