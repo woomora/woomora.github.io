@@ -35,7 +35,7 @@ order: 1
   </blockquote>
 </details> 
 <br>
-[[Skin tone plots](https://billywoom.shinyapps.io/UnveilingTheCosmicRaceApp/){:target="_blank"}] [[Replication](https://github.com/woomora/UCR_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}]  
+[[App: Skin tone plots](https://billywoom.shinyapps.io/UnveilingTheCosmicRaceApp/){:target="_blank"}] [[LM Podcast (EN)](https://on.soundcloud.com/QbSr3iwl3tBAFAkUa8){:target="_blank"}] [[LM Podcast (ES)](https://on.soundcloud.com/Oc5c6wjT8knTOX6DDW){:target="_blank"}] [[Replication](https://github.com/woomora/UCR_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}]  
 
 Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-skin-tone-still-shapes-inequality-latin-america-and){:target="_blank"}* (en), *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
 
@@ -64,7 +64,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-ski
 <br>
 *Premio Manuel Espinosa Yglesias, First place -- Centro de Estudios Espinosa Yglesias (CEEY) 2022*  
 
-[[Updated GDP Estimates](https://billywoom.shinyapps.io/PopulismOriginalSinApp/){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
+[[App: Updated GDP Estimates](https://billywoom.shinyapps.io/PopulismOriginalSinApp/){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
 
 Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-economic-consequences-populist-policy){:target="_blank"}* (en), *[Nexos](https://redaccion.nexos.com.mx/el-pecado-original-a-seis-anos-de-la-cancelacion-del-naim/){:target="_blank"}* (es), *[El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"}* (es), *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es), *[Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"}* (es). Featured in *[Texcoco. La decisión del presidente](https://youtu.be/LgkPqHmvMtQ?si=3ki4Zi8TJlghkQBv){:target="_blank"}* by CEEY and *[Suerte o desastre](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/340427-ebook-suerte-o-desastre-9786073839914?srsltid=AfmBOor4ins7pOPeVdJdHMPuwSycamnvP5mt9ubd9k7OmK4_u0gVTqHp){:target="_blank"}* by Isabella Cota.
 
