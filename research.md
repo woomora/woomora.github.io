@@ -186,7 +186,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 **[Lifting Each Other Up: How Cooperative Firms Foster Local Development](https://scioteca.caf.com/handle/123456789/2535){:target="_blank"}**  *with Guillermo Woo-Gómez*
 
-  > New draft!
+  > New working paper!
 
 <p>
   <img 
