@@ -130,7 +130,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 
 ---
 
-**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
+**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612){:target="_blank"}**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
 
   > New draft coming soon!
 
@@ -158,7 +158,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
-**[Embracing modernity pays: Cadastre modernization effects on local property tax collection](https://scioteca.caf.com/handle/123456789/2301?locale-attribute=en)**  *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and [Emmanuel Chávez](https://emmanuelchavez.weebly.com/){:target="_blank"}.*
+**[Embracing modernity pays: Cadastre modernization effects on local property tax collection](https://scioteca.caf.com/handle/123456789/2301?locale-attribute=en){:target="_blank"}**  *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and [Emmanuel Chávez](https://emmanuelchavez.weebly.com/){:target="_blank"}.*
 
 <p>
   <img 
@@ -184,13 +184,13 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
-**[Lifting Each Other Up: How Cooperative Firms Foster Local Development](https://scioteca.caf.com/handle/123456789/2535)**  *with Guillermo Woo-Gómez*
+**[Lifting Each Other Up: How Cooperative Firms Foster Local Development](https://scioteca.caf.com/handle/123456789/2535){:target="_blank"}**  *with Guillermo Woo-Gómez*
 
   > New draft!
 
 <p>
   <img 
-    style="width: 100%; height: auto;" 
+    style="width: 100%; height: 400;" 
     onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev.png';" 
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev2.png';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev.png" 
