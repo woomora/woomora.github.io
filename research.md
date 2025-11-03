@@ -126,6 +126,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 </details> 
 <br>
 
+*Premio Banamex de Economia 2024, Honorable mention*  
 
 ---
 
@@ -178,8 +179,35 @@ The findings underscore direct skin tone discrimination in football and highligh
 </details> 
 <br>
 
-*Premio Víctor L. Urquidi, Honorific mention -- Centro de Estudios Económicos, El Colegio de México*  
+*Premio Víctor L. Urquidi, Honorable mention -- Centro de Estudios Económicos, El Colegio de México*  
 *Research Grant: Descentralización y Capacidades Subnacionales en América Latina y el Caribe -- CAF*
+
+---
+
+**[Lifting Each Other Up: How Cooperative Firms Foster Local Development](https://scioteca.caf.com/handle/123456789/2535)**  *with Guillermo Woo-Gómez*
+
+  > New draft!
+
+<p>
+  <img 
+    style="width: 100%; height: auto;" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev.png';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev2.png';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev.png" 
+  />
+  <small>Image credit: <a href="https://www.capeltic.org/" target="_blank"> Capeltic</a></small>
+</p>
+
+<details>
+  <summary> Abstract </summary>  
+  <br>
+  <blockquote style="text-align: justify;">
+    Do cooperative firms foster local economic development? This paper examines Mexico, assembling a new georeferenced panel dataset at the 10 × 10 km grid-cell level for 2015–2023. Across multiple research designs, we consistently find that cooperative presence boosts local development, measured by nightlight intensity. An event-study design shows persistent extensivemargin gains of 6–8% within four years of entry. To address selection concerns, we implement a shift–share IV strategy based on endogenous lagged-cooperative presence and plausibly exogenous sectoral growth shocks; the results imply that one additional cooperative increases nightlight density by about 2.7%. Complementary census evidence links cooperatives to higher schooling, home asset ownership, and decrease migration pressures. We also document stronger effects in Indigenous communities, where cooperatives have longer survival spells. Aggregate patterns suggest that cooperatives increase agricultural specialization but with clear productivity gains, while redistributive effects raise local disposable income and decrease poverty. These findings provide novel causal evidence that cooperatives can function as engines of inclusive local development.
+  </blockquote>
+</details> 
+<br>
+
+*Research Grant: The Rural World in Latin America and the Caribbean -- CAF*
 
 ---
 
@@ -199,18 +227,9 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
-**[Cooperative Firms and Local Development]()**  *with Guillermo Woo-Gómez*
-  > Draft coming soon!
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev.png)
-
-*Research Grant: The Rural World in Latin America and the Caribbean -- CAF*
-
----
-
 **[New Echoes of Deep Mexico? Present and Persistent Elements of Indigenous Identities]()** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
 
-  > Draft coming soon!
+  > New draft now available!
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP2.jpg)
 
