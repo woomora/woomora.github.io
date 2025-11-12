@@ -102,7 +102,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 ## Working Papers {#working-papers}
 
 
-**[Moral Force, Contagious Force: Partisanship, Populist Leadership, and Public Health Compliance during COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and Federico Daverio*.  
+**[Moral Force, Contagious Force: Partisanship, Leadership, and Public Health Compliance during COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and Federico Daverio*.  
 
   > New draft now available!
 
@@ -121,7 +121,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    How does partisan alignment with a populist leader affect compliance with public health guidance and subsequent health outcomes? During Mexico’s COVID-19 distancing campaign, the president publicly undermined preventive measures while his administration promoted them. Using mobility data at the electoral precinct level and a novel shift-share IV application, we show that support for the president's party results in higher mobility, infections, and deaths. A structural model suggests that partisan behavioral divergence explains most of the observed gap in infections. The evidence supports a supply-side mechanism in which elite cues—rather than fixed partisan traits—shape behavior during crises, showing that populist leadership can influence compliance not only through policy, but through symbolic and rhetorical authority. 
+    How does partisanship shape compliance with public health guidance and related health outcomes? During Mexico’s COVID-19 campaign, the president publicly undermined distancing measures even as his administration promoted them. Using precinct-level mobility data and a novel shift–share IV application, we show that support for the president’s party increased mobility within municipalities. We confirm these patterns across municipalities, where greater partisan support predicts higher infections and deaths. A calibrated epidemiological model attributes most of the infection gap to partisan behavior. The evidence supports a leader-driven mechanism in which elite cues, rather than fixed partisan traits, shape compliance during crises.
   </blockquote>
 </details> 
 <br>
