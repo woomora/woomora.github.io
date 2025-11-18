@@ -213,7 +213,7 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ## Work in Progress {#work-in-progress}
 
-**[On the Other Side of the Creek: Historical segregation, neighborhood identity and human capital accumulation]()**  
+**[On the Other Side of the Creek: Historical segregation, neighborhood social capital, and human capital accumulation]()**  
 
   > Draft coming soon!
 
