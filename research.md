@@ -227,9 +227,9 @@ The findings underscore direct skin tone discrimination in football and highligh
 
 ---
 
-**[New Echoes of Deep Mexico? Present and Persistent Elements of Indigenous Identities]()** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
+**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints]()** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
 
-  > New draft now available!
+  > Draft coming soon!
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP2.jpg)
 
