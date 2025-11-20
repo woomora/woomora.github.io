@@ -23,6 +23,8 @@ order: 4
 
 ## Packages
 
+- [`wixarikaRt´](https://woomora.github.io/wixarikaRt/): Color palettes inspired by Wixarika art.
+  
 ---
 
 ## Data
