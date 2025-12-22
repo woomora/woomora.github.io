@@ -7,6 +7,8 @@ order: 4
 
 ## Writing in Media 
 
+- [México como ventana, no como espejo: La economía del desarrollo y desigualdad que (no) hacemos y queremos hacer](https://surcos.com.mx/mexico-como-ventana/){:target="_blank"} (es), SURCOS (2025).
+
 - [¿Menos pobres? narrativas desde los márgenes](https://redaccion.nexos.com.mx/menos-pobres-narrativas-desde-los-margenes/){:target="_blank"} (es), Nexos (2025).
 
 - [Los salvajes de Audiard](https://redaccion.nexos.com.mx/los-salvajes-de-audiard/){:target="_blank"} (es), Nexos (2025).
