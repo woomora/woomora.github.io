@@ -130,9 +130,9 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 
 ---
 
-**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612){:target="_blank"}**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
+**[Skin Tone Penalties: Quasi-Experimental Evidence on Colorism in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612){:target="_blank"}**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
 
-  > New draft coming soon!
+  > New draft now available!
 
 <p>
   <img 
@@ -148,10 +148,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    This paper investigates colorism, racial discrimination based on skin color, in men's football. Firstly, using machine learning algorithms, we extract players' skin tones from online headshots to examine their impact on fan-based ratings and valuations. We find evidence of a skin tone penalty, where darker-skinned players face lower fan-driven market values and ratings. Secondly, using algorithm-based ratings and employing a Difference-in-Discontinuities design with geolocated penalty kicks data, we show that lighter-skinned players enjoy a premium higher by one standard deviation than their darker-skinned peers, conditional on scoring a penalty. 
-Additionally, we find evidence that non-native players with dark skin face a double penalty. 
-Leveraging the COVID-19 pandemic as a natural experiment, we highlight the role of fans' stadium attendance in algorithm-based results. 
-The findings underscore direct skin tone discrimination in football and highlight fans' role in perpetuating algorithmic bias.
+    We provide causal evidence of skin tone discrimination in professional football, where performance is directly observed. Using a computer-vision measure of skin tone and a Difference-in-Discontinuities design around near-miss goals, we show that Light-skinned players receive significantly larger boosts in post-match ratings than Tan- and Dark-skinned peers for identical actions. These disparities emerge in both algorithmic and human-assigned evaluations and are concentrated in the subjective component of ratings. Season-level analysis reveals that biased ratings translate into lower market valuations for darker-skinned players, despite equivalent output. Evaluative bias---rather than differential treatment in contracts---drives economic inequality in this high-information labor market.
   </blockquote>
 </details> 
 <br>
