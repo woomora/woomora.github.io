@@ -141,7 +141,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties2.png';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties1.png" 
   />
-  <small>Image credit: <a href="https://www.imago-images.com/sp/0027126877" target="_blank"> IMAGO / Colorsport</a></small>
+  <small>Image credit: <a href="https://www.theguardian.com/football/2021/jul/12/my-responsibility-gareth-southgate-takes-blame-for-shootout-selections#img-2" target="_blank"> Paul Ellis - Pool/Getty Images</a></small>
 </p>
 
 <details>
