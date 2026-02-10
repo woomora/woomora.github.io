@@ -153,6 +153,9 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 </details> 
 <br>
 
+Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-quasi-experimental-evidence-on-colorism-in-football/){:target="_blank"}* (en). 
+
+
 ---
 
 **[Embracing modernity pays: Cadastre modernization effects on local property tax collection](https://scioteca.caf.com/handle/123456789/2301?locale-attribute=en){:target="_blank"}**  *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and [Emmanuel Chávez](https://emmanuelchavez.weebly.com/){:target="_blank"}.*
