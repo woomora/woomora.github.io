@@ -215,6 +215,17 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
   > Chapter now available!
 
+<p>
+  <img 
+    style="width: 100%; height: 400;" 
+    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/DeepMex1.jpg';" 
+    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/DeepMex2.png';" 
+    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/DeepMex1.jpg" 
+  />
+  <small>Image credit: <a href="https://www.capeltic.org/" target="_blank"> Capeltic</a></small>
+</p>
+
+
 <details>
   <summary> Abstract </summary>  
   <br>
@@ -223,8 +234,6 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
   </blockquote>
 </details> 
 <br>
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP2.jpg)
 
 *Chapter prepared for the second volume of the book “[Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean](https://link.springer.com/book/10.1007/978-3-031-38723-4){:target="_blank"}” edited by [Felipe Valencia Caicedo](https://sites.google.com/site/felipev84/Home){:target="_blank"}.*
 
