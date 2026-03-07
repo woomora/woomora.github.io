@@ -211,6 +211,25 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
 ---
 
+**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6238198)** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
+
+  > Chapter now available!
+
+<details>
+  <summary> Abstract </summary>  
+  <br>
+  <blockquote style="text-align: justify;">
+    This chapter revisits Guillermo Bonfil Batalla's 'México Profundo' (1987) through the lens of contemporary empirical historical economics. In that work, Bonfil Batalla argued that beneath a Westernized facade of modern Mexico lies a "Deep Mexico": a living but denied Indigenous civilization that continues to shape the country's culture, identity, and social life. The first part of the chapter compiles historical census tabulations and harmonized microdata to document persistent patterns of Indigenous identity, inequality, and historical continuity. The historical process of Indigenous identification is multidimensional and endogenous, shaped by language, self-identification, phenotype, and geography. Despite improvements in basic services, Indigenous populations continue to face structural gaps in education and income. Beyond explicit identifiers, the second part of the chapter examines three channels through which 'México Profundo' continues to influence economic life. First, skin tone remains a consistent predictor of disadvantage, reflecting racialized inequality. Second, historical Indigenous presence structures spatial inequality and human-capital outcomes. Third, Indigenous institutions-both formal and informal-continue to shape development trajectories, depending on their interaction with markets and the state. Together, these patterns underscore that 'México Profundo' continues to illuminate key mechanisms linking Indigenous identity to economic and social outcomes in modern Mexico.
+  </blockquote>
+</details> 
+<br>
+
+![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP2.jpg)
+
+*Chapter prepared for the second volume of the book “[Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean](https://link.springer.com/book/10.1007/978-3-031-38723-4){:target="_blank"}” edited by [Felipe Valencia Caicedo](https://sites.google.com/site/felipev84/Home){:target="_blank"}.*
+
+---
+
 ## Work in Progress {#work-in-progress}
 
 **[On the Other Side of the Creek: Historical segregation, neighborhood social capital, and human capital accumulation]()**  
@@ -225,15 +244,6 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
 <!--- Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es). --->
 
----
-
-**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints]()** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
-
-  > Draft coming soon!
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP2.jpg)
-
-*Chapter prepared for the second volume of the book “[Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean](https://link.springer.com/book/10.1007/978-3-031-38723-4){:target="_blank"}” edited by [Felipe Valencia Caicedo](https://sites.google.com/site/felipev84/Home){:target="_blank"}.*
 
 ---
 
