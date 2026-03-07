@@ -211,7 +211,7 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
 ---
 
-**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6238198)** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
+**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6238198){:target="_blank"}** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
 
   > Chapter now available!
 
