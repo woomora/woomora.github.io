@@ -222,7 +222,7 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
     onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/DeepMex2.png';" 
     src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/DeepMex1.jpg" 
   />
-  <small>Image credit: <a href="https://www.capeltic.org/" target="_blank"> Capeltic</a></small>
+      <small>Image credit: <a href="https://www.fondodeculturaeconomica.com/Ficha/9786071665997/F" target="_blank"> Fondo de Cultura Económica</a></small>
 </p>
 
 
