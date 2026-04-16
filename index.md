@@ -9,13 +9,11 @@ I am a PhD candidate in Economics at [PSE](https://www.parisschoolofeconomics.eu
 
 I previously completed my BA and MSc at [CIDE](https://www.cide.edu/division_de/){:target="_blank"} in Mexico.
 
-My primary field is the political economy of development. My doctoral research investigates how historical legacies, institutional arrangements, and cultural identities shape persistent inequalities across space and social groups. 
-<!--- Drawing on insights from historical and cultural economics and employing spatial methods, I aim to identify the structural forces underlying these disparities and contribute to strategies that promote inclusive development. --->
+My primary fields are the political economy of development and social economics. My research examines how historical legacies, institutional arrangements, and social dynamics shape persistent inequalities across space and social groups.
 
-My current projects explore:
-  1.	How colonial-era segregation shapes modern urban inequality, combining evidence on land prices and educational outcomes with a focus on neighborhood social capital as a persistent cultural mechanism.
-  2.	How skin tone shapes economic inequality, drawing on cross-country evidence on income and educational mobility, novel machine-assessed skin tone measures, and causal estimates of discrimination.
-<!--- 3. The role of worker-owned and socially embedded firms in fostering local economic development, especially in underserved communities. --->
+I study how colonial-era segregation shapes modern urban outcomes, affecting places through land prices and people's human capital through neighborhood social capital. 
+
+I also study how skin tone shapes economic disparities, showing evidence of intergenerational disparities between skin tone groups across multiple countries, and using natural experiments with novel machine-assessed measures to estimate causal skin tone discrimination.
 
 In addition, I have a separate line of research on the political economy of populism, showing how populist policies creating uncertainty depresses economic activity and how populist leaders’ cues, rather than partisanship preferences, undermine public health behavior.
 
