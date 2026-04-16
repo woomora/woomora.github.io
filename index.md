@@ -15,7 +15,7 @@ I study how colonial-era segregation shapes modern urban outcomes, affecting pla
 
 I also study how skin tone shapes economic disparities, showing evidence of intergenerational disparities between skin tone groups across multiple countries, and using natural experiments with novel machine-assessed measures to estimate causal skin tone discrimination.
 
-In addition, I have a separate line of research on the political economy of populism, showing how populist policies creating uncertainty depresses economic activity and how populist leaders’ cues, rather than partisanship preferences, undermine public health behavior.
+I also have separate projects on the political economy of populism and on local development.
 
 ### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
