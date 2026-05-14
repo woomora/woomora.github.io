@@ -179,7 +179,7 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 </details> 
 <br>
 
-*Premio Víctor L. Urquidi, Honorable mention -- Centro de Estudios Económicos, El Colegio de México*  
+*Premio Víctor L. Urquidi 2024, Honorable mention -- El Colegio de México*  
 *Research Grant: Descentralización y Capacidades Subnacionales en América Latina y el Caribe -- CAF*
 
 ---
@@ -207,6 +207,7 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 </details> 
 <br>
 
+*Premio Víctor L. Urquidi 2025, First Place -- El Colegio de México*  
 *Research Grant: The Rural World in Latin America and the Caribbean -- CAF*
 
 ---
@@ -247,6 +248,7 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
 
+*Economic History Association Dissertation Fellowship, EHA*  
 *Reserach Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*<br>
 *Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  
 *Best Graduate Thesis in Applied Economics – CIDE 2020*  
