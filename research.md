@@ -258,6 +258,11 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
 ---
 
+**[From Indenture to Aversion: Debt Peonage and Long-Run Credit Deman]()**  *with [Alex Rivadeneira](https://alexrivadeneira.com/){:target="_blank"}*.
+ 
+
+---
+
 ## Resting Papers {#resting-papers}
 
 **[Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico]()**   
