@@ -152,6 +152,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
   </blockquote>
 </details> 
 <br>
+*BeNA Innovative Research Award 2026*
 
 Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-quasi-experimental-evidence-on-colorism-in-football/){:target="_blank"}* (en). 
 
@@ -248,13 +249,12 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
 
-*Economic History Association Dissertation Fellowship, EHA*  
+*ACES Dissertation Research Fellowship 2026-2027*<br>  
+*Economic History Association Dissertation Fellowship 2026*<br>  
+
 *Reserach Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*<br>
-*Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  
-*Best Graduate Thesis in Applied Economics – CIDE 2020*  
-
+<!--- *Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  *Best Graduate Thesis in Applied Economics – CIDE 2020*  ---> 
 <!--- Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es). --->
-
 
 ---
 
