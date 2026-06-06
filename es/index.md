@@ -10,11 +10,11 @@ Previamente, estudié mi licenciatura y maestría en el [CIDE](https://www.cide.
 
 Mis áreas de interés son la economía política del desarrollo y la economía social. Mi investigación examina cómo los legados históricos, los arreglos institucionales y las dinámicas sociales moldean desigualdades persistentes entre territorios y grupos sociales.
 
-Estudio cómo la segregación colonial configura los resultados urbanos contemporáneos, afectando los territorios a través de los valores de la propiedad y el capital humano de las personas a través del capital social barrial.
+Estudio cómo la segregación colonial configura los resultados urbanos contemporáneos, afectando los territorios a través de los precios de de la propiedad y el capital humano de las personas a través del capital social barrial.
 
 También estudio cómo el color de piel moldea las disparidades económicas, mostrando evidencia de brechas intergeneracionales entre grupos según tono de piel en múltiples países, y utilizando experimentos naturales con nuevas mediciones automatizadas para estimar la discriminación causal por tono de piel.
 
-Además, tengo proyectos separados sobre la economía política del populismo y sobre el desarrollo local.
+Además, tengo otros proyectos sobre la economía política del populismo y sobre el desarrollo local.
 
 ### [CV (en inglés)](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
 
