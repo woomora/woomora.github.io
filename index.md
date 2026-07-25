@@ -17,6 +17,6 @@ I also study how skin tone shapes economic disparities, showing evidence of inte
 
 I also have separate projects on the political economy of populism and on local development.
 
-### [CV](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
+### [CV](https://woomora.github.io/Woo-Mora-CV-pdf/Woo-Mora-CV.pdf){:target="_blank"}
 
 [Cambiar a Español](/es/)
