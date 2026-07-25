@@ -102,9 +102,9 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 ## Working Papers {#working-papers}
 
 
-**[Moral Force, Contagious Force: Partisanship, Leadership, and Public Health Compliance during COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and Federico Daverio*.  
+**[Moral Force, Contagious Force: Partisanship, Leadership, and Public Health Compliance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and Federico Daverio*.  
 
-  > New draft now available!
+  > New revised draft now available!
 
 <p>
   <img 
@@ -121,7 +121,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    How does partisanship shape compliance with public health guidance and related health outcomes? During Mexico’s COVID-19 campaign, the president publicly undermined distancing measures even as his administration promoted them. Using precinct-level mobility data and a novel shift–share IV application, we show that support for the president’s party increased mobility within municipalities. We confirm these patterns across municipalities, where greater partisan support predicts higher infections and deaths. A calibrated epidemiological model attributes most of the infection gap to partisan behavior. The evidence supports a leader-driven mechanism in which elite cues, rather than fixed partisan traits, shape compliance during crises.
+    Does partisan behavior during crises reflect fixed dispositions or malleable responses to elite cues? The two accounts predict similar partisan gaps when leaders reinforce supporters' prior beliefs, but diverge when the same leader changes course. Mexico provides such a reversal: President López Obrador publicly undermined his government's March 2020 distancing campaign, then endorsed vaccination on national television one year later. Combining high-frequency mobility data, electoral returns, and COVID-19 records, we estimate the partisan mobility gap using a difference-in-differences event study, complemented by a recentered lottery instrument for local Morena presence. The dynamics are more consistent with responsiveness to changing cues. Areas with stronger Morena support reduced out-of-home mobility by less after the distancing announcement; the pattern appears across electoral sections, municipalities, and local labor markets, and narrows as local infections rise. Vaccination later increased more in the same areas, with no comparable pattern in routine immunization. Higher-Morena areas also recorded more early cases and deaths, and a dynamic two-group SIRD model attributes roughly one quarter of these conditional gaps to differential mobility. The reversal is difficult to reconcile with fixed dispositions alone and more consistent with responsiveness to changing leader cues.
   </blockquote>
 </details> 
 <br>
