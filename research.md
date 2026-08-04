@@ -250,7 +250,7 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
 ![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
 
-*ACES Dissertation Research Fellowship 2026-2027*<br>  
+*ACES Dissertation Research Fellowship 2026-2027*
 *Economic History Association Dissertation Fellowship 2026*<br>  
 
 *Reserach Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*<br>
