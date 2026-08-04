@@ -8,6 +8,7 @@ order: 1
 **Links: 
 [Publications](#publications)&nbsp;&nbsp;&nbsp;
 [Working Papers](#working-papers)&nbsp;&nbsp;&nbsp;
+[Book Chapters](#chapters)&nbsp;&nbsp;&nbsp;
 [Work in Progress](#work-in-progress)**
 
 ---
@@ -213,9 +214,9 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 
 ---
 
-**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6238198){:target="_blank"}** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
+## Book Chapters {#chapters}
 
-  > Chapter now available!
+**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6238198){:target="_blank"}** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
 
 <p>
   <img 
