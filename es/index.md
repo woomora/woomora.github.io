@@ -10,7 +10,7 @@ Soy candidato a doctor en Economía en [Paris School of Economics](https://www.p
 
 Mis áreas son la economía política del desarrollo y la economía social. Estudio por qué la desigualdad económica persiste entre grupos sociales mucho después de que desaparecen las instituciones que la crearon, con atención a los marcadores que hacen visible la pertenencia a un grupo.
 
-Una línea sostiene que el efecto económico del capital social depende de su radio y no de su nivel, y usa fronteras coloniales en México para mostrar que una segregación abolida hace dos siglos todavía deprime el valor del suelo del lado excluido y reduce el capital humano al concentrar la confianza dentro del barrio.
+Una línea estudia cómo la exclusión, en forma de segregación colonial, produce dos resultados distintos: sobre los lugares, un menor valor del suelo en las áreas históricamente excluidas; y sobre las personas, un radio de confianza más estrecho que compite con la acumulación de capital humano.
 
 Otra estudia cómo el tono de piel moldea las disparidades económicas, documentando brechas intergeneracionales en veinticinco países de América Latina y el Caribe, y usando variación cuasiexperimental con mediciones automatizadas para identificar discriminación.
 
