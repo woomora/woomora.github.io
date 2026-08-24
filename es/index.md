@@ -6,7 +6,7 @@ lang: es
 order: 0
 ---
 
-<div class="card prose" markdown="1">
+<div class="prose" markdown="1">
 
 Soy candidato a doctor en Economía en [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y [EHESS](https://www.ehess.fr/fr){:target="_blank"}, donde mi investigación es supervisada por [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} en el comité de tesis. Antes de París, estudié la licenciatura y la maestría en el [CIDE](https://www.cide.edu/division_de/){:target="_blank"}, en México.
 

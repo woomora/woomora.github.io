@@ -15,7 +15,7 @@ order: 5
 
 </style>
 
-<div class="card page">
+<div class="page">
   <div class="pgrid" id="pgrid">
     <button class="pitem" data-lb="{{ '/images/photo portfolio/large/dejarse_caer.jpg' | relative_url }}"><img src="{{ '/images/photo portfolio/thumbs/dejarse_caer.jpg' | relative_url }}" alt="Photograph" loading="lazy"></button>
     <button class="pitem" data-lb="{{ '/images/photo portfolio/large/salineras_maras.jpg' | relative_url }}"><img src="{{ '/images/photo portfolio/thumbs/salineras_maras.jpg' | relative_url }}" alt="Photograph" loading="lazy"></button>

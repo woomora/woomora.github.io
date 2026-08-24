@@ -5,7 +5,7 @@ filename: publicgoods
 order: 4
 ---
 
-<div class="card page" markdown="1">
+<div class="page" markdown="1">
 
 ## Writing in Media
 

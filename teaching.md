@@ -5,7 +5,7 @@ filename: teaching
 order: 2
 ---
 
-<div class="card page" markdown="1">
+<div class="page" markdown="1">
 
 ## [Université Paris Sciences et Lettres](https://psl.eu/){:target="_blank"}
 
