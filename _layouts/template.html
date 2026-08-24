@@ -1,21 +1,18 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: 'en' }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=.9">
-
-    <!-- Page title -->
-    <title>L.G. Woo-Mora</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon: PSE logo -->
     <link rel="shortcut icon" href="{{ "/images/pse-favicon.ico" | relative_url }}" type="image/x-icon" />
-    
+
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MLNX3190PD"></script>
@@ -27,111 +24,195 @@
     </script>
 
   <style>
-    /* General link styles */
-    a {
-      color: #af2443;
+    :root{
+      --ground:#f6f4f1; --card:#ffffff; --border:#e5e0d9; --ink:#1c1a19;
+      --muted:#6b645d; --label:#8a8178; --soft:#faf8f5; --navon:#f1ede7;
+      --accent:#af2443; --accent-dark:#7d1730;
+      --serif:Spectral,Georgia,'Times New Roman',serif;
+      --mono:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace;
     }
-  
-    a:visited {
-      color: #af2443; /* Visited link color */
+    *{box-sizing:border-box}
+    html{-webkit-text-size-adjust:100%}
+    body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--serif);
+         font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+    a{color:var(--accent);text-decoration:none}
+    a:visited{color:var(--accent)}
+    a:hover{color:var(--accent-dark);text-decoration:underline}
+    :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+    img{max-width:100%}
+
+    .layout{max-width:1100px;margin:0 auto;padding:44px 28px 64px;
+            display:flex;gap:40px;align-items:flex-start}
+    .side{width:268px;flex-shrink:0;display:flex;flex-direction:column;gap:20px;
+          position:sticky;top:44px}
+    .main{flex-grow:1;min-width:0;display:flex;flex-direction:column;gap:22px}
+
+    .card{background:var(--card);border:1px solid var(--border);border-radius:3px}
+    .mono{font-family:var(--mono)}
+
+    /* ---- sidebar ---- */
+    .side__id{padding:22px;display:flex;flex-direction:column;gap:15px}
+    .side__portrait{width:100%;border-radius:2px;display:block}
+    .side__name{font-size:23px;font-weight:600;line-height:1.18;letter-spacing:-.014em}
+    .side__role{font-size:14px;font-weight:300;font-style:italic;color:var(--muted);line-height:1.45}
+    .rule{height:1px;background:#ebe6df}
+    .side__contact{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
+                   color:#5a534c;display:flex;flex-direction:column;gap:9px;word-break:break-word}
+    .side__social{display:flex;gap:12px;flex-wrap:wrap}
+    .btn{display:block;text-align:center;background:var(--accent);color:#fff;padding:11px;
+         border-radius:3px;font-family:var(--mono);font-size:10.5px;letter-spacing:.13em;
+         text-transform:uppercase;font-weight:500}
+    .btn:hover{background:var(--accent-dark);color:#fff;text-decoration:none}
+    .nav{padding:9px;display:flex;flex-direction:column;gap:2px}
+    .navitem{padding:8px 11px;border-radius:3px;color:#5a534c;font-family:var(--mono);
+             font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;display:block}
+    .navitem:hover{background:var(--soft);color:var(--ink);text-decoration:none}
+    .navitem.on{background:var(--navon);color:var(--ink);font-weight:500}
+
+    /* ---- main ---- */
+    .jm{display:flex;align-items:center;gap:13px;background:var(--accent);color:#fff;
+        padding:15px 20px;border-radius:3px;font-family:var(--mono);flex-wrap:wrap}
+    .jm__t{font-size:11px;letter-spacing:.12em;text-transform:uppercase;font-weight:500}
+    .jm__x{margin-left:auto;font-size:10.5px;letter-spacing:.06em;opacity:.85}
+
+    .prose{padding:28px 30px;font-size:16.5px;font-weight:300;line-height:1.72;color:#2f2b28}
+    .prose p{margin:0 0 1.05em}
+    .prose p:last-child{margin-bottom:0}
+
+    .sechead{display:flex;align-items:center;gap:12px;padding:10px 2px 0}
+    .seclabel{font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:.14em;
+              text-transform:uppercase;color:var(--label);white-space:nowrap}
+    .sechead::after{content:"";flex-grow:1;height:1px;background:#e2dcd4}
+
+    /* ---- paper cards ---- */
+    .paper{padding:22px;display:flex;gap:20px;align-items:flex-start}
+    .paper--plain{flex-direction:column;gap:10px}
+    .paper__body{display:flex;flex-direction:column;gap:10px;flex-grow:1;min-width:0}
+    .paper__title{font-size:18px;font-weight:500;line-height:1.38;margin:0}
+    .paper__meta{font-size:14.5px;font-style:italic;font-weight:300;color:var(--muted);margin:0}
+    .paper__award{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
+                  color:var(--accent);line-height:1.7;margin:0}
+    .paper__note{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;
+                 text-transform:uppercase;color:var(--label);margin:0}
+    .paper__links{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
+                  color:var(--label);margin:0;line-height:1.9}
+    .paper__media{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;
+                  color:var(--label);line-height:1.8;margin:0}
+
+    /* ---- hover-swap figure ---- */
+    .fig{position:relative;overflow:hidden;background:#ece7e0;border-radius:2px;
+         border:1px solid var(--border)}
+    .fig img{display:block;width:100%;height:100%;object-fit:cover}
+    .fig .alt{position:absolute;inset:0;opacity:0;transition:opacity .4s ease}
+    .fig:hover .alt{opacity:1}
+    .fig .cue{position:absolute;left:7px;bottom:7px;font-family:var(--mono);font-size:8.5px;
+              letter-spacing:.1em;text-transform:uppercase;color:#fff;
+              background:rgba(28,26,25,.75);padding:3px 7px;border-radius:2px;
+              opacity:.94;transition:opacity .3s ease}
+    .fig:hover .cue{opacity:0}
+    .paper__fig{width:186px;height:128px;flex-shrink:0}
+    .fig--wide{width:100%;height:230px}
+    .credit{font-family:var(--mono);font-size:9.5px;letter-spacing:.04em;
+            color:var(--label);margin:0;line-height:1.6}
+    .credit a{color:var(--label)}
+
+    /* ---- abstracts ---- */
+    details>summary{list-style:none;cursor:pointer;font-family:var(--mono);font-size:10.5px;
+                    letter-spacing:.12em;text-transform:uppercase;color:var(--accent);
+                    display:inline-block}
+    details>summary::-webkit-details-marker{display:none}
+    details>summary:hover{color:var(--accent-dark)}
+    details[open]>summary{color:var(--accent-dark)}
+    details>summary::before{content:"+ "}
+    details[open]>summary::before{content:"–\00a0"}
+    .abstract{font-size:14.5px;font-weight:300;line-height:1.7;color:#3a3532;
+              background:var(--soft);padding:14px 16px;border-radius:2px;margin-top:10px}
+    .abstract p{margin:0}
+
+    /* ---- generic content pages ---- */
+    .page{padding:28px 30px}
+    .page h2{font-size:21px;font-weight:600;line-height:1.3;margin:0 0 14px;letter-spacing:-.01em}
+    .page h2:not(:first-child){margin-top:30px}
+    .page h3{font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:.14em;
+             text-transform:uppercase;color:var(--label);margin:26px 0 12px}
+    .page p{margin:0 0 1em;font-weight:300;line-height:1.7}
+    .page ul{margin:0 0 1em;padding-left:20px}
+    .page li{margin-bottom:.5em;font-weight:300;line-height:1.65}
+    .page hr{border:0;height:1px;background:var(--border);margin:26px 0}
+
+    .gallery{display:flex;flex-direction:column;gap:22px}
+    .gallery img{display:block;width:100%;border-radius:2px;border:1px solid var(--border)}
+
+    .foot{font-family:var(--mono);font-size:9.5px;letter-spacing:.05em;color:#a49b91;
+          padding:6px 2px 0}
+    .foot a{color:#a49b91}
+
+    @media (prefers-reduced-motion: reduce){
+      .fig .alt,.fig .cue{transition:none}
     }
-  
-    a:hover {
-      color: #af2443; /* Hover link color */
-    }
-  
-    a:active {
-      color: #af2443; /* Active link color */
-    }
-  
-    /* Navigation bar styling */
-    nav ul {
-      display: flex;
-      justify-content: center; /* Centers the tabs horizontally */
-      align-items: center; /* Ensures vertical alignment */
-      list-style: none;
-      padding: 0; /* Removes default padding */
-      margin: 10px 0; /* Adds vertical spacing */
-    }
-  
-    nav ul li {
-      margin: 0 10px; /* Adds spacing between the tabs */
-    }
-  
-    nav ul li:first-child {
-      margin-left: 0; /* Removes left margin for the first tab */
-      padding-left: 15px; /* Adjusts spacing to move it slightly to the left */
-    }
-  
-    nav ul li a {
-      text-decoration: none;
-      font-size: 14px;
-    }
-  
-    nav ul li a:hover {
-      text-decoration: underline;
-    }
-  
-    .active {
-      text-decoration: underline;
+
+    @media (max-width: 860px){
+      .layout{flex-direction:column;gap:24px;padding:26px 18px 48px}
+      .side{width:100%;position:static}
+      .side__id{flex-direction:row;flex-wrap:wrap;align-items:flex-start;gap:18px}
+      .side__portrait{width:118px;flex-shrink:0}
+      .side__idtext{display:flex;flex-direction:column;gap:15px;flex-grow:1;min-width:180px}
+      .nav{flex-direction:row;flex-wrap:wrap}
+      .paper{flex-direction:column}
+      .paper__fig{width:100%;height:190px}
     }
   </style>
-    
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h2><b>L. Guillermo Woo-Mora</b></h2>
-        <img src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/profile_picture.jpg" alt="Profile Picture">
-        <p>
-          <a href="https://www.parisschoolofeconomics.eu/en/people/guillermo-woo-mora/" target="_blank">Economics PhD candidate at PSE</a>
-        </p>
-        <small>guillermo.woo-mora [at] psemail.eu</small>
-        <div>
-          <a href="https://bsky.app/profile/billywoom.bsky.social" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="20" width="20" alt="Bluesky">
-          </a>
-          <a href="https://twitter.com/billywoom" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="20" width="20" alt="Twitter">
-          </a>
-          <a href="https://scholar.google.com/citations?user=L18VOdkAAAAJ&hl=en" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" height="20" width="20" alt="Google Scholar">
-          </a>
-        </div>
-        <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-     
-      <section>
-        <nav>
-          <ul>
-            {% assign sorted_pages = site.pages | sort:"order" %}
-              {% for node in sorted_pages %}
-              <li><a class="{% if page.url == node.url %}active{% endif %}" href="{{node.url}}">{{node.title}}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>  
-        
-        {{ content }}
+    <div class="layout">
 
-      </section>  
-      
+      <aside class="side">
+        <div class="card side__id">
+          <img class="side__portrait" src="{{ "/images/profile_picture_sm.jpg" | relative_url }}" alt="L. Guillermo Woo-Mora">
+          <div class="side__idtext">
+            <div>
+              <div class="side__name">L. Guillermo<br>Woo-Mora</div>
+              <div class="side__role">{% if page.lang == 'es' %}Candidato a doctor en Economía{% else %}PhD Candidate in Economics{% endif %}</div>
+              <div class="side__role"><a href="https://www.parisschoolofeconomics.eu/en/people/guillermo-woo-mora/" target="_blank" rel="noopener">Paris School of Economics</a> &amp; EHESS</div>
+            </div>
+            <div class="rule"></div>
+            <div class="side__contact">
+              <span>guillermo.woo-mora [at] psemail.eu</span>
+              <span class="side__social">
+                <a href="https://scholar.google.com/citations?user=L18VOdkAAAAJ&hl=en" target="_blank" rel="noopener">Scholar</a>
+                <a href="https://bsky.app/profile/billywoom.bsky.social" target="_blank" rel="noopener">Bluesky</a>
+                <a href="https://twitter.com/billywoom" target="_blank" rel="noopener">Twitter</a>
+              </span>
+            </div>
+            <a class="btn" href="https://woomora.github.io/Woo-Mora-CV-pdf/Woo-Mora-CV.pdf" target="_blank" rel="noopener">{% if page.lang == 'es' %}CV (en inglés){% else %}Download CV{% endif %}</a>
+          </div>
+        </div>
+
+        <nav class="card nav">
+          {% assign sorted_pages = site.pages | sort: "order" %}
+          {% for node in sorted_pages %}
+            {% if node.title %}
+              {% unless node.url contains '/es/' %}
+                <a class="navitem {% if page.url == node.url %}on{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
+              {% endunless %}
+            {% endif %}
+          {% endfor %}
+          <div class="rule" style="margin:6px 4px"></div>
+          {% if page.lang == 'es' %}
+            <a class="navitem" href="{{ "/" | relative_url }}">English</a>
+          {% else %}
+            <a class="navitem" href="{{ "/es/" | relative_url }}">Español</a>
+          {% endif %}
+        </nav>
+      </aside>
+
+      <main class="main">
+        {{ content }}
+        <div class="foot">
+          Hosted on GitHub Pages
+        </div>
+      </main>
+
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
   </body>
 </html>
