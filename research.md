@@ -127,7 +127,7 @@ Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-col
 </details> 
 <br>
 
-*Premio Banamex de Economia 2024, Honorable mention*  
+*Premio Banamex de Economía 2024, Honorable mention*  
 
 ---
 
@@ -204,7 +204,7 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
   <summary> Abstract </summary>  
   <br>
   <blockquote style="text-align: justify;">
-    Do cooperative firms foster local economic development? This paper examines Mexico, assembling a new georeferenced panel dataset at the 10 × 10 km grid-cell level for 2015–2023. Across multiple research designs, we consistently find that cooperative presence boosts local development, measured by nightlight intensity. An event-study design shows persistent extensivemargin gains of 6–8% within four years of entry. To address selection concerns, we implement a shift–share IV strategy based on endogenous lagged-cooperative presence and plausibly exogenous sectoral growth shocks; the results imply that one additional cooperative increases nightlight density by about 2.7%. Complementary census evidence links cooperatives to higher schooling, home asset ownership, and decrease migration pressures. We also document stronger effects in Indigenous communities, where cooperatives have longer survival spells. Aggregate patterns suggest that cooperatives increase agricultural specialization but with clear productivity gains, while redistributive effects raise local disposable income and decrease poverty. These findings provide novel causal evidence that cooperatives can function as engines of inclusive local development.
+    Do cooperative firms foster local economic development? This paper examines Mexico, assembling a new georeferenced panel dataset at the 10 × 10 km grid-cell level for 2015–2023. Across multiple research designs, we consistently find that cooperative presence boosts local development, measured by nightlight intensity. An event-study design shows persistent extensive margin gains of 6–8% within four years of entry. To address selection concerns, we implement a shift–share IV strategy based on endogenous lagged-cooperative presence and plausibly exogenous sectoral growth shocks; the results imply that one additional cooperative increases nightlight density by about 2.7%. Complementary census evidence links cooperatives to higher schooling, home asset ownership, and decreases migration pressures. We also document stronger effects in Indigenous communities, where cooperatives have longer survival spells. Aggregate patterns suggest that cooperatives increase agricultural specialization but with clear productivity gains, while redistributive effects raise local disposable income and decrease poverty. These findings provide novel causal evidence that cooperatives can function as engines of inclusive local development.
   </blockquote>
 </details> 
 <br>
@@ -253,13 +253,13 @@ Media: *[WIL Press release](https://wid.world/news-article/skin-tone-penalties-q
 *ACES Dissertation Research Fellowship 2026-2027*
 *Economic History Association Dissertation Fellowship 2026*<br>  
 
-*Reserach Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*<br>
+*Research Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*<br>
 <!--- *Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  *Best Graduate Thesis in Applied Economics – CIDE 2020*  ---> 
 <!--- Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es). --->
 
 ---
 
-**[From Indenture to Aversion: Debt Peonage and Long-Run Credit Deman]()**  *with [Alex Rivadeneira](https://alexrivadeneira.com/){:target="_blank"}*.
+**[From Indenture to Aversion: Debt Peonage and Long-Run Credit Demand]()**  *with [Alex Rivadeneira](https://alexrivadeneira.com/){:target="_blank"}*.
  
 
 ---
