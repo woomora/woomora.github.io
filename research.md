@@ -13,10 +13,16 @@ order: 1
 <div class="sechead" id="publications"><span class="seclabel">Publications</span></div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/UCR3.jpeg' | relative_url }}" alt="Diagrama de castas by Miguel Covarrubias" loading="lazy">
-    <img class="alt" src="{{ '/images/UCR2.jpeg' | relative_url }}" alt="Skin tone figure" loading="lazy">
-    <span class="cue">Hover</span>
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/UCR3.jpeg' | relative_url }}" alt="Diagrama de castas by Miguel Covarrubias" loading="lazy">
+      <img class="alt" src="{{ '/images/UCR2.jpeg' | relative_url }}" alt="Skin tone figure" loading="lazy">
+      <span class="cue">Hover</span>
+   </div>
+
+Image: [*Diagrama de castas* — Miguel Covarrubias, *Historia del Pueblo Mexicano* (circa 1950)](https://fomentoculturalbanamex.org/exposiciones/exposiciones/miguel-covarrubias-una-mirada-sin-fronteras/){:target="_blank"}
+{: .credit}
+
   </div>
   <div class="paper__body" markdown="1">
 
@@ -38,17 +44,20 @@ This paper examines how skin tone shapes intergenerational economic disparities 
 Media: [VoxDev](https://voxdev.org/topic/institutions-political-economy/how-skin-tone-still-shapes-inequality-latin-america-and){:target="_blank"} (en) · [WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"} (en) · [BÚSQUEDA](https://www.busqueda.com.uy/economia/nuestro-racismo-economico-n5404957){:target="_blank"} (es) · [Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"} (es)
 {: .paper__media}
 
-Image: [*Diagrama de castas* — Miguel Covarrubias, *Historia del Pueblo Mexicano* (circa 1950)](https://fomentoculturalbanamex.org/exposiciones/exposiciones/miguel-covarrubias-una-mirada-sin-fronteras/){:target="_blank"}
-{: .credit}
-
   </div>
 </div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/POS1.jpeg' | relative_url }}" alt="Cancelled Mexico City airport construction" loading="lazy">
-    <img class="alt" src="{{ '/images/POS2.jpeg' | relative_url }}" alt="Synthetic control figure" loading="lazy">
-    <span class="cue">Hover</span>
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/POS1.jpeg' | relative_url }}" alt="Cancelled Mexico City airport construction" loading="lazy">
+      <img class="alt" src="{{ '/images/POS2.jpeg' | relative_url }}" alt="Synthetic control figure" loading="lazy">
+      <span class="cue">Hover</span>
+   </div>
+
+Image: [New York Times](https://www.nytimes.com/2018/10/29/world/americas/mexico-incoming-president-cancel-airport.html){:target="_blank"}
+{: .credit}
+
   </div>
   <div class="paper__body" markdown="1">
 
@@ -73,17 +82,20 @@ This paper investigates the immediate economic impacts of populist policies. In 
 Media: [VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-economic-consequences-populist-policy){:target="_blank"} (en) · [Nexos](https://redaccion.nexos.com.mx/el-pecado-original-a-seis-anos-de-la-cancelacion-del-naim/){:target="_blank"} (es) · [El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"} (es) · [Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"} (es) · [Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"} (es). Featured in [*Texcoco. La decisión del presidente*](https://youtu.be/LgkPqHmvMtQ?si=3ki4Zi8TJlghkQBv){:target="_blank"} by CEEY and [*Suerte o desastre*](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/340427-ebook-suerte-o-desastre-9786073839914){:target="_blank"} by Isabella Cota
 {: .paper__media}
 
-Image: [New York Times](https://www.nytimes.com/2018/10/29/world/americas/mexico-incoming-president-cancel-airport.html){:target="_blank"}
-{: .credit}
-
   </div>
 </div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/IoR1.png' | relative_url }}" alt="Colonial map of Tacubaya, 1587" loading="lazy">
-    <img class="alt" src="{{ '/images/IoR2.png' | relative_url }}" alt="Regression discontinuity figure" loading="lazy">
-    <span class="cue">Hover</span>
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/IoR1.png' | relative_url }}" alt="Colonial map of Tacubaya, 1587" loading="lazy">
+      <img class="alt" src="{{ '/images/IoR2.png' | relative_url }}" alt="Regression discontinuity figure" loading="lazy">
+      <span class="cue">Hover</span>
+   </div>
+
+Image: [Archivo General de la Nación: Molinos de azúcar, Tacubaya, 1587](http://bdmx.mx/documento/galeria/mapas-indigenas-novohispanos-agn/co_imagen33/fo_05t=){:target="_blank"}
+{: .credit}
+
   </div>
   <div class="paper__body" markdown="1">
 
@@ -109,19 +121,22 @@ We investigate the persistent impact of a colonial segregation policy on land va
 Media: [VoxDev](https://voxdev.org/topic/institutions-political-economy/how-colonial-segregation-policies-impact-land-values-mexico){:target="_blank"} (en) · [Broadstreet](https://www.broadstreet.blog/p/infrastructures-of-race-colonial){:target="_blank"} (en)
 {: .paper__media}
 
-Image: [Archivo General de la Nación: Molinos de azúcar, Tacubaya, 1587](http://bdmx.mx/documento/galeria/mapas-indigenas-novohispanos-agn/co_imagen33/fo_05t=){:target="_blank"}
-{: .credit}
-
   </div>
 </div>
 
 <div class="sechead" id="working-papers"><span class="seclabel">Working Papers</span></div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/MF1.jpeg' | relative_url }}" alt="Political rally in Mexico City" loading="lazy">
-    <img class="alt" src="{{ '/images/MF2.jpeg' | relative_url }}" alt="Mobility event study figure" loading="lazy">
-    <span class="cue">Hover</span>
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/MF1.jpeg' | relative_url }}" alt="Political rally in Mexico City" loading="lazy">
+      <img class="alt" src="{{ '/images/MF2.jpeg' | relative_url }}" alt="Mobility event study figure" loading="lazy">
+      <span class="cue">Hover</span>
+   </div>
+
+Image: [Luis Antonio Rojas for The New York Times](https://www.nytimes.com/es/2022/11/28/espanol/marcha-amlo-mexico.html){:target="_blank"}
+{: .credit}
+
   </div>
   <div class="paper__body" markdown="1">
 
@@ -143,17 +158,20 @@ Does partisan behavior during crises reflect fixed dispositions or malleable res
 *Premio Banamex de Economía 2024, Honorable mention*
 {: .paper__award}
 
-Image: [Luis Antonio Rojas for The New York Times](https://www.nytimes.com/es/2022/11/28/espanol/marcha-amlo-mexico.html){:target="_blank"}
-{: .credit}
-
   </div>
 </div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/ST_penalties1.png' | relative_url }}" alt="Football penalty shootout" loading="lazy">
-    <img class="alt" src="{{ '/images/ST_penalties2.png' | relative_url }}" alt="Difference-in-discontinuities figure" loading="lazy">
-    <span class="cue">Hover</span>
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/ST_penalties1.png' | relative_url }}" alt="Football penalty shootout" loading="lazy">
+      <img class="alt" src="{{ '/images/ST_penalties2.png' | relative_url }}" alt="Difference-in-discontinuities figure" loading="lazy">
+      <span class="cue">Hover</span>
+   </div>
+
+Image: [Paul Ellis — Pool/Getty Images](https://www.theguardian.com/football/2021/jul/12/my-responsibility-gareth-southgate-takes-blame-for-shootout-selections#img-2){:target="_blank"}
+{: .credit}
+
   </div>
   <div class="paper__body" markdown="1">
 
@@ -178,17 +196,20 @@ We provide causal evidence of skin tone discrimination using professional footba
 Media: [WIL Press release](https://wid.world/news-article/skin-tone-penalties-quasi-experimental-evidence-on-colorism-in-football/){:target="_blank"} (en)
 {: .paper__media}
 
-Image: [Paul Ellis — Pool/Getty Images](https://www.theguardian.com/football/2021/jul/12/my-responsibility-gareth-southgate-takes-blame-for-shootout-selections#img-2){:target="_blank"}
-{: .credit}
-
   </div>
 </div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/catastro1.png' | relative_url }}" alt="Cadastral mapping system" loading="lazy">
-    <img class="alt" src="{{ '/images/catastro2.png' | relative_url }}" alt="Property tax revenue figure" loading="lazy">
-    <span class="cue">Hover</span>
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/catastro1.png' | relative_url }}" alt="Cadastral mapping system" loading="lazy">
+      <img class="alt" src="{{ '/images/catastro2.png' | relative_url }}" alt="Property tax revenue figure" loading="lazy">
+      <span class="cue">Hover</span>
+   </div>
+
+Image: [SuperMap](https://www.supermap.com/en-us/case/?76_3195){:target="_blank"}
+{: .credit}
+
   </div>
   <div class="paper__body" markdown="1">
 
@@ -208,17 +229,20 @@ This paper investigates the impact of the Mexican cadastre modernization program
 *Research Grant: Descentralización y Capacidades Subnacionales en América Latina y el Caribe — CAF*
 {: .paper__award}
 
-Image: [SuperMap](https://www.supermap.com/en-us/case/?76_3195){:target="_blank"}
-{: .credit}
-
   </div>
 </div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/co-ops_locdev.png' | relative_url }}" alt="Capeltic cooperative" loading="lazy">
-    <img class="alt" src="{{ '/images/co-ops_locdev2.png' | relative_url }}" alt="Nightlight event study figure" loading="lazy">
-    <span class="cue">Hover</span>
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/co-ops_locdev.png' | relative_url }}" alt="Capeltic cooperative" loading="lazy">
+      <img class="alt" src="{{ '/images/co-ops_locdev2.png' | relative_url }}" alt="Nightlight event study figure" loading="lazy">
+      <span class="cue">Hover</span>
+   </div>
+
+Image: [Capeltic](https://www.capeltic.org/){:target="_blank"}
+{: .credit}
+
   </div>
   <div class="paper__body" markdown="1">
 
@@ -241,19 +265,22 @@ Do cooperative firms foster local economic development? This paper examines Mexi
 *Research Grant: The Rural World in Latin America and the Caribbean — CAF*
 {: .paper__award}
 
-Image: [Capeltic](https://www.capeltic.org/){:target="_blank"}
-{: .credit}
-
   </div>
 </div>
 
 <div class="sechead" id="chapters"><span class="seclabel">Book Chapters</span></div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/DeepMex1.jpg' | relative_url }}" alt="México Profundo book cover" loading="lazy">
-    <img class="alt" src="{{ '/images/DeepMex2.png' | relative_url }}" alt="Indigenous identity figure" loading="lazy">
-    <span class="cue">Hover</span>
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/DeepMex1.jpg' | relative_url }}" alt="México Profundo book cover" loading="lazy">
+      <img class="alt" src="{{ '/images/DeepMex2.png' | relative_url }}" alt="Indigenous identity figure" loading="lazy">
+      <span class="cue">Hover</span>
+   </div>
+
+Image: [Fondo de Cultura Económica](https://www.fondodeculturaeconomica.com/Ficha/9786071665997/F){:target="_blank"}
+{: .credit}
+
   </div>
   <div class="paper__body" markdown="1">
 
@@ -272,17 +299,16 @@ This chapter revisits Guillermo Bonfil Batalla's 'México Profundo' (1987) throu
 *Prepared for the second volume of [Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean](https://link.springer.com/book/10.1007/978-3-031-38723-4){:target="_blank"}, edited by [Felipe Valencia Caicedo](https://sites.google.com/site/felipev84/Home){:target="_blank"}*
 {: .paper__award}
 
-Image: [Fondo de Cultura Económica](https://www.fondodeculturaeconomica.com/Ficha/9786071665997/F){:target="_blank"}
-{: .credit}
-
   </div>
 </div>
 
 <div class="sechead" id="work-in-progress"><span class="seclabel">Work in Progress</span></div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/AOLDR.png' | relative_url }}" alt="Historical segregation figure" loading="lazy">
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/AOLDR.png' | relative_url }}" alt="Historical segregation figure" loading="lazy">
+   </div>
   </div>
   <div class="paper__body" markdown="1">
 
@@ -313,8 +339,10 @@ Draft coming soon
 <div class="sechead" id="resting-papers"><span class="seclabel">Resting Papers</span></div>
 
 <div class="card paper" markdown="1">
-  <div class="fig paper__fig">
-    <img src="{{ '/images/PFRLI.png' | relative_url }}" alt="Preferences for redistribution figure" loading="lazy">
+  <div class="paper__aside" markdown="1">
+   <div class="fig paper__fig">
+      <img src="{{ '/images/PFRLI.png' | relative_url }}" alt="Preferences for redistribution figure" loading="lazy">
+   </div>
   </div>
   <div class="paper__body" markdown="1">
 
