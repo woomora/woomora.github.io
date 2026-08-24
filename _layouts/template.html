@@ -213,5 +213,20 @@
       </main>
 
     </div>
+
+    <script>
+      // Any link leaving the site opens in a new tab and does not hand the
+      // opener window to its destination. Runs over links added in Markdown
+      // too, so new entries need no target attribute of their own.
+      document.addEventListener('DOMContentLoaded', function () {
+        var here = location.host;
+        [].forEach.call(document.links, function (a) {
+          if (a.protocol !== 'http:' && a.protocol !== 'https:') return;
+          if (a.host === here) return;
+          a.target = '_blank';
+          a.rel = 'noopener';
+        });
+      });
+    </script>
   </body>
 </html>
