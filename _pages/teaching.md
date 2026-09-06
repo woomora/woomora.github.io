@@ -15,7 +15,3 @@ nav_order: 2
   - **Micro** — material [here](https://github.com/woomora/CORE-econ-micro)
   - **Macro** — material [here](https://github.com/woomora/CORE-econ-macro)
 - **Microeconomics II** — material [here](https://github.com/woomora/psl-micro-II)
-
-## [Miscellaneous teaching](https://github.com/woomora/courses)
-
-- [Skin tone penalties](https://woomora.github.io/courses/Skin-tone-penalties/skin_tone_penalties.html#1)
