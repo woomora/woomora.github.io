@@ -14,7 +14,7 @@ Soy candidato a doctor en Economía en [Paris School of Economics](https://www.p
 
 Mis áreas son la economía política, la economía del desarrollo, la economía histórica y la economía social. Estudio por qué la desigualdad económica persiste entre grupos sociales mucho después de que desaparecen las instituciones que la crearon, con atención a los marcadores que hacen visible la pertenencia a un grupo.
 
-Una línea estudia cómo la exclusión, en forma de segregación colonial, produce dos resultados distintos: sobre los lugares, un menor valor del suelo en las áreas históricamente excluidas; y sobre las personas, un radio de confianza más estrecho que compite con la acumulación de capital humano.
+Una línea estudia cómo la exclusión social, en forma de una división colonial dentro de una ciudad, deja dos legados distintos: sobre los lugares, un menor valor del suelo en las áreas históricamente excluidas; y sobre las personas, una vida social orientada hacia el barrio inmediato que puede deprimir la inversión educativa mucho después de que desaparezcan las diferencias en la provisión pública.
 
 Otra estudia cómo el tono de piel moldea las disparidades económicas, documentando brechas intergeneracionales en veinticinco países de América Latina y el Caribe, y usando variación cuasiexperimental con mediciones automatizadas para identificar discriminación.
 
