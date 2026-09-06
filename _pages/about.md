@@ -29,7 +29,7 @@ I am a PhD candidate in Economics at the [Paris School of Economics](https://www
 
 My fields are political economy, development economics, historical economics, and social economics. I study why economic inequality stays attached to social groups long after the institutions that created it disappear, focusing on the markers that make group membership visible.
 
-One strand studies how exclusion, in the form of colonial segregation, produces two distinct outcomes: on places, lower land values in historically excluded areas; and on people, a narrower radius of trust that trades off against human capital accumulation.
+One strand studies how social exclusion, in the form of a colonial divide within a city, leaves two distinct legacies: on places, lower land values in historically excluded areas; and on people, a social life oriented toward the immediate neighborhood that can depress educational investment long after differences in public provision disappear.
 
 Another studies how skin tone shapes economic disparities, documenting intergenerational gaps across twenty-five countries in Latin America and the Caribbean and using quasi-experimental variation with machine-assessed measures to identify discrimination.
 
