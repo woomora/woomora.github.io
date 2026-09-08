@@ -236,7 +236,7 @@ Do cooperative firms foster local economic development? This paper examines Mexi
 <div class="sechead" id="chapters"><span class="seclabel">Book Chapters</span></div>
 
 <div class="paper" markdown="1">
-**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6238198){:target="_blank"}**
+**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints](https://indigenousgov.hks.harvard.edu/publication/wp-26-009-new-echoes-deep-mexico-indigenous-identity-and-its-enduring-imprints){:target="_blank"}**
 {: .paper__title}
 
 *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*
