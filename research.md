@@ -260,6 +260,9 @@ This chapter revisits Guillermo Bonfil Batalla's 'México Profundo' (1987) throu
 *Prepared for the second volume of [Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean](https://link.springer.com/book/10.1007/978-3-031-38723-4){:target="_blank"}, edited by [Felipe Valencia Caicedo](https://sites.google.com/site/felipev84/Home){:target="_blank"}*
 {: .paper__award}
 
+[HKS Project on Indigenous Governance and Development, Working Paper 26-009](https://indigenousgov.hks.harvard.edu/sites/g/files/omnuum6806/files/2026-09/WP%2026-009_0.pdf){:target="_blank"}
+{: .paper__links}
+
 </div>
 
 <div class="sechead" id="work-in-progress"><span class="seclabel">Work in Progress</span></div>
