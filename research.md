@@ -6,8 +6,40 @@ order: 1
 ---
 
 <div class="card pagenav" markdown="1">
-[Publications](#publications) · [Working Papers](#working-papers) · [Book Chapters](#chapters) · [Work in Progress](#work-in-progress) · [Resting Papers](#resting-papers)
+[Job Market Paper](#job-market-paper) · [Publications](#publications) · [Working Papers](#working-papers) · [Book Chapters](#chapters) · [Work in Progress](#work-in-progress) · [Resting Papers](#resting-papers)
 {: .paper__links}
+</div>
+
+<div class="sechead" id="job-market-paper"><span class="seclabel">Job Market Paper</span></div>
+
+<div class="paper" markdown="1">
+**On the Other Side of the Creek: Historical Exclusion, Neighborhood Orientation, and Human Capital Gaps**
+{: .paper__title}
+
+<div class="fig fig--wide">
+     <img src="{{ '/images/derived/ctx/AOLDR.jpg' | relative_url }}" alt="Historical bird's-eye map, La Ciudad de Guadalajara" loading="lazy">
+</div>
+
+<details open><summary>Abstract</summary>
+<div class="abstract" markdown="1">
+Can a neighborhood's social orientation depress households' educational investment after differences in public provision disappear? I study a colonial exclusion in Guadalajara, Mexico, that divided the city across a neighborhood boundary. Centuries later, residents on the historically excluded side attain 0.8 fewer years of schooling, and their children are 3.5 percentage points less likely to attend school, although measured school supply and quality no longer differ at the boundary. Historical maps document a large asymmetry in formal educational institutions, while naming records and surveys document relational differences across the same boundary, with social life more oriented toward the immediate neighborhood on the excluded side. In a pre-registered incentivized choice experiment, making the neighborhood salient lowers tutoring demand by a fifth on the historically excluded side. Across regions worldwide and at multiple levels of aggregation, more localized social ties are associated with less schooling, especially where residential segregation is higher. Together, the results suggest that a neighborhood's social orientation can sustain an educational divide long after public provision converges, operating through an active margin of depressed educational demand.
+
+</div>
+</details>
+
+<div class="fig fig--wide">
+     <img src="{{ '/images/derived/jmp/jmp-rdd.png' | relative_url }}" alt="Years of schooling by distance to the creek and avenue, showing the discontinuity between Guadalajara and Mexicaltzingo on one side and Analco on the other" loading="lazy">
+</div>
+
+<div class="fig fig--wide fig--pair">
+     <img src="{{ '/images/derived/jmp/jmp-mpl.png' | relative_url }}" alt="Treatment effects of making the neighborhood salient on tutoring share and willingness to pay, west bank and east bank" loading="lazy">
+</div>
+
+*ACES Dissertation Research Fellowship 2026–2027*<br>
+*Economic History Association Dissertation Fellowship 2026*<br>
+*Research Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*
+{: .paper__award}
+
 </div>
 
 <div class="sechead" id="publications"><span class="seclabel">Publications</span></div>
@@ -266,17 +298,6 @@ This chapter revisits Guillermo Bonfil Batalla's 'México Profundo' (1987) throu
 </div>
 
 <div class="sechead" id="work-in-progress"><span class="seclabel">Work in Progress</span></div>
-
-<div class="paper" markdown="1">
-**On the Other Side of the Creek: Historical segregation, neighborhood social capital, and human capital accumulation**
-{: .paper__title}
-
-Draft coming soon
-{: .paper__note}
-
-<div class="fig fig--wide">
-     <img src="{{ '/images/derived/ctx/AOLDR.jpg' | relative_url }}" alt="Historical segregation figure" loading="lazy">
-</div>
 
 *ACES Dissertation Research Fellowship 2026–2027*<br>
 *Economic History Association Dissertation Fellowship 2026*<br>
