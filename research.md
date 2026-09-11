@@ -293,15 +293,6 @@ This chapter revisits Guillermo Bonfil Batalla's 'México Profundo' (1987) throu
 
 <div class="sechead" id="work-in-progress"><span class="seclabel">Work in Progress</span></div>
 
-*ACES Dissertation Research Fellowship 2026–2027*<br>
-*Economic History Association Dissertation Fellowship 2026*<br>
-*Research Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*
-{: .paper__award}
-
-</div>
-
-<div class="paper paper--plain" markdown="1">
-
 **From Indenture to Aversion: Debt Peonage and Long-Run Credit Demand**
 {: .paper__title}
 
@@ -318,10 +309,6 @@ This chapter revisits Guillermo Bonfil Batalla's 'México Profundo' (1987) throu
 
 *with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
 {: .paper__meta}
-
-<div class="fig fig--wide">
-     <img src="{{ '/images/derived/ctx/PFRLI.jpg' | relative_url }}" alt="Preferences for redistribution figure" loading="lazy">
-</div>
 
 *Citibanamex Economics Prize, First Place Undergraduate Thesis — Citibanamex 2019*
 {: .paper__award}
