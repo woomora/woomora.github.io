@@ -20,7 +20,7 @@ order: 1
      <img src="{{ '/images/derived/ctx/AOLDR.jpg' | relative_url }}" alt="Historical bird's-eye map, La Ciudad de Guadalajara" loading="lazy">
 </div>
 
-<details open><summary>Abstract</summary>
+<details><summary>Abstract</summary>
 <div class="abstract" markdown="1">
 Can a neighborhood's social orientation depress households' educational investment after differences in public provision disappear? I study a colonial exclusion in Guadalajara, Mexico, that divided the city across a neighborhood boundary. Centuries later, residents on the historically excluded side attain 0.8 fewer years of schooling, and their children are 3.5 percentage points less likely to attend school, although measured school supply and quality no longer differ at the boundary. Historical maps document a large asymmetry in formal educational institutions, while naming records and surveys document relational differences across the same boundary, with social life more oriented toward the immediate neighborhood on the excluded side. In a pre-registered incentivized choice experiment, making the neighborhood salient lowers tutoring demand by a fifth on the historically excluded side. Across regions worldwide and at multiple levels of aggregation, more localized social ties are associated with less schooling, especially where residential segregation is higher. Together, the results suggest that a neighborhood's social orientation can sustain an educational divide long after public provision converges, operating through an active margin of depressed educational demand.
 
