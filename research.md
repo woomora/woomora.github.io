@@ -16,8 +16,10 @@ order: 1
 **On the Other Side of the Creek: Historical Exclusion, Neighborhood Orientation, and Human Capital Gaps**
 {: .paper__title}
 
-<div class="fig fig--wide">
+<div class="fig fig--wide fig--cycle">
      <img src="{{ '/images/derived/ctx/AOLDR.jpg' | relative_url }}" alt="Historical bird's-eye map, La Ciudad de Guadalajara" loading="lazy">
+     <img class="alt" src="{{ '/images/derived/jmp/jmp-rdd.png' | relative_url }}" alt="Years of schooling by distance to the creek and avenue, showing the discontinuity between Guadalajara and Mexicaltzingo on one side and Analco on the other" loading="lazy">
+     <img class="alt" src="{{ '/images/derived/jmp/jmp-mpl.png' | relative_url }}" alt="Treatment effects of making the neighborhood salient on tutoring share and willingness to pay, west bank and east bank" loading="lazy">
 </div>
 
 <details><summary>Abstract</summary>
@@ -26,14 +28,6 @@ Can a neighborhood's social orientation depress households' educational investme
 
 </div>
 </details>
-
-<div class="fig fig--wide">
-     <img src="{{ '/images/derived/jmp/jmp-rdd.png' | relative_url }}" alt="Years of schooling by distance to the creek and avenue, showing the discontinuity between Guadalajara and Mexicaltzingo on one side and Analco on the other" loading="lazy">
-</div>
-
-<div class="fig fig--wide fig--pair">
-     <img src="{{ '/images/derived/jmp/jmp-mpl.png' | relative_url }}" alt="Treatment effects of making the neighborhood salient on tutoring share and willingness to pay, west bank and east bank" loading="lazy">
-</div>
 
 *ACES Dissertation Research Fellowship 2026–2027*<br>
 *Economic History Association Dissertation Fellowship 2026*<br>
