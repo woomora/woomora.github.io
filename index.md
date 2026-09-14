@@ -14,7 +14,7 @@ I am a PhD candidate in Economics at [Paris School of Economics](https://www.par
 **Primary fields:** Development Economics, Political Economy<br>
 **Secondary fields:** Economic History, Applied Economics
 
-My job market paper studies why educational inequality can persist long after the institutions that created it disappear. Using a historical divide in Guadalajara, Mexico, I show that children on the historically excluded side remain less likely to attend school nearly five centuries later, even after school provision converges across the boundary. I trace this persistence to a demand-side role for the neighborhood social environment. The paper was awarded the ACES Dissertation Research Fellowship and the Economic History Association Dissertation Fellowship.
+My job market paper studies why educational inequality can persist long after the institutions that created it disappear. Using a historical divide in Guadalajara, Mexico, I show that children on the historically excluded side remain less likely to attend school nearly five centuries later, even after school provision converges across the boundary. I trace this persistence to a demand-side role for the neighborhood social environment. The paper was awarded the [ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} and the [Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"}.
 
 I also study skin-tone and ethnic disparities; the long-run effects of colonial institutions on cities; and the political economy of populism and local development in Mexico and Latin America.
 

@@ -30,8 +30,8 @@ Can a neighborhood's social environment reduce households' educational investmen
 </div>
 </details>
 
-*ACES Dissertation Research Fellowship 2026–2027*<br>
-*Economic History Association Dissertation Fellowship 2026*<br>
+*[ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} 2026–2027*<br>
+*[Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"} 2026*<br>
 *Research Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*
 {: .paper__award}
 
