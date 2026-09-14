@@ -14,8 +14,8 @@ I am a PhD candidate in Economics at [Paris School of Economics](https://www.par
 **Primary fields:** Development Economics, Political Economy<br>
 **Secondary fields:** Economic History, Applied Economics
 
-My job market paper, *On the Other Side of the Creek*, studies Guadalajara, Mexico, where the conquered Indigenous population was resettled east of a creek at the city's founding in 1542, and shows that nearly five centuries later children on the historically excluded side are less likely to attend school, even though school supply and quality no longer differ at the boundary. Combining historical records, surveys, and an incentivized experiment in which randomly making the neighborhood salient lowers parents' demand for tutoring on that side, the paper identifies neighborhood salience as an active demand-side margin of educational investment. The paper was awarded the ACES Dissertation Research Fellowship and the Economic History Association Dissertation Fellowship.
+My job market paper studies why educational inequality can persist long after the institutions that created it disappear. Using a historical divide in Guadalajara, Mexico, I show that children on the historically excluded side remain less likely to attend school nearly five centuries later, even after school provision converges across the boundary. I trace this persistence to a demand-side role for the neighborhood social environment. The paper was awarded the ACES Dissertation Research Fellowship and the Economic History Association Dissertation Fellowship.
 
-Beyond my job market paper, I study skin tone, Indigenous identity, and discrimination; the persistent effects of colonial segregation on urban land values; the political economy of populism and public health compliance; and local development through cooperatives and property taxation in Mexico and Latin America.
+I also study skin-tone and ethnic disparities; the long-run effects of colonial institutions on cities; and the political economy of populism and local development in Mexico and Latin America.
 
 </div>
