@@ -19,6 +19,7 @@ order: 1
 <div class="fig fig--wide fig--cycle">
      <img src="{{ '/images/derived/ctx/AOLDR.jpg' | relative_url }}" alt="Historical bird's-eye map, La Ciudad de Guadalajara" loading="lazy">
      <img class="alt" src="{{ '/images/derived/jmp/jmp-rdd.png' | relative_url }}" alt="Years of schooling by distance to the creek and avenue, showing the discontinuity between Guadalajara and Mexicaltzingo on one side and Analco on the other" loading="lazy">
+     <img class="alt" src="{{ '/images/derived/jmp/jmp-attendance.png' | relative_url }}" alt="School attendance over time, 1930 to 2020: means for Guadalajara and Mexicaltzingo versus Analco, and the Analco gap estimated by OLS and RDD" loading="lazy">
      <img class="alt" src="{{ '/images/derived/jmp/jmp-mpl.png' | relative_url }}" alt="Treatment effects of making the neighborhood salient on tutoring share and willingness to pay, west bank and east bank" loading="lazy">
 </div>
 

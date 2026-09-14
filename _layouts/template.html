@@ -112,9 +112,10 @@
     .fig:hover .cue{opacity:0}
     .fig--wide{width:100%;max-width:560px;margin:14px 0 0}
     /* several figures behind one base image: on hover they take turns, each filling the frame */
-    .fig--cycle:hover .alt{opacity:0;animation:figcycle 8s ease-in-out infinite backwards}
+    .fig--cycle:hover .alt{opacity:0;animation:figcycle 12s ease-in-out infinite backwards}
     .fig--cycle:hover .alt + .alt{animation-delay:4s}
-    @keyframes figcycle{0%{opacity:0}6%{opacity:1}50%{opacity:1}56%{opacity:0}100%{opacity:0}}
+    .fig--cycle:hover .alt + .alt + .alt{animation-delay:8s}
+    @keyframes figcycle{0%{opacity:0}4%{opacity:1}33%{opacity:1}37%{opacity:0}100%{opacity:0}}
     @media (prefers-reduced-motion: reduce){
       .fig--cycle:hover .alt{animation:none;opacity:1}
       .fig--cycle:hover .alt + .alt{opacity:0}
