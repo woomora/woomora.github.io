@@ -270,11 +270,11 @@ Do cooperative firms foster local economic development? This paper examines Mexi
 {: .paper__meta}
 
 <div class="fig fig--wide">
-     <img src="{{ '/images/derived/ctx/DeepMex1.jpg' | relative_url }}" alt="México Profundo book cover" loading="lazy">
+     <img src="{{ '/images/derived/ctx/DeepMex-olmec-tesla.jpg' | relative_url }}" alt="Chavis Mármol's sculpture of an Olmec head crushing a Tesla" loading="lazy">
      <img class="alt" src="{{ '/images/derived/fig/DeepMex2.jpg' | relative_url }}" alt="Figure from the paper" loading="lazy">
 </div>
 
-Image: [Fondo de Cultura Económica](https://www.fondodeculturaeconomica.com/Ficha/9786071665997/F){:target="_blank"}
+Image: Olmec head crushing a Tesla, by Chavis Mármol. Photo: Raquel Cunha (Reuters), via [*El País*](https://elpais.com/mexico/2024-03-21/chavis-marmol-el-creador-de-la-cabeza-olmeca-aplastando-un-tesla-esta-obra-no-es-producto-de-un-chispazo.html){:target="_blank"}
 {: .credit}
 
 <details><summary>Abstract</summary>
