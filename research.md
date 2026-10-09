@@ -13,22 +13,25 @@ order: 1
 <div class="sechead" id="job-market-paper"><span class="seclabel">Job Market Paper</span></div>
 
 <div class="paper" markdown="1">
-**On the Other Side of the Creek: Historical Exclusion, Neighborhood Orientation, and Human Capital Gaps**
+**[On the Other Side of the Creek: Historical Exclusion, Neighborhood Ties, and Human Capital Gaps](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"}**
 {: .paper__title}
 
 <div class="fig fig--wide fig--cycle">
      <img src="{{ '/images/derived/ctx/AOLDR.jpg' | relative_url }}" alt="Historical bird's-eye map, La Ciudad de Guadalajara" loading="lazy">
      <img class="alt" src="{{ '/images/derived/jmp/jmp-rdd.png' | relative_url }}" alt="Years of schooling by distance to the creek and avenue, showing the discontinuity between Guadalajara and Mexicaltzingo on one side and Analco on the other" loading="lazy">
      <img class="alt" src="{{ '/images/derived/jmp/jmp-attendance.png' | relative_url }}" alt="School attendance over time, 1930 to 2020: means for Guadalajara and Mexicaltzingo versus Analco, and the Analco gap estimated by OLS and RDD" loading="lazy">
-     <img class="alt" src="{{ '/images/derived/jmp/jmp-mpl.png' | relative_url }}" alt="Treatment effects of making the neighborhood salient on tutoring share and willingness to pay, west bank and east bank" loading="lazy">
+     <img class="alt" src="{{ '/images/derived/jmp/jmp-priming.png' | relative_url }}" alt="Share of tutoring choices by side and treatment: Map-After control versus Map-First treatment on the west and east sides, with randomization-inference p-values" loading="lazy">
 </div>
 
 <details><summary>Abstract</summary>
 <div class="abstract" markdown="1">
-Can a neighborhood's social environment reduce households' educational investment? I study a historical natural experiment of neighborhood formation in Guadalajara, Mexico. At the city's founding in 1542, the conquered Indigenous population was resettled east of a creek, apart from Spaniards and their Indigenous allies on the western bank. Nearly five centuries later, children on the historically excluded side are 3.5 percentage points less likely to attend school, although measured school supply and quality no longer differ at the boundary. Historical records show that educational institutions were concentrated on the western bank, while naming records and present-day surveys show a stronger orientation toward the immediate neighborhood on the historically excluded side. A simple framework predicts that when educational investment trades off with locally valuable social relations or local schooling norms, making the neighborhood salient should reduce educational demand. I test this prediction in an incentivized experiment in which parents choose between mathematics tutoring for their child and a gift card. Randomly making the neighborhood salient before this choice reduces tutoring demand by about one fifth on the historically excluded side. The results show that educational differences can persist after public provision converges and identify neighborhood salience as an active demand-side margin.
+The neighborhood ties that help households cope with historical exclusion may also raise the opportunity cost of investing in their children's education. I study this possibility in Guadalajara, Mexico, where colonial authorities settled the conquered east of a creek and the conquerors and their Indigenous allies to the west, under common municipal institutions and similar geographic conditions. Using census microdata from 1930 to 2020 and a boundary discontinuity design, I document an educational gap that has narrowed but not closed. Since 2000, school attendance has remained 3–6 percentage points lower on the historically excluded side, despite comparable school supply and quality. The gap persists among children with similarly educated parents and is concentrated in adolescence, around the transition to high school. In a pre-registered incentivized experiment, parents choose between tutoring for their children and gift cards of increasing value. Randomly asking them to draw their neighborhood beforehand reduces the share of tutoring choices by 12 percentage points (21 percent) and willingness to pay by MXN 75 (42 percent) on the excluded side, with a significantly different response across the boundary. East-side parents report similar educational aspirations and perceived returns but rely more on neighbors. Naming patterns from 1821 suggest a stronger orientation toward the local parish on the excluded side. Historical exclusion may persist not only through the resources it denied, but through the social relationships that continue to shape educational investment.
 
 </div>
 </details>
+
+[pdf](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"}
+{: .paper__links}
 
 *[ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} 2026–2027*<br>
 *[Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"} 2026*<br>
