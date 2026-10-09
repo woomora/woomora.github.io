@@ -317,7 +317,7 @@ Why do households avoid formal credit as access expands? Under debt peonage, bor
 **Freed from the *Metate*: Technological Change and the Convergence of Gender and Ethnic Gaps**
 {: .paper__title}
 
-*with [Anna Barbeta-Margarit](https://sites.google.com/view/anna-barbeta-margarit){:target="_blank"}, [Aurora Gómez Galvarriato](https://ceh.colmex.mx/personal-academico/gomez-galvarriato-aurora/semblanza){:target="_blank"}, and [María José González-Fuentes](https://mariajosegonzalezfuentes.github.io/){:target="_blank"}*
+*with [Anna Barbeta-Margarit](https://sites.google.com/view/anna-barbeta-margarit){:target="_blank"}, [Aurora Gómez Galvarriato](https://ceh.colmex.mx/personal-academico/gomez-galvarriato-aurora){:target="_blank"}, and [María José González-Fuentes](https://mariajosegonzalezfuentes.github.io/){:target="_blank"}*
 {: .paper__meta}
 
 <details><summary>Abstract</summary>
