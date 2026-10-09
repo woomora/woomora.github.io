@@ -11,7 +11,9 @@ I am a PhD candidate in Economics at [Paris School of Economics](https://www.par
 
 **I am on the 2026–27 economics job market.**
 
-My [job market paper](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"} studies why educational gaps left by historical exclusion can outlast both the rules that imposed it and the convergence of schools. In Guadalajara, Mexico, children on the side of a colonial divide where the conquered were settled are still less likely to attend school, and asking parents to draw their own neighborhood lowers their demand for tutoring only on that side. The ties that help families cope with exclusion can also raise the opportunity cost of investing in their children's education. The paper was awarded the [ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} and the [Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"}.
+My [job market paper](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"} studies why educational gaps left by historical exclusion can outlast both the rules that imposed it and the convergence of schools. In Guadalajara, Mexico, children on the side of a colonial divide where the conquered were settled are still less likely to attend school, and asking parents to draw their own neighborhood lowers their demand for tutoring only on that side. The ties that help families cope with exclusion can also raise the opportunity cost of investing in their children's education.
+
+The paper was awarded the [ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} and the [Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"}.
 
 I also study skin-tone and ethnic disparities; the long-run effects of colonial institutions on cities; and the political economy of populism and local development in Mexico and Latin America.
 
