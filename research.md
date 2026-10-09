@@ -297,11 +297,19 @@ This chapter revisits Guillermo Bonfil Batalla's 'México Profundo' (1987) throu
 
 <div class="sechead" id="work-in-progress"><span class="seclabel">Work in Progress</span></div>
 
+<div class="paper" markdown="1">
 **From Indenture to Aversion: Debt Peonage and Long-Run Credit Demand**
 {: .paper__title}
 
 *with [Alex Rivadeneira](https://alexrivadeneira.com/){:target="_blank"}*
 {: .paper__meta}
+
+<details><summary>Abstract</summary>
+<div class="abstract" markdown="1">
+Why do households avoid formal credit as access expands? Under debt peonage, borrowing was an instrument of labor control: unpayable debts tied workers, and their children, to the estate. We digitize two directories of Mexican haciendas, match them to historical localities, and measure each municipality's exposure around 1900. Linking this to confidential survey microdata, we find that higher historical exposure predicts lower use of formal credit, but not of informal borrowing from family, friends, or pawnshops. The gap follows people who migrate away, suggesting that coercive credit relationships can leave a lasting aversion to borrowing from institutions.
+
+</div>
+</details>
 
 </div>
 
