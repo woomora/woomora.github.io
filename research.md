@@ -313,6 +313,22 @@ Why do households avoid formal credit as access expands? Under debt peonage, bor
 
 </div>
 
+<div class="paper" markdown="1">
+**Freed from the *Metate*: Technological Change and the Convergence of Gender and Ethnic Gaps**
+{: .paper__title}
+
+*with [Anna Barbeta-Margarit](https://sites.google.com/view/anna-barbeta-margarit){:target="_blank"}, [Aurora Gómez Galvarriato](https://ceh.colmex.mx/personal-academico/gomez-galvarriato-aurora/semblanza){:target="_blank"}, and [María José González-Fuentes](https://mariajosegonzalezfuentes.github.io/){:target="_blank"}*
+{: .paper__meta}
+
+<details><summary>Abstract</summary>
+<div class="abstract" markdown="1">
+Do labor-saving technologies narrow inequality among women as well as between women and men? In rural Mexico, mechanized mills replaced grinding maize by hand on a metate, most of the labor behind a tortilla, and worked as a paid local service rather than a household purchase. Combining censuses from 1970 to 2000 with rural electrification, we find that community electrification is associated with larger gains in women's labor force participation in Indigenous households, while household connections favor non-Indigenous women. Who gains from a technology may depend on how households reach it, not only on the task it replaces.
+
+</div>
+</details>
+
+</div>
+
 <div class="sechead" id="resting-papers"><span class="seclabel">Resting Papers</span></div>
 
 <div class="paper" markdown="1">
