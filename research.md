@@ -13,7 +13,7 @@ order: 1
 <div class="sechead" id="job-market-paper"><span class="seclabel">Job Market Paper</span></div>
 
 <div class="paper" markdown="1">
-**[On the Other Side of the Creek: Historical Exclusion, Neighborhood Ties, and Human Capital Gaps](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"}**
+**[On the Other Side of the Creek:<br><span class="paper__sub">Historical Exclusion, Neighborhood Ties, and Human Capital Gaps</span>](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"}**
 {: .paper__title}
 
 <div class="fig fig--wide fig--cycle">
@@ -43,7 +43,7 @@ The neighborhood ties that help households cope with historical exclusion may al
 <div class="sechead" id="publications"><span class="seclabel">Publications</span></div>
 
 <div class="paper" markdown="1">
-**[Unveiling the Cosmic Race: Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean](https://doi.org/10.1016/j.jdeveco.2025.103594){:target="_blank"}**
+**[Unveiling the Cosmic Race:<br><span class="paper__sub">Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean</span>](https://doi.org/10.1016/j.jdeveco.2025.103594){:target="_blank"}**
 {: .paper__title}
 
 *Journal of Development Economics, February 2026, Volume 179, 103594.*
@@ -73,7 +73,7 @@ Media: [VoxDev](https://voxdev.org/topic/institutions-political-economy/how-skin
 </div>
 
 <div class="paper" markdown="1">
-**[Populism's original sin: Short-term populist penalties and uncertainty traps](https://www.sciencedirect.com/science/article/pii/S0014292124002460?via%3Dihub){:target="_blank"}**
+**[Populism's original sin:<br><span class="paper__sub">Short-term populist penalties and uncertainty traps</span>](https://www.sciencedirect.com/science/article/pii/S0014292124002460?via%3Dihub){:target="_blank"}**
 {: .paper__title}
 
 *European Economic Review, February 2025, Volume 172, 104917.*
@@ -106,7 +106,7 @@ Media: [VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-
 </div>
 
 <div class="paper" markdown="1">
-**[Infrastructures of race? Colonial indigenous segregation and contemporary land values](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}**
+**[Infrastructures of race?<br><span class="paper__sub">Colonial indigenous segregation and contemporary land values</span>](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}**
 {: .paper__title}
 
 *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"} · Regional Science and Urban Economics, January 2025, Volume 110, 104065.*
@@ -142,7 +142,7 @@ Media: [VoxDev](https://voxdev.org/topic/institutions-political-economy/how-colo
 <div class="sechead" id="working-papers"><span class="seclabel">Working Papers</span></div>
 
 <div class="paper" markdown="1">
-**[Moral Force, Contagious Force: Partisanship, Leadership, and Public Health Compliance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**
+**[Moral Force, Contagious Force:<br><span class="paper__sub">Partisanship, Leadership, and Public Health Compliance</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}**
 {: .paper__title}
 
 *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and Federico Daverio*
@@ -172,7 +172,7 @@ Does partisan behavior during crises reflect fixed dispositions or malleable res
 </div>
 
 <div class="paper" markdown="1">
-**[Skin Tone Penalties: Quasi-Experimental Evidence on Colorism in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612){:target="_blank"}**
+**[Skin Tone Penalties:<br><span class="paper__sub">Quasi-Experimental Evidence on Colorism in Football</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612){:target="_blank"}**
 {: .paper__title}
 
 *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}*
@@ -205,7 +205,7 @@ Media: [WIL Press release](https://wid.world/news-article/skin-tone-penalties-qu
 </div>
 
 <div class="paper" markdown="1">
-**[Embracing modernity pays: Cadastre modernization effects on local property tax collection](https://scioteca.caf.com/handle/123456789/2301?locale-attribute=en){:target="_blank"}**
+**[Embracing modernity pays:<br><span class="paper__sub">Cadastre modernization effects on local property tax collection</span>](https://scioteca.caf.com/handle/123456789/2301?locale-attribute=en){:target="_blank"}**
 {: .paper__title}
 
 *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and [Emmanuel Chávez](https://emmanuelchavez.weebly.com/){:target="_blank"}*
@@ -233,7 +233,7 @@ This paper investigates the impact of the Mexican cadastre modernization program
 </div>
 
 <div class="paper" markdown="1">
-**[Lifting Each Other Up: How Cooperative Firms Foster Local Development](https://scioteca.caf.com/handle/123456789/2535){:target="_blank"}**
+**[Lifting Each Other Up:<br><span class="paper__sub">How Cooperative Firms Foster Local Development</span>](https://scioteca.caf.com/handle/123456789/2535){:target="_blank"}**
 {: .paper__title}
 
 *with Guillermo Woo-Gómez*
@@ -266,7 +266,7 @@ Do cooperative firms foster local economic development? This paper examines Mexi
 <div class="sechead" id="chapters"><span class="seclabel">Book Chapters</span></div>
 
 <div class="paper" markdown="1">
-**[New Echoes of Deep Mexico? Indigenous Identity and Its Enduring Imprints](https://indigenousgov.hks.harvard.edu/publication/wp-26-009-new-echoes-deep-mexico-indigenous-identity-and-its-enduring-imprints){:target="_blank"}**
+**[New Echoes of Deep Mexico?<br><span class="paper__sub">Indigenous Identity and Its Enduring Imprints</span>](https://indigenousgov.hks.harvard.edu/publication/wp-26-009-new-echoes-deep-mexico-indigenous-identity-and-its-enduring-imprints){:target="_blank"}**
 {: .paper__title}
 
 *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*
@@ -298,7 +298,7 @@ This chapter revisits Guillermo Bonfil Batalla's 'México Profundo' (1987) throu
 <div class="sechead" id="work-in-progress"><span class="seclabel">Work in Progress</span></div>
 
 <div class="paper" markdown="1">
-**From Indenture to Aversion: Debt Peonage and Long-Run Credit Demand**
+**From Indenture to Aversion:<br><span class="paper__sub">Debt Peonage and Long-Run Credit Demand</span>**
 {: .paper__title}
 
 *with [Alex Rivadeneira](https://alexrivadeneira.com/){:target="_blank"}*
@@ -314,7 +314,7 @@ Why do households avoid formal credit as access expands? Under debt peonage, bor
 </div>
 
 <div class="paper" markdown="1">
-**Freed from the *Metate*: Technological Change and the Convergence of Gender and Ethnic Gaps**
+**Freed from the *Metate*:<br><span class="paper__sub">Technological Change and the Convergence of Gender and Ethnic Gaps</span>**
 {: .paper__title}
 
 *with [Anna Barbeta-Margarit](https://sites.google.com/view/anna-barbeta-margarit){:target="_blank"}, [Aurora Gómez Galvarriato](https://ceh.colmex.mx/personal-academico/gomez-galvarriato-aurora){:target="_blank"}, and [María José González-Fuentes](https://mariajosegonzalezfuentes.github.io/){:target="_blank"}*
@@ -332,7 +332,7 @@ Do labor-saving technologies narrow inequality among women as well as between wo
 <div class="sechead" id="resting-papers"><span class="seclabel">Resting Papers</span></div>
 
 <div class="paper" markdown="1">
-**Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico**
+**Preferences for Redistribution in the Land of Inequalities:<br><span class="paper__sub">Experimental and Observational Evidence from Mexico</span>**
 {: .paper__title}
 
 *with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
