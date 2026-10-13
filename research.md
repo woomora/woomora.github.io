@@ -131,7 +131,7 @@ We investigate the persistent impact of a colonial segregation policy on land va
 *Arthur H. Cole Grant — Economic History Association*
 {: .paper__award}
 
-[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"} · [Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"} · [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}
+[Pueblos de Indios in CDMX](https://claude.ai/artifact/16ZhkcKTaGDvLeCRCkLBwL){:target="_blank"} · [Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"} · [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}
 {: .paper__links}
 
 Media: [VoxDev](https://voxdev.org/topic/institutions-political-economy/how-colonial-segregation-policies-impact-land-values-mexico){:target="_blank"} (en) · [Broadstreet](https://www.broadstreet.blog/p/infrastructures-of-race-colonial){:target="_blank"} (en)
