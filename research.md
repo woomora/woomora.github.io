@@ -64,7 +64,7 @@ This paper examines how skin tone shapes intergenerational economic disparities 
 </div>
 </details>
 
-[App: Skin tone plots](https://billywoom.shinyapps.io/UnveilingTheCosmicRaceApp/){:target="_blank"} · [LM Podcast (EN)](https://on.soundcloud.com/QbSr3iwl3tBAFAkUa8){:target="_blank"} · [LM Podcast (ES)](https://on.soundcloud.com/Oc5c6wjT8knTOX6DDW){:target="_blank"} · [Replication](https://github.com/woomora/UCR_replication){:target="_blank"} · [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}
+[App: Skin tone plots](https://claude.ai/artifact/2G1WqbRiEN291qXhinx52u){:target="_blank"} · [LM Podcast (EN)](https://on.soundcloud.com/QbSr3iwl3tBAFAkUa8){:target="_blank"} · [LM Podcast (ES)](https://on.soundcloud.com/Oc5c6wjT8knTOX6DDW){:target="_blank"} · [Replication](https://github.com/woomora/UCR_replication){:target="_blank"} · [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}
 {: .paper__links}
 
 Media: [VoxDev](https://voxdev.org/topic/institutions-political-economy/how-skin-tone-still-shapes-inequality-latin-america-and){:target="_blank"} (en) · [WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"} (en) · [BÚSQUEDA](https://www.busqueda.com.uy/economia/nuestro-racismo-economico-n5404957){:target="_blank"} (es) · [Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"} (es)
