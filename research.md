@@ -97,7 +97,7 @@ This paper investigates the immediate economic impacts of populist policies. In 
 *Premio Manuel Espinosa Yglesias, First place — Centro de Estudios Espinosa Yglesias (CEEY) 2022*
 {: .paper__award}
 
-[App: Updated GDP Estimates](https://billywoom.shinyapps.io/PopulismOriginalSinApp/){:target="_blank"} · [Replication](https://github.com/woomora/POS_replication){:target="_blank"} · [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}
+[App: Updated GDP Estimates](https://claude.ai/artifact/Fn6te6kyk8mCrQtCFgQwjt){:target="_blank"} · [Replication](https://github.com/woomora/POS_replication){:target="_blank"} · [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}
 {: .paper__links}
 
 Media: [VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-economic-consequences-populist-policy){:target="_blank"} (en) · [Nexos](https://redaccion.nexos.com.mx/el-pecado-original-a-seis-anos-de-la-cancelacion-del-naim/){:target="_blank"} (es) · [El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"} (es) · [Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"} (es) · [Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"} (es). Featured in [*Texcoco. La decisión del presidente*](https://youtu.be/LgkPqHmvMtQ?si=3ki4Zi8TJlghkQBv){:target="_blank"} by CEEY and [*Suerte o desastre*](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/340427-ebook-suerte-o-desastre-9786073839914){:target="_blank"} by Isabella Cota
