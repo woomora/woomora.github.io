@@ -33,9 +33,8 @@ The neighborhood ties that help households cope with historical exclusion may al
 [pdf](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"}
 {: .paper__links}
 
-*[ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} 2026–2027*<br>
-*[Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"} 2026*<br>
-*Research Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*
+*Awards: [ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} 2026–2027 · [Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"} 2026*<br>
+*Grants: UNU-WIDER 2024–2025 · CEPREMAP 2025 · PSE Stone Center 2025*
 {: .paper__award}
 
 </div>
@@ -94,7 +93,7 @@ This paper investigates the immediate economic impacts of populist policies. In 
 </div>
 </details>
 
-*Premio Manuel Espinosa Yglesias, First place — Centro de Estudios Espinosa Yglesias (CEEY) 2022*
+*Awards: Premio Manuel Espinosa Yglesias, First Place — Centro de Estudios Espinosa Yglesias (CEEY) 2022*
 {: .paper__award}
 
 [App: Updated GDP Estimates](https://claude.ai/artifact/Fn6te6kyk8mCrQtCFgQwjt){:target="_blank"} · [Replication](https://github.com/woomora/POS_replication){:target="_blank"} · [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}
@@ -127,8 +126,8 @@ We investigate the persistent impact of a colonial segregation policy on land va
 </div>
 </details>
 
-*Sir Alec Cairncross Prize, Runner Up — Scottish Econometric Society 2022*<br>
-*Arthur H. Cole Grant — Economic History Association*
+*Awards: Sir Alec Cairncross Prize, Runner-Up — Scottish Economic Society 2022*<br>
+*Grants: Arthur H. Cole Grant in Aid — Economic History Association 2021*
 {: .paper__award}
 
 [Pueblos de Indios in CDMX](https://claude.ai/artifact/16ZhkcKTaGDvLeCRCkLBwL){:target="_blank"} · [Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"} · [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}
@@ -166,7 +165,7 @@ Does partisan behavior during crises reflect fixed dispositions or malleable res
 </div>
 </details>
 
-*Premio Banamex de Economía 2024, Honorable mention*
+*Awards: Premio Banamex de Economía, Honorable Mention 2024*
 {: .paper__award}
 
 </div>
@@ -196,7 +195,7 @@ We provide causal evidence of skin tone discrimination using professional footba
 </div>
 </details>
 
-*BeNA Innovative Research Award 2026*
+*Awards: BeNA Innovative Research Award — Berlin Network of Labor Market Research 2026*
 {: .paper__award}
 
 Media: [WIL Press release](https://wid.world/news-article/skin-tone-penalties-quasi-experimental-evidence-on-colorism-in-football/){:target="_blank"} (en)
@@ -226,8 +225,8 @@ This paper investigates the impact of the Mexican cadastre modernization program
 </div>
 </details>
 
-*Premio Víctor L. Urquidi 2024, Honorable mention — El Colegio de México*<br>
-*Research Grant: Descentralización y Capacidades Subnacionales en América Latina y el Caribe — CAF*
+*Awards: Premio Víctor L. Urquidi, Honorable Mention — El Colegio de México 2024*<br>
+*Grants: Descentralización y Capacidades Subnacionales en América Latina y el Caribe — CAF 2023–2024*
 {: .paper__award}
 
 </div>
@@ -257,8 +256,8 @@ Do cooperative firms foster local economic development? This paper examines Mexi
 </div>
 </details>
 
-*Premio Víctor L. Urquidi 2025, First Place — El Colegio de México*<br>
-*Research Grant: The Rural World in Latin America and the Caribbean — CAF*
+*Awards: Premio Víctor L. Urquidi, First Place — El Colegio de México 2025*<br>
+*Grants: The Rural World in Latin America and the Caribbean — CAF 2024–2025*
 {: .paper__award}
 
 </div>
@@ -338,7 +337,7 @@ Do labor-saving technologies narrow inequality among women as well as between wo
 *with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
 {: .paper__meta}
 
-*Citibanamex Economics Prize, First Place Undergraduate Thesis — Citibanamex 2019*
+*Awards: Citibanamex Economics Prize, First Place Undergraduate Thesis 2019*
 {: .paper__award}
 
 </div>
