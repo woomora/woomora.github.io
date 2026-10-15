@@ -334,7 +334,7 @@ Do labor-saving technologies narrow inequality among women as well as between wo
 **Preferences for Redistribution in the Land of Inequalities:<br><span class="paper__sub">Experimental and Observational Evidence from Mexico</span>**
 {: .paper__title}
 
-*with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
+*with [Eva O. Arceo-Gómez](https://eva-arceo.github.io/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
 {: .paper__meta}
 
 *Awards: Citibanamex Economics Prize, First Place Undergraduate Thesis 2019*
