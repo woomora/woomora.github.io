@@ -24,14 +24,29 @@ def fetch(url):
         return response.read()
 
 
-def abstract_of(pdf):
-    from pdfminer.high_level import extract_text
-    from pdfminer.layout import LAParams
+def page_one(pdf):
+    """Page one as text, its lines in the order they are printed.
+
+    Lines are read off the page and sorted by position rather than grouped into
+    blocks: block grouping can interleave the abstract with the lines around it,
+    which reads as prose and would pass every check below.
+    """
+    from pdfminer.high_level import extract_pages
+    from pdfminer.layout import LAParams, LTTextContainer, LTTextLine
 
     # word_margin 0.1 keeps the spaces that justified lines would otherwise lose
-    text = extract_text(io.BytesIO(pdf), page_numbers=[0],
-                        laparams=LAParams(word_margin=0.1, char_margin=2.0, line_margin=0.5))
-    found = re.search(r"\bAbstract\b(.*?)\bKeywords\b", text, re.S)
+    params = LAParams(word_margin=0.1, char_margin=1.5, line_margin=0.3, boxes_flow=None)
+    lines = []
+    for element in next(extract_pages(io.BytesIO(pdf), page_numbers=[0], laparams=params)):
+        if isinstance(element, LTTextContainer):
+            for line in element:
+                if isinstance(line, LTTextLine) and line.get_text().strip():
+                    lines.append((round(-line.y1, 1), round(line.x0, 1), line.get_text().strip()))
+    return "\n".join(text for _, _, text in sorted(lines))
+
+
+def abstract_of(pdf):
+    found = re.search(r"\bAbstract\b(.*?)\bKeywords\b", page_one(pdf), re.S)
     if not found:
         sys.exit("No abstract found between 'Abstract' and 'Keywords' on page one.")
     return " ".join(found.group(1).split())
