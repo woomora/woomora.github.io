@@ -19,7 +19,7 @@ order: 1
 <div class="fig fig--wide fig--cycle">
      <img src="{{ '/images/derived/ctx/AOLDR.jpg' | relative_url }}" alt="Historical bird's-eye map, La Ciudad de Guadalajara" loading="lazy">
      <img class="alt" src="{{ '/images/derived/jmp/jmp-rdd.png' | relative_url }}" alt="Years of schooling by distance to the creek and avenue, showing the discontinuity between Guadalajara and Mexicaltzingo on one side and Analco on the other" loading="lazy">
-     <img class="alt" src="{{ '/images/derived/jmp/jmp-attendance.png' | relative_url }}" alt="School attendance over time, 1930 to 2020: means for Guadalajara and Mexicaltzingo versus Analco, and the Analco gap estimated by OLS and RDD" loading="lazy">
+     <img class="alt" src="{{ '/images/derived/jmp/jmp-attendance.png' | relative_url }}" alt="School attendance over time, 1930 to 2020: means for the west and east sides, and the east-west gap estimated by OLS and RDD" loading="lazy">
      <img class="alt" src="{{ '/images/derived/jmp/jmp-priming.png' | relative_url }}" alt="Share of tutoring choices by side and treatment: Map-After control versus Map-First treatment on the west and east sides, with randomization-inference p-values" loading="lazy">
 </div>
 
