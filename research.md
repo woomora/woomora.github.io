@@ -330,6 +330,15 @@ Do labor-saving technologies narrow inequality among women as well as between wo
 
 </div>
 
+<div class="paper" markdown="1">
+**The Price of Distinction**
+{: .paper__title}
+
+*with [Daniel Sánchez Ordoñez](https://daniel-sanchez-ordonez.github.io/){:target="_blank"}*
+{: .paper__meta}
+
+</div>
+
 <div class="sechead" id="resting-papers"><span class="seclabel">Resting Papers</span></div>
 
 <div class="paper" markdown="1">
