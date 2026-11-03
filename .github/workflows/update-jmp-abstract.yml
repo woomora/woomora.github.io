@@ -19,6 +19,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install "pdfminer.six==20250506"
+      # a word list, so the script can tell a hyphenated compound from a word split at a line end
+      - run: sudo apt-get install -y -qq wamerican
       - run: python scripts/update_jmp_abstract.py
       - name: Commit the abstract if it changed
         run: |

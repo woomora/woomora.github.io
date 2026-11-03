@@ -45,11 +45,43 @@ def page_one(pdf):
     return "\n".join(text for _, _, text in sorted(lines))
 
 
+def word_list():
+    try:
+        with open("/usr/share/dict/words", encoding="utf-8", errors="ignore") as f:
+            return {w.strip().lower() for w in f if w.strip()}
+    except OSError:
+        return None
+
+
+def joined(text):
+    """The lines as one paragraph, undoing the hyphens LaTeX adds at line ends.
+
+    A break inside a compound ("east-" / "side") keeps its hyphen; a break
+    inside a word ("oppor-" / "tunity") loses it. Telling them apart takes a
+    word list: when the halves joined make a word, the hyphen was LaTeX's;
+    when instead both halves are words, it belongs to the text. Without a
+    word list every hyphen is kept, which never runs words together.
+    """
+    words = word_list()
+
+    def is_word(w):
+        w = w.lower()
+        return any(w[:len(w) - len(end)] in words for end in ("", "s", "es", "ed", "ing") if w.endswith(end))
+
+    def unbreak(m):
+        left, right = m.group(1), m.group(2)
+        if words is None or (not is_word(left + right) and is_word(left) and is_word(right)):
+            return left + "-" + right
+        return left + right
+
+    return " ".join(re.sub(r"(\w+)-\s*\n\s*(\w+)", unbreak, text).split())
+
+
 def abstract_of(pdf):
     found = re.search(r"\bAbstract\b(.*?)\bKeywords\b", page_one(pdf), re.S)
     if not found:
         sys.exit("No abstract found between 'Abstract' and 'Keywords' on page one.")
-    return " ".join(found.group(1).split())
+    return joined(found.group(1))
 
 
 def checked(abstract):
@@ -64,6 +96,8 @@ def checked(abstract):
         problems.append("does not end with a full stop")
     if len(longest) > 30:
         problems.append("words ran together: %s" % longest[:40])
+    if re.search(r"\w- \w", abstract):
+        problems.append("a line-end hyphen was left before a space")
     if problems:
         sys.exit("The abstract read from the paper looks wrong (%s). research.md left untouched."
                  % "; ".join(problems))
