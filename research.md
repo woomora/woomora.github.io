@@ -32,7 +32,7 @@ Can human capital gaps persist even after historically excluded communities gain
 </div>
 </details>
 
-[pdf](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"}
+[Video (5 min)](https://woomora.github.io/video/){:target="_blank"} · [pdf](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"}
 {: .paper__links}
 
 *Awards: [ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} 2026–2027 · [Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"} 2026*<br>

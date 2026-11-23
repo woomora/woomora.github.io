@@ -11,7 +11,7 @@ I am a PhD candidate in Economics at [Paris School of Economics](https://www.par
 
 **I am on the 2026–27 economics job market.**
 
-My [job market paper](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"} studies why the educational gaps left by historical exclusion outlast the conditions that created them. Along a colonial boundary within one Mexican city, I show that the neighborhood ties that help excluded families cope also raise the cost of educating their children.
+My [job market paper](https://woomora.github.io/JMP/WOO-MORA-JMP.pdf){:target="_blank"} ([five-minute video](https://woomora.github.io/video/){:target="_blank"}) studies why the educational gaps left by historical exclusion outlast the conditions that created them. Along a colonial boundary within one Mexican city, I show that the neighborhood ties that help excluded families cope also raise the cost of educating their children.
 
 The paper was awarded the [ACES Dissertation Research Fellowship](https://www.acesecon.org/aces-dissertation-fellowship){:target="_blank"} and the [Economic History Association Dissertation Fellowship](https://eh.net/grants-fellowships/){:target="_blank"}.
 
