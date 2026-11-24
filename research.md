@@ -23,6 +23,9 @@ order: 1
      <img class="alt" src="{{ '/images/derived/jmp/jmp-priming.png' | relative_url }}" alt="Share of tutoring choices by side and treatment: Map-After control versus Map-First treatment on the west and east sides, with randomization-inference p-values" loading="lazy">
 </div>
 
+Image: Archivo Histórico del Estado de Jalisco: *La Ciudad de Guadalajara*, map PL-7.3, circa 1900
+{: .credit}
+
 <details><summary>Abstract</summary>
 <div class="abstract" markdown="1">
 <!-- jmp-abstract:start -->
